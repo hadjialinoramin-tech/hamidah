@@ -8401,5 +8401,1156 @@ export const quizData = {
       correct: "Vitamin C",
       options: ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"]
     }
+  ],
+  Element1: [
+    
+  {
+    question: "Is the most common dryer used which consist of rotating cylinder inside which the materials flow while getting in contact with hot gas.",
+    correct: "Rotary dryer",
+    options: ["Tower dryer", "Centrifugal dryer", "Tray dryer", "Rotary dryer"]
+  },
+  {
+    question: "The total heat of the air is a function of",
+    correct: "WB temperature",
+    options: ["WB temperature", "DP temperature", "DB temperature", "WB depression"]
+  },
+  {
+    question: "Is the ratio of the mass of water-vapor in air and the mass of air if it is saturated is called:",
+    correct: "Relative humidity",
+    options: ["humidity ratio", "mass ratio", "vapor ratio", "Relative humidity"]
+  },
+  {
+    question: "The hands feel painfully cold when the skin temperature reaches",
+    correct: "10 deg C",
+    options: ["8 deg C", "10 deg C", "12 deg C", "14 deg C"]
+  },
+  {
+    question: "The refrigerant used in steam jet cooling is:",
+    correct: "Water",
+    options: ["Steam", "R-11", "Ammonia", "Water"]
+  },
+  {
+    question: "The total heat of the air is a function of",
+    correct: "WB temperature",
+    options: ["WB temperature", "DP temperature", "DB temperature", "WB depression"]
+  },
+  {
+    question: "Boiling point of Freon-12 at atmospheric pressure is:",
+    correct: "-28 of",
+    options: ["-21 of", "-15 of", "-5 of", "-28 of"]
+  },
+  {
+    question: "Which of the following is NOT a type of water cooled condenser in refrigeration?",
+    correct: "Shell and coil",
+    options: ["Double pipe", "Double shell", "Shell and coil", "Shell and tube"]
+  },
+  {
+    question: "Component of absorption refrigeration system in which the solution is cooled by cooling water.",
+    correct: "Generator",
+    options: ["Rectifier", "Generator", "Evaporator", "Absorber"]
+  },
+  {
+    question: "Cascade refrigeration cycle is often used in industrial process where objects must be cooled to temperature below:",
+    correct: "-46 oC",
+    options: ["-46 oC", "-56 oC", "-66 oC", "-76 oC"]
+  },
+  {
+    question: "Type of refrigerant control designed to maintain pressure difference while the compressor is operating.",
+    correct: "Using low side float flooded system",
+    options: ["Thermostatic expansion valve", "Automatic expansion valve", "Using low side float flooded system", "Capillary tube"]
+  },
+  {
+    question: "As a rule of thumb, for a specified amount compressed air, the power consumption of the compressor decreases by ______ for each 3oC drop in the temperature inlet air to the compressor.",
+    correct: "2 percent",
+    options: ["1 percent", "1.5 percent", "2 percent", "2.5 percent"]
+  },
+  {
+    question: "Modern way of detecting air compressor leak is by using",
+    correct: "Acoustic leak detector",
+    options: ["Soup and water", "Air leak detector", "Acoustic leak detector", "Ammonia leak detector"]
+  },
+  {
+    question: "For foundation of stacks, the maximum pressure on the soil is equal to the pressure due to the weight and the ______.",
+    correct: "Ground movement",
+    options: ["Soil movement", "Wind movement", "Ground movement", "Engine movement"]
+  },
+  {
+    question: "Foundation bolts of specified size should be used and surrounded by a pipe sleeve with an inside diameter of at least",
+    correct: "3 times the diameter of anchor bolt",
+    options: [
+      "3 times the diameter of engine bolt",
+      "3 times the diameter of anchor bolt",
+      "2 times the diameter of engine bolt",
+      "2 times the diameter of anchor bolt"
+    ]
+  },
+  {
+    question: "For multi stage compression of an ideal Brayton cycle, the back work ratio will",
+    correct: "decrease",
+    options: ["increase", "decrease", "remains the same", "none of these"]
+  },
+  {
+    question: "Type of turbine that has a specific speed below 5.",
+    correct: "Impulse turbine",
+    options: ["Impulse turbine", "Propeller turbine", "Francis turbine", "Deriaz turbine"]
+  },
+  {
+    question: "A high discharge type of turbine",
+    correct: "Propeller turbine",
+    options: ["Impulse turbine", "Francis turbine", "Propeller turbine", "Deriaz turbine"]
+  },
+  {
+    question: "Use to minimize the speed rise due to a sudden load rejection",
+    correct: "jet deflector",
+    options: ["needle valve", "wicket gate", "shut-off valve", "jet deflector"]
+  },
+  {
+    question: "Is the speed of a turbine when the head on the turbine is one meter.",
+    correct: "unit speed",
+    options: ["specific speed", "rated speed", "utilized speed", "unit speed"]
+  },
+  {
+    question: "Is a fluid property which refers to the intermolecular attraction by which the separate particles of the fluid are held together.",
+    correct: "Cohesion",
+    options: ["Cohesion", "Adhesion", "Surface tension", "hyperstension"]
+  },
+  {
+    question: "Which of the following is NOT the cause of black smoke in diesel engine?",
+    correct: "high compression pressure",
+    options: ["fuel valve open too long", "high compression pressure", "carbon on exhaust pipe", "overload on engine"]
+  },
+  {
+    question: "Which of the following is not a method of starting diesel engine?",
+    correct: "Electric (battery)",
+    options: ["Manual: rope, crank and kick", "Electric (battery)", "Compressed air", "Using another generator"]
+  },
+  {
+    question: "Two-stroke engine performs _____ to complete one cycle.",
+    correct: "suction and exhaust stroke",
+    options: [
+      "suction and discharge stroke",
+      "power and exhaust stroke",
+      "compression and power stroke",
+      "suction and exhaust stroke"
+    ]
+  },
+  {
+    question: "A type of geothermal plant used when there is a presence of brine extracted from underground",
+    correct: "Binary geothermal plant",
+    options: [
+      "Dry geothermal plant",
+      "Double-flash geothermal plant",
+      "Single flash geothermal plant",
+      "Binary geothermal plant"
+    ]
+  },
+  {
+    question: "Is the most important safety device on the power boiler.",
+    correct: "Safety valve",
+    options: ["Check valve", "Gate valve", "Safety valve", "Globe valve"]
+  },
+  {
+    question: "During hydrostatic test, the safety valves should be",
+    correct: "removed",
+    options: ["removed", "open", "closed", "partially closed"]
+  },
+  {
+    question: "Where deaerating heaters are not employed, it is recommended that the temperature of the feed water be not less than _____",
+    correct: "102 oC",
+    options: ["97 oC", "102 oC", "104 oC", "106 oC"]
+  },
+  {
+    question: "Is a reaction during which chemical energy is released in the form of heat.",
+    correct: "Exothermic reaction",
+    options: ["Cosmic reaction", "Ethnic reaction", "Endothermic reaction", "Exothermic reaction"]
+  },
+  {
+    question: "By reheating the steam in an ideal Rankine cycle the heat rejected will:",
+    correct: "decrease",
+    options: ["increase", "decrease", "remains the same", "none of these"]
+  },
+  {
+    question: "By increasing the boiler pressure in Rankine cycle the moisture content at boiler exit will:",
+    correct: "decrease",
+    options: ["increase", "decrease", "remains the same", "none of these"]
+  },
+  {
+    question: "Presently the highest steam temperature allowed at the turbine inlet is about _____",
+    correct: "620 oC",
+    options: ["340 oC", "520 oC", "620 oC", "1020 oC"]
+  },
+  {
+    question: "Two most common gases employed in Stirling and Ericsson cycles are",
+    correct: "Hydrogen and helium",
+    options: ["Air and helium", "Oxygen and helium", "Hydrogen and helium", "Nitrogen and helium"]
+  },
+  {
+    question: "In most common designs of Gas turbine, the pressure ratio ranges from",
+    correct: "12 to 18",
+    options: ["10 to 12", "11 to 16", "12 to 18", "15 to 20"]
+  },
+   {
+    question: "In Brayton cycle, the heat is transformed during what process?",
+    options: [
+      "constant temperature",
+      "isentropic process",
+      "isobaric process",
+      "isochoric process"
+    ],
+    correct: "isobaric process"
+  },
+  {
+    question: "The fuel injection process in diesel engine starts when the piston ______.",
+    options: [
+      "is at the TDC",
+      "leaving TDC",
+      "approaches TDC",
+      "Halfway of the stroke"
+    ],
+    correct: "approaches TDC"
+  },
+  {
+    question: "If the cut-off ratio of diesel cycle increases, the cycle efficiency will ______.",
+    options: [
+      "decrease",
+      "increase",
+      "remains the same",
+      "none of these"
+    ],
+    correct: "decrease"
+  },
+  {
+    question: "The fuel used in a power plant that is used during peak periods.",
+    options: [
+      "gas",
+      "solid",
+      "liquid",
+      "none of these"
+    ],
+    correct: "liquid"
+  },
+  {
+    question: "Typical compression ratio of Otto cycle is",
+    options: ["6", "8", "10", "12"],
+    correct: "8"
+  },
+  {
+    question: "If Joule Thompson coefficient is equal to zero, then the process will become",
+    options: [
+      "isentropic",
+      "isenthalpic",
+      "isobaric",
+      "isothermal"
+    ],
+    correct: "isothermal"
+  },
+  {
+    question: "If the fluid passed through a nozzle its entropy will:",
+    options: [
+      "increase",
+      "decrease",
+      "remains the same",
+      "none of these"
+    ],
+    correct: "remains the same"
+  },
+  {
+    question:
+      "Refrigerants consisting of mixtures of two or more different chemical compounds, often used individually as refrigerants for other applications.",
+    options: [
+      "suspension",
+      "compound reaction",
+      "blends",
+      "mixing of refrigerants"
+    ],
+    correct: "blends"
+  },
+  {
+    question:
+      "Pairs of mating stop valves that allow sections of a system to be joined before opening these valves or separated after closing them",
+    options: [
+      "Check valve",
+      "Gate valve",
+      "Safety valve",
+      "Companion valve"
+    ],
+    correct: "Gate valve"
+  },
+  {
+    question:
+      "An enclosed passageway that limits travel to a single path.",
+    options: [
+      "corridor",
+      "hallway",
+      "lobby",
+      "tunnel"
+    ],
+    correct: "corridor"
+  },
+  {
+    question:
+      "For immediate dangerous to life or health (IDLH), the maximum concentration from which unprotected persons are able to escape within ____ without escape-impairing symptoms or irreversible health.",
+    options: [
+      "15 minutes",
+      "10 minutes",
+      "20 minutes",
+      "30 minutes"
+    ],
+    correct: "30 minutes"
+  },
+  {
+    question: "Is also known as deaerator.",
+    options: [
+      "open heater",
+      "closed heater",
+      "heated heater",
+      "regenerative heater"
+    ],
+    correct: "open heater"
+  },
+  {
+    question:
+      "The volume as determined from internal dimensions of the container with no allowance for the volume of internal parts.",
+    options: [
+      "internal allowance volume",
+      "internal gross volume",
+      "internal interference volume",
+      "internal fits volume"
+    ],
+    correct: "internal gross volume"
+  },
+  {
+    question:
+      "A waiting room or large hallway serving as a waiting room.",
+    options: [
+      "terrace",
+      "rest room",
+      "compound room",
+      "lobby"
+    ],
+    correct: "lobby"
+  },
+  {
+    question:
+      "A continuous and unobstructed path of travel from any point in a building or structure to a public way.",
+    options: [
+      "average of egress",
+      "means of egress",
+      "hallway of egress",
+      "pathway of egress"
+    ],
+    correct: "means of egress"
+  },
+  {
+    question:
+      "Any device or portion of the equipment used to increase refrigerant pressure.",
+    options: [
+      "pressure relief device",
+      "pressure-imposing element",
+      "pressure lift device",
+      "pressure limiting device"
+    ],
+    correct: "pressure-imposing element"
+  },
+  {
+    question:
+      "The quantity of refrigerant stored at some point in the refrigeration system for operational, service, or standby purposes.",
+    options: [
+      "pressure vessel",
+      "pumpdown charge",
+      "liquid receiver",
+      "accumulator"
+    ],
+    correct: "pumpdown charge"
+  },
+  {
+    question:
+      "Secondary refrigerant is a liquid used for the transmission of heat, without a change of state, and having a flash point or a flash point above ____ as determined from ASTM.",
+    options: [
+      "150 deg F",
+      "160 deg F",
+      "180 deg F",
+      "200 deg F"
+    ],
+    correct: "150 deg F"
+  },
+  {
+    question:
+      "A service valve for dual pressure-relief devices that allows using one device while isolating the other from the system, maintaining one valve in operation at all times.",
+    options: [
+      "three-way valve",
+      "two-way valve",
+      "one-way valve",
+      "four-way valve"
+    ],
+    correct: "three-way valve"
+  },
+  {
+    question:
+      "Tubing that is un-enclosed and therefore exposed to crushing, abrasion, puncture, or similar damage after installation.",
+    options: [
+      "protected tubing",
+      "bare tubing",
+      "open tubing",
+      "unprotected tubing"
+    ],
+    correct: "unprotected tubing"
+  },
+  {
+    question:
+      "Refers to blends comprising multiple components of different volatility that, when used in refrigeration cycles, change volumetric composition and saturation temperature as they evaporate (boil) or condense at constant pressure.",
+    options: [
+      "zeolite",
+      "blending",
+      "composition",
+      "zeotropic"
+    ],
+    correct: "zeotropic"
+  },
+  {
+    question:
+      "Is a premises or that portion of a premises from which, because they are disabled, debilitated, or confined, occupants cannot readily leave without the assistance of others.",
+    options: [
+      "Institutional occupancy",
+      "Public assembly occupancy",
+      "Residential occupancy",
+      "Commercial occupancy"
+    ],
+    correct: "Institutional occupancy"
+  },
+  {
+    question:
+      "Is one in which a secondary coolant is in direct contact with the air or other substance to be cooled or heated.",
+    options: [
+      "double indirect open spray system",
+      "indirect open spray system",
+      "indirect closed system",
+      "indirect vented closed system"
+    ],
+    correct: "indirect open spray system"
+  },
+  {
+    question: "Refrigerant number R-744 is:",
+    options: [
+      "Butane",
+      "Carbon monoxide",
+      "Propane",
+      "Carbon dioxide"
+    ],
+    correct: "Carbon dioxide"
+  },
+  {
+    question: "Refrigerant number R-1150 is:",
+    options: [
+      "Propylene",
+      "Ethene",
+      "Ethane",
+      "Methyl Formate"
+    ],
+    correct: "Ethene"
+  },
+  {
+    question: "Refrigerant number R-40 is:",
+    options: [
+      "Chlorodifluoromethane",
+      "Difluoromethane",
+      "Ammonia",
+      "Chloromethane"
+    ],
+    correct: "Chloromethane"
+  },
+  {
+    question:
+      "Which of the following is NOT a part of low pressure side in refrigeration system?",
+    options: [
+      "liquid line",
+      "refrigerant flow control",
+      "evaporator",
+      "suction line"
+    ],
+    correct: "liquid line"
+  },
+  {
+    question:
+      "Which of the following is NOT a part of high pressure side in refrigeration system?",
+    options: [
+      "compressor",
+      "condenser",
+      "liquid line",
+      "suction line"
+    ],
+    correct: "suction line"
+  },
+  {
+    question:
+      "Which of the following is NOT a part of condensing unit?",
+    options: [
+      "compressor",
+      "discharge line",
+      "condenser",
+      "liquid line"
+    ],
+    correct: "liquid line"
+  },
+  {
+    question:
+      "By subcooling the refrigerant in refrigeration system, the compressor power per unit mass will",
+    options: [
+      "increase",
+      "decrease",
+      "remains the same",
+      "none of these"
+    ],
+    correct: "remains the same"
+  },
+  {
+    question:
+      "Superheating the refrigerant in refrigeration system without useful cooling, the refrigeration effect per unit mass will",
+    options: [
+      "increase",
+      "decrease",
+      "remains the same",
+      "none of these"
+    ],
+    correct: "remains the same"
+  },
+  {
+    question:
+      "By subcooling the refrigerant in refrigeration system, the specific volume at compressor suction will",
+    options: [
+      "increase",
+      "decrease",
+      "remains the same",
+      "none of these"
+    ],
+    correct: "remains the same"
+  },
+  {
+    question:
+      "Pressure loss due to friction at the condenser, the compressor power per unit mass will",
+    options: [
+      "increase",
+      "decrease",
+      "remains the same",
+      "none of these"
+    ],
+    correct: "remains the same"
+  },
+  {
+    question: "Which of the following is NOT a type of air-cooled condenser?",
+    options: [
+      "shell and tube",
+      "natural draft",
+      "forced draft",
+      "induced draft"
+    ],
+    correct: "shell and tube"
+  },
+  {
+    question:
+      "A type of refrigerant control typically used in household refrigeration.",
+    options: [
+      "Thermostatic expansion valve",
+      "Automatic expansion valve",
+      "Capillary tube",
+      "High side float"
+    ],
+    correct: "Capillary tube"
+  },
+  {
+    question:
+      "Type of condenser that operates like a cooling tower.",
+    options: [
+      "air-cooled condenser",
+      "evaporative condenser",
+      "shell and tube condenser",
+      "water-cooled condenser"
+    ],
+    correct: "evaporative condenser"
+  },
+  {
+    question: "The major problem of heat pump is",
+    options: [
+      "refrigerant used",
+      "outside air",
+      "supply air",
+      "frosting"
+    ],
+    correct: "frosting"
+  },
+  {
+    question: "Dominant refrigerant used in commercial refrigeration system.",
+    options: [
+      "R-11",
+      "R-22",
+      "R-12",
+      "R-502"
+    ],
+    correct: "R-502"
+  },
+  {
+    question: "Cascade refrigeration system are connected in",
+    options: [
+      "series",
+      "parallel",
+      "series-parallel",
+      "parallel-series"
+    ],
+    correct: "series"
+  },
+  {
+    question:
+      "Is use to heat up the solution partially before entering the generator in absorption refrigeration system.",
+    options: [
+      "rectifier",
+      "absorber",
+      "regenerator",
+      "pump"
+    ],
+    correct: "regenerator"
+  },
+  {
+    question:
+      "The COP of actual absorption refrigeration system is usually",
+    options: [
+      "less than 1",
+      "less than 2",
+      "less than 3",
+      "less than 4"
+    ],
+    correct: "less than 1"
+  },
+  {
+    question: "Sight glass is often located at:",
+    options: [
+      "discharge line",
+      "liquid line",
+      "between condenser and liquid receiver",
+      "suction line"
+    ],
+    correct: "liquid line"
+  },
+  {
+    question:
+      "Use to detect a vibration in current caused by the ionization of decomposed refrigerant between two opposite-charged platinum electrodes.",
+    options: [
+      "Electronic detector",
+      "Halide torch",
+      "Bubble method",
+      "Pressurizing"
+    ],
+    correct: "Halide torch"
+  },
+  {
+  question:
+    "When the air duct systems serves several enclosed spaces, the permissible quantity of refrigerant in the system shall not exceed the amount determined by using the total volume of those spaces in which the airflow cannot be reduced to less than ____ of its maximum when the fan is operating.",
+  options: [
+    "one-quarter",
+    "one-half",
+    "three-quarter",
+    "one fourth"
+  ],
+  correct: "one-quarter"
+},
+{
+  question:
+    "The space above a suspended ceiling shall not be included in calculating the permissible quantity of refrigerant in the system unless such space is continuous and is part of the air return system.",
+  options: [
+    "Partition",
+    "Plenum",
+    "Separator",
+    "Plate divider"
+  ],
+  correct: "Plenum"
+},
+{
+  question:
+    "Which of the following is NOT a possible location of service valve?",
+  options: [
+    "suction of compressor",
+    "discharge of compressor",
+    "outlet of liquid receiver",
+    "outlet of condenser"
+  ],
+  correct: "outlet of condenser"
+},
+{
+  question:
+    "A coil in series with evaporator that is use to prevent the liquid refrigerant entering the compressor.",
+  options: [
+    "Accumulator",
+    "Liquid superheater",
+    "Drier loop",
+    "Liquid suction heat exchanger"
+  ],
+  correct: "Accumulator"
+},
+{
+  question:
+    "A type of valve connected from discharge of compressor directly to suction that is normally closed and will open automatically only if there is high discharge pressure.",
+  options: [
+    "check valve",
+    "solenoid valve",
+    "king valve",
+    "relief valve"
+  ],
+  correct: "relief valve"
+},
+{
+  question: "To increase the capacity of condenser.",
+  options: [
+    "water regulating valve",
+    "desuperheating coils",
+    "liquid-suction heat exchanger",
+    "condenser heating coils"
+  ],
+  correct: "desuperheating coils"
+},
+{
+  question: "Is use to subcooled the refrigerant from the condenser.",
+  options: [
+    "liquid subcooler",
+    "condenser subcooler",
+    "desuperheating coils",
+    "liquid receiver"
+  ],
+  correct: "liquid subcooler"
+},
+{
+    question: "The ability of oil to mix with refrigerants",
+    correct: "miscibility",
+    options: ["carbonization", "purging", "mixing", "miscibility"]
+  },
+  {
+    question: "Joints and all refrigerants-containing parts of a refrigerating system located in an air duct carrying conditioned air to and from an occupied space shall be constructed to withstand a temperature of ________ without leakage into the airstream.",
+    correct: "700°F",
+    options: ["550°F", "600°F", "650°F", "700°F"]
+  },
+  {
+    question: "Refrigerant piping crossing an open space that affords passageway in any building shall be not less than ________ above the floor unless the piping is located against the ceiling of such space and is permitted by the authority having jurisdiction.",
+    correct: "2.2 m",
+    options: ["2.2 m", "3.2 m", "4.2 m", "5.2 m"]
+  },
+  {
+    question: "Methyl chloride shall not be in contact with",
+    correct: "All of these",
+    options: ["aluminum", "zinc", "magnesium", "All of these"]
+  },
+  {
+    question: "Shall not be in contact with any halogenated refrigerants.",
+    correct: "magnesium",
+    options: ["aluminum", "zinc", "magnesium", "All of these"]
+  },
+  {
+    question: "Are suitable for use in ammonia system.",
+    correct: "aluminum and its alloy",
+    options: ["copper", "aluminum and its alloy", "plastic", "cast iron"]
+  },
+  {
+    question: "If a pressure-relief device is used to protect a pressure vessel having an inside dimension of 6 in or less, the ultimate strength of the pressure vessel so protected shall be sufficient to withstand a pressure at least ________ the design pressure.",
+    correct: "3 times",
+    options: ["2 times", "3 times", "4 times", "5 times"]
+  },
+  {
+    question: "Seats and discs shall be limited in distortion, by pressure or other cause, to a set pressure change of not more than ________ in a span of five years.",
+    correct: "5%",
+    options: ["1%", "5%", "10%", "50%"]
+  },
+  {
+    question: "Liquid receivers, if used, or parts of a system designed to receive the refrigerant charge during pump down charge. The liquid shall not occupy more than ________ of the volume when temperature of the refrigerant is 90°F.",
+    correct: "90%",
+    options: ["80%", "85%", "90%", "95%"]
+  },
+  {
+    question: "The discharge line (B4) shall be vented to the atmosphere through a ________ fitted to its upper extremity.",
+    correct: "diffuser",
+    options: ["nozzle", "convergent-divergent nozzle", "pipe", "diffuser"]
+  },
+  {
+    question: "Convert fossil fuels into shaft work.",
+    correct: "Thermal power plant",
+    options: ["Nuclear power plant", "Gas turbine power plant", "Dendrothermal power plant", "Thermal power plant"]
+  },
+  {
+    question: "Ultimate strength drops by 30% as steam temperature raises from ________ for unalloyed steel.",
+    correct: "400 to 500°C",
+    options: ["300 to 400°C", "400 to 500°C", "600 to 700°C", "700 to 800°C"]
+  },
+  {
+    question: "Recent practice limits steam temperature to",
+    correct: "438°C",
+    options: ["438°C", "538°C", "638°C", "738°C"]
+  },
+  {
+    question: "In a closed feed water heater, the feed water pass through",
+    correct: "inside the tube",
+    options: ["inside the tube", "outside the tube", "inside the shell", "outside the shell"]
+  },
+  {
+    question: "Is use if extracted steam upon condensation gets subcooled.",
+    correct: "drain cooler",
+    options: ["trap", "deaerator", "filter", "drain cooler"]
+  },
+  {
+    question: "Needs only single pump regardless of number of heaters.",
+    correct: "closed heater",
+    options: ["open heater", "closed heater", "mono heater", "regenerative heater"]
+  },
+  {
+    question: "Dissolve gases like ________ makes water corrosive react with metal to form iron oxide.",
+    correct: "O2 and CO2",
+    options: ["O2 and N2", "O2 and CO", "O2 and CO2", "N2 and SO2"]
+  },
+  {
+    question: "A cycle typically used in paper mills, textile mills, chemical factories, sugar factories and rice mills.",
+    correct: "Cogeneration cycle",
+    options: ["Cogeneration cycle", "Combined cycle", "By-product cycle", "Cascading cycle"]
+  },
+  {
+    question: "Tranquil flow must always occur",
+    correct: "above the critical depth",
+    options: ["above the normal depth", "above the critical depth", "below the normal depth", "below the critical depth"]
+  },
+  {
+    question: "A type of turbine employed where steam continuously extracted for process heating.",
+    correct: "Passout turbine",
+    options: ["Back pressure turbine", "Gas turbine", "steam turbine", "Passout turbine"]
+  },
+  {
+    question: "Which of the following is used for Binary cycle power generation for high temperature application.",
+    correct: "all of these",
+    options: ["mercury", "sodium", "potassium", "all of these"]
+  },
+  {
+    question: "Critical temperature of mercury is",
+    correct: "1460°C",
+    options: ["1160°C", "1260°C", "1360°C", "1460°C"]
+  },
+  {
+    question: "Critical pressure of mercury is",
+    correct: "108 Mpa",
+    options: ["100 Mpa", "108 Mpa", "128 Mpa", "158 Mpa"]
+  },
+  {
+    question: "Method used in converting heat directly to electricity by magnetism.",
+    correct: "Magnetohydrodynamic",
+    options: ["Electromagnetic induction", "Magnetodynamic", "Magnetohydrodynamic", "Thermoelectric"]
+  },
+  {
+    question: "Which of the following is NOT a material used for thermoelectric elements.",
+    correct: "Zinc telluride",
+    options: ["Bismuth telluride", "Lead telluride", "Zinc telluride", "Germanium"]
+  },
+  {
+    question: "A type of coal formed after anthracite.",
+    correct: "Graphite",
+    options: ["Lignite", "Bituminous", "Peat", "Graphite"]
+  },
+  {
+    question: "Which of the following is lowest grade of coal?",
+    correct: "Lignite",
+    options: ["Peat", "Lignite", "Sub-bituminous", "Bituminous"]
+  },
+  {
+    question: "Which of the following helps in the ignition of coal?",
+    correct: "volatile matter",
+    options: ["moisture", "ash", "fixed carbon", "volatile matter"]
+  },
+  {
+    question: "Is the ratio of fixed carbon and volatile matter.",
+    correct: "fuel ratio",
+    options: ["air-fuel ratio", "fuel ratio", "combustion ratio", "carbon-volatile ratio"]
+  },
+  {
+    question: "A suspension of a finely divide fluid in another.",
+    correct: "Emulsion",
+    options: ["filtration", "floatation", "Emulsion", "Separation"]
+  },
+  {
+    question: "A Contains 90% gasoline and 10% ethanol.",
+    correct: "Gasohol",
+    options: ["Gasohol", "Gasonol", "Gasothanol", "Gasethanol"]
+  },
+  {
+    question: "Process used commercially in coal liquefaction.",
+    correct: "Fisher-Tropsch process",
+    options: ["Tropsch process", "Fisher process", "Fisher-Tropsch process", "Mitch-Tropsch process"]
+  },
+  {
+    question: "Is an organic matter produced by plants in both land and water.",
+    correct: "Biomass",
+    options: ["Bio-ethanol", "Biomass", "Petroleum", "Biodegradable"]
+  },
+  {
+    question: "In thermal power plant, induced draft fans are located at the",
+    correct: "foot of the stack",
+    options: ["exit of furnace", "foot of the stack", "above the stock", "top of the stack"]
+  },
+  {
+    question: "In thermal power plant, forced draft fans are installed at the",
+    correct: "inlet of the preheater",
+    options: ["foot of the stack", "top of the stack", "exit of the preheater", "inlet of the preheater"]
+  },
+  {
+    question: "Known as drum less boiler.",
+    correct: "Once-through boiler",
+    options: ["La Mont boilers", "Fire tube boiler", "Forced circulation boiler", "Once-through boiler"]
+  },
+  {
+    question: "Reduces the steam temperature by spraying low temperature water from boiler drum.",
+    correct: "Desuperheater",
+    options: ["Reheater", "Preheater", "Desuperheater", "Superheater"]
+  },
+  {
+    question: "Carbon dioxide can be removed by:",
+    correct: "aeration",
+    options: ["deaeration", "aeration", "evaporation", "vaporization"]
+  },
+  {
+    question: "A Is often used to absorb silica from water.",
+    correct: "magnesium hydroxide",
+    options: ["sorbent", "rectifier", "silica gel", "magnesium hydroxide"]
+  },
+  {
+    question: "Presence of excess hydrogen ions makes the water",
+    correct: "acidic",
+    options: ["acidic", "alkalinity", "base", "hydroxicity"]
+  },
+  {
+    question: "PH of water varies with",
+    correct: "temperature",
+    options: ["pressure", "temperature", "density", "volume"]
+  },
+  {
+    question: "Ph value of ________ is usually maintained for boiler water to minimized corrosion.",
+    correct: "10.5",
+    options: ["8.5", "9.5", "10.5", "11.5"]
+  },
+  {
+    question: "What type of turbine that has a degree of reaction of 1/2?",
+    correct: "Parsons turbine",
+    options: ["Impulse turbine", "Reaction turbine", "Parsons turbine", "Deriaz turbine"]
+  },
+  {
+    question: "The cooling water is made to fall in series of baffles to expose large surface area for steam fed from below to come in direct contact.",
+    correct: "Barometric condenser",
+    options: ["Spray condenser", "Surface condenser", "Jet condenser", "Barometric condenser"]
+  },
+  {
+    question: "Show the variation of river flow (discharge) with time.",
+    correct: "Hydrograph",
+    options: ["Hydrograph", "Hyetograph", "Mass curve", "Flow duration curve"]
+  },
+  {
+    question: "Is an open channel erected on a surface above the ground.",
+    correct: "Flume",
+    options: ["Canal", "Tunnel", "Penstock", "Flume"]
+  },
+  {
+    question: "Type of turbine used up to 300 m head.",
+    correct: "Deriaz turbine",
+    options: ["Impulse turbine", "Francis turbine", "Propeller turbine", "Deriaz turbine"]
+  },
+  {
+    question: "A turbine that has a diagonal flow.",
+    correct: "Deriaz turbine",
+    options: ["Impulse turbine", "Francis turbine", "Propeller turbine", "Deriaz turbine"]
+  },
+  {
+    question: "Oil is atomized either by air blast or pressure jet at about",
+    correct: "70 bar",
+    options: ["60 bar", "70 bar", "80 bar", "90 bar"]
+  },
+  {
+    question: "Type of solid injection that use single pump supplies fuel under high pressure to a fuel header.",
+    correct: "Common rail injection",
+    options: ["Common rail injection", "Individual pump injection", "Distributor system", "Single rail injection"]
+  },
+  {
+    question: "Water flow in diesel engine that is caused by density differential.",
+    correct: "Thermosiphon cooling",
+    options: ["Thermosiphon cooling", "Thermostat cooling", "Pressurized water cooling", "Evaporative cooling"]
+  },
+  {
+    question: "Type of lubrication system in diesel engine in which oil from pump is carried to a separate storage tank outside the engine cylinder and used for high capacity engine.",
+    correct: "Dry sump lubrication system",
+    options: ["Mist lubrication system", "Wet sump lubrication system", "Splash system", "Dry sump lubrication system"]
+  },
+  {
+    question: "Produces extreme pressure differentials and violent gas vibration.",
+    correct: "Detonation",
+    options: ["Vibration", "Detonation", "Explosion", "Knocking"]
+  },
+  {
+    question: "In a spark ignition engine, the detonation occurs near the ________.",
+    correct: "end of combustion",
+    options: ["end of combustion", "middle of combustion", "beginning of combustion", "beginning of interaction"]
+  },
+  {
+    question: "In a compression ignition engine, the detonation occurs near the ________.",
+    correct: "beginning of combustion",
+    options: ["end of combustion", "middle of combustion", "beginning of combustion", "beginning of interaction"]
+  },
+  {
+    question: "Morse test is use to measure the ________ of multi-cylinder engine.",
+    correct: "Indicated power",
+    options: ["Brake power", "Indicated power", "Friction power", "Motor power"]
+  },
+  {
+    question: "Ignition delay can be minimized by adding ________ to decrease engine knocking.",
+    correct: "Ethyl nitrate",
+    options: ["Ethel ether", "Ethyl chloride", "Ethyl nitrate", "Ethyl oxide"]
+  },
+  {
+    question: "For the submerged plane surface, the point on the surface where the resultant force acts is called the",
+    correct: "center of pressure",
+    options: ["Center of buoyancy", "Center of gravity", "center of pressure", "center of attraction"]
+  },
+  {
+    question: "At any point in fluid at rest, the pressure is the same in all directions. This principle is known as:",
+    correct: "Pascal's Law",
+    options: ["Bernoulli Principle", "Archimedes Principle", "Pascal's Law", "Torricelli's Law"]
+  },
+  {
+    question: "The hot-wire manometer is used to measure",
+    correct: "gas velocities",
+    options: ["pressure in gasses", "pressure in liquids", "wind velocities at airports", "gas velocities"]
+  },
+  {
+    question: "The pitot static tube measures",
+    correct: "the static pressure",
+    options: ["the static pressure", "the gage pressure", "the total pressure", "the dynamic pressure"]
+  },
+  {
+    question: "The terminal velocity of a small sphere setting in a viscous fluid varies as the",
+    correct: "inverse of fluid viscosity",
+    options: ["first power of its diameter", "inverse of fluid viscosity", "inverse square of the diameter", "inverse of the diameter"]
+  },
+  {
+    question: "Pressure drag results from",
+    correct: "skin friction",
+    options: ["skin friction", "deformation drag", "breakdown of potential flow near the forward stagnation point", "occurrences of wake"]
+  },
+  {
+    question: "The pressure coefficient is the ratio of pressure forces to:",
+    correct: "inertia forces",
+    options: ["viscous forces", "inertia forces", "gravity forces", "surface tension force"]
+  },
+  {
+    question: "Which of the following head loss coefficient among the following types of entrance?",
+    correct: "reentrant",
+    options: ["bell mouth", "square edge", "reentrant", "it depends"]
+  },
+  {
+    question: "What waste water treatment method involves of algae from stabilization pond effluents?",
+    correct: "microscreening",
+    options: ["sedimentation", "floatation", "filtration", "microscreening"]
+  },
+  {
+    question: "The number of nozzles will depend on the quantity of steam required by the turbine. If nozzles occupy the entire arc of the ring, the turbine is said to have:",
+    correct: "full peripheral admission",
+    options: ["partially full peripheral admission", "one-half full peripheral admission", "maximum peripheral admission", "full peripheral admission"]
+  },
+  {
+    question: "Tandem compound units may also have two low-pressure castings that produces:",
+    correct: "triple flow",
+    options: ["single flow", "double flow", "triple flow", "quadruple flow"]
+  },
+  {
+    question: "A type of turbine used for driving pumps, fans, and other auxiliaries in power plant commonly operate at exhaust pressures approximating atmospheric.",
+    correct: "Back pressure turbine",
+    options: ["Tandem compound turbine", "Passout turbine", "Cross-compound turbine", "Back pressure turbine"]
+  },
+  {
+    question: "A governor with 0% regulation is termed as:",
+    correct: "isochronous governor",
+    options: ["isochronous governor", "synchronous governor", "isenchronous governor", "isobarnous governor"]
+  },
+  {
+    question: "The speed regulation for most turbine-generators is adjustable from:",
+    correct: "2 to 6%",
+    options: ["2 to 6%", "4 to 8%", "6 to 10%", "8 to 12%"]
+  },
+  {
+    question: "Poppet valves of steam turbine are used for extraction pressures of:",
+    correct: "20 to 150 psig",
+    options: ["20 to 120 psig", "20 to 150 psig", "20 to 130 psig", "20 to 140 psig"]
+  },
+  {
+    question: "When both bearings of steam engine are on one side of the connecting rod, the engine is referred to as:",
+    correct: "side crank engine",
+    options: ["center-crank engine", "side crank engine", "under crank engine", "standard crank engine"]
+  },
+  {
+    question: "When the valve in steam engine is in mid-position of its travel, it will cover the steam port by an amount known as:",
+    correct: "steam lap",
+    options: ["steam lap", "partial lap", "full lap", "angular lap"]
+  },
+  {
+    question: "A type of governor in steam engine that do not control the actual admission of steam to the cylinder, but controls the pressure of the steam.",
+    correct: "throttling governor",
+    options: ["flyball governor", "variable cut-off governor", "throttling governor", "shaft governor"]
+  },
+  {
+    question: "By inter-cooling using two stage compressor of Brayton cycle, the backwork ratio will:",
+    correct: "decrease",
+    options: ["increase", "decrease", "remains the same", "none of these"]
+  },
+  {
+    question: "On dynamic similitude, the relation which represents the ratio of inertia force to pressure force is;",
+    correct: "Euler number",
+    options: ["Froude number", "Cauchy number", "Euler number", "Reynolds number"]
+  },
+  {
+    question: "What is the maximum velocity in a sewer flowing full?",
+    correct: "0.6 m/sec",
+    options: ["0.6 m/sec", "0.9 m/sec", "1.2 m/sec", "1.8 m/sec"]
+  },
+  {
+    question: "A temporary structures constructed to exclude water from the site of the foundation during its excavation and construction is called:",
+    correct: "coffer dam",
+    options: ["caisson", "retaining wall", "coffer dam", "earth dam"]
+  },
+  {
+    question: "Which is not a physical characteristics of water?",
+    correct: "hardness",
+    options: ["total, suspended and dissolved solids", "tubidity", "color", "hardness"]
+  },
+  {
+    question: "Which dam is best for weak foundation?",
+    correct: "buttress",
+    options: ["gravity", "arch", "buttress", "earth"]
+  },
+  {
+    question: "What is the volume of water which will drain freely from the aquifer?",
+    correct: "specific yield",
+    options: ["specific yield", "reservoir yield", "safe yield", "secondary yield"]
+  },
+  {
+    question: "What is the line defined by the water level in a group of artesian wells?",
+    correct: "peizometric surface",
+    options: ["water table", "peizometric surface", "specific yield", "all of the above"]
+  },
+  {
+    question: "Select the one that is a positive indication of pollution of a river.",
+    correct: "chloride content",
+    options: ["acidity", "oxygen content", "chloride content", "nitrite content"]
+  },
+  {
+    question: "Which instruments is used to measure humidity of the atmosphere continuously?",
+    correct: "hydrograph",
+    options: ["barograph", "thermograph", "hydrograph", "thermo-hydrograph"]
+  },
+  {
+    question: "Is also known as deaerator",
+    correct: "Open heater",
+    options: ["Open heater", "Close heater", "reheat heater", "regenerative heater"]
+  },
+  {
+    question: "180-last",
+    correct: "a",
+    options: ["a", "b", "c", "d"]
+  },
+
   ]
 };
