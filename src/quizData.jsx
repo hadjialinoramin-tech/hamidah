@@ -8397,9 +8397,9 @@ export const quizData = {
 
   MD: [
     {
-      question: "Which vitamin deficiency causes scurvy?",
-      correct: "Vitamin C",
-      options: ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"]
+      question: "MD",
+      correct: "C",
+      options: ["A", "B", "C", "D"]
     }
   ],
   Element1: [
