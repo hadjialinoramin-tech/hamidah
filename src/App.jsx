@@ -32,7 +32,7 @@ export default function App() {
     <div className="app-container">
       <div className="quiz-card">
 
-        <h1 className="title1"> بِسْمِ اللهِ الرَّحْمَٰنِ الرَّحِيمِ </h1>
+        <h1 className="title1">/ بِسْمِ اللهِ الرَّحْمَٰنِ الرَّحِيمِ /</h1>
         <img src={logo} alt="Logo" className="logo" /> {}
         <h1 className="title">Mechanical Eng. Review Web</h1>
 
