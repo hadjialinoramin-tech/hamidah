@@ -9545,12 +9545,3148 @@ export const quizData = {
     question: "Is also known as deaerator",
     correct: "Open heater",
     options: ["Open heater", "Close heater", "reheat heater", "regenerative heater"]
+  }
+
+  ],
+  Element1_1: [
+    
+  {
+question: "Entrance losses between tank and pipe or losses through elbows, fittings and valves are generally expressed as functions of:",
+correct: "velocity factor",
+options: ["kinetic energy", "pipe diameter", "velocity factor", "volume flow rate"]
+},
+{
+question: "The air that contains no water vapor is called",
+correct: "dry air",
+options: ["zero air", "saturated air", "dry air", "humid air"]
+},
+{
+question: "In psychrometric chart, the constant-enthalpy lines coincide with constant-temperature lines at temperature:",
+correct: "below 50oC",
+options: ["above 50oC", "below 40oC", "below 50oC", "above 10oC"]
+},
+{
+question: "The amount of moisture in air depends on its",
+correct: "temperature",
+options: ["pressure", "volume", "temperature", "humidity"]
+},
+{
+question: "The deep body temperature of healthy person is maintained constant at",
+correct: "37oC",
+options: ["27oC", "37oC", "47oC", "48oC"]
+},
+{
+question: "Air motion also plays important role in",
+correct: "human comfort",
+options: ["surroundings", "cooling", "human comfort", "none of these"]
+},
+{
+question: "During simple heating and cooling process has a humidity ratio",
+correct: "constant",
+options: ["increasing", "decreasing", "constant", "none of these"]
+},
+{
+question: "The ______ follows a line of constant wet-bulb temperature on the psychrometric chart.",
+correct: "evaporative cooling process",
+options: [
+"evaporative cooling process",
+"condensive cooling process",
+"direct cooling process",
+"none of these"
+]
+},
+{
+question: "A vapor which is not about to condense is called a",
+correct: "superheated vapor",
+options: [
+"mixture of vapor and liquid",
+"critical vapor",
+"superheated vapor",
+"none of these"
+]
+},
+{
+question: "Passing from the solid phase directly into vapor phase is called",
+correct: "sublimation",
+options: ["condensation", "fusion", "sublimation", "none of these"]
+},
+{
+question: "Robert Boyle observed during his experiments with a vacuum chamber that the pressure of gases is inversely proportional to their",
+correct: "volume",
+options: ["temperature", "pressure", "volume", "none of these"]
+},
+{
+question: "_____ is energy in transition.",
+correct: "heat",
+options: ["heat", "work", "power", "none of these"]
+},
+{
+question: "The mode of energy transfer between a solid surface and the adjacent liquid or gas which is in motion, and it involves combine effects of conduction and fluid motion.",
+correct: "convection",
+options: ["conduction", "convection", "radiation", "none of these"]
+},
+{
+question: "Radiation is usually considered as",
+correct: "surface phenomenon",
+options: [
+"surface phenomenon",
+"surface interaction",
+"surface corrosion",
+"none of these"
+]
+},
+{
+question: "Work is _____ between the system and the surroundings.",
+correct: "energy interaction",
+options: [
+"work interaction",
+"energy interaction",
+"heat interaction",
+"none of these"
+]
+},
+{
+question: "Is a process during which the system remains in equilibrium at all times.",
+correct: "quasi-equilibrium",
+options: [
+"quasi-equilibrium",
+"static equilibrium",
+"dynamic equilibrium",
+"none of these"
+]
+},
+{
+question: "In the absence of any work interactions between a system and its surroundings, the amount of net heat transfer is equal",
+correct: "to the change in the total energy of a closed system",
+options: [
+"to the change in the total energy of a closed system",
+"to heat and work",
+"energy interactions",
+"none of these"
+]
+},
+{
+question: "Is the most common dryer used which consist of rotating cylinder inside which the materials flow while getting in contact with hot gas.",
+correct: "Rotary dryer",
+options: ["Tower dryer", "Centrifugal dryer", "Tray dryer", "Rotary dryer"]
+},
+{
+options: [
+"velocity effect",
+"viscous effect",
+"temperature effect",
+"none of these"
+]
+},
+{
+question: "For steady flow devices, the volume of the control volume is",
+correct: "constant",
+options: ["increase", "decrease", "constant", "none of these"]
+},
+{
+question: "The work done in a turbine is ______ since it is done by the fluid.",
+correct: "positive",
+options: ["positive", "negative", "zero", "none of these"]
+},
+{
+question: "Reheating process in Brayton cycle, the turbine work will",
+correct: "increase",
+options: ["increase", "decrease", "remains the same", "none of these"]
+},
+{
+question: "Which of the following is the chemical formula of Ethanol?",
+correct: "C2H6O",
+options: ["C7H16", "C2H6O", "C7H8", "C6H12"]
+},
+{
+question: "Which of the following is the chemical formula of Heptane?",
+correct: "C7H16",
+options: ["C7H16", "C2H6O", "C7H8", "C6H12"]
+},
+{
+question: "Which of the following is the chemical formula of Hexene?",
+correct: "C6H12",
+options: ["C7H16", "C2H6O", "C7H8", "C6H12"]
+},
+{
+question: "Which of the following is the chemical formula of Toluene?",
+correct: "C7H8",
+options: ["C7H16", "C2H6O", "C7H8", "C6H12"]
+},
+{
+question: "As the air passes through a nozzle, which of the following will increase?",
+correct: "mach number",
+options: ["temperature", "enthalpy", "internal energy", "mach number"]
+},
+{
+question: "As the air passes through a diffuser, which of the following will decrease?",
+correct: "mach number",
+options: ["temperature", "enthalpy", "internal energy", "mach number"]
+},
+{
+question: "As the air passes through a nozzle, which of the following will decrease?",
+correct: "internal energy",
+options: ["entropy", "velocity", "internal energy", "mach number"]
+},
+{
+question: "As the air passes through a diffuser, which of the following will increase?",
+correct: "density",
+options: ["density", "entropy", "mach number", "velocity"]
+},
+{
+question: "After passing through a convergent-divergent nozzle, the temperature of air will:",
+correct: "decrease",
+options: ["increase", "decrease", "remains the same", "none of these"]
+},
+{
+question: "After passing through a convergent-divergent nozzle, the density of air will:",
+correct: "decrease",
+options: ["increase", "decrease", "remains the same", "none of these"]
+},
+{
+question: "After passing through a convergent-divergent nozzle, the mach number of air will:",
+correct: "increase",
+options: ["increase", "decrease", "remains the same", "none of these"]
+},
+{
+question: "By increasing the temperature source of Carnot cycle, which of the following will not be affected?",
+correct: "heat rejected",
+options: ["efficiency", "work", "heat added", "heat rejected"]
+},
+{
+question: "By decreasing the temperature sink of Carnot cycle, which of the following will not be affected?",
+correct: "heat added",
+options: ["efficiency", "work", "heat added", "heat rejected"]
+},
+{
+question: "By superheating the refrigerant in vapor compression cycle with useful cooling, which of the following will increase? (Use per unit mass analysis)",
+correct: "heat rejected from condenser",
+options: [
+"condenser pressure",
+"evaporator pressure",
+"quality after expansion",
+"heat rejected from condenser"
+]
+},
+{
+question: "By superheating the refrigerant in vapor compression cycle with useful cooling, which of the following will decrease? (Use per unit mass analysis)",
+correct: "mass flow rate",
+options: ["Refrigerating effect", "COP", "Compressor power", "mass flow rate"]
+},
+{
+question: "By superheating the refrigerant in vapor compression cycle without useful cooling, which of the following will decrease? (Use per unit mass analysis)",
+correct: "COP",
+options: ["Heat rejected", "COP", "Compressor power", "specific volume at suction"]
+},
+{
+question: "By superheating the refrigerant in vapor compression cycle without useful cooling, which of the following will increase? (Use per unit mass analysis)",
+correct: "Compressor power",
+options: ["Refrigerating effect", "COP", "Compressor power", "specific volume at suction"]
+},
+{
+question: "By superheating the refrigerant in vapor compression cycle without useful cooling, which of the following will increase? (Use per unit mass analysis)",
+correct: "mass flow rate",
+options: ["Refrigerating effect", "COP", "Compressor power", "mass flow rate"]
+},
+{
+question: "By superheating the refrigerant in vapor compression cycle without useful cooling, which of the following will not be affected? (Use per unit mass analysis)",
+correct: "Refrigerating effect",
+options: ["Refrigerating effect", "COP", "Compressor power", "mass flow rate"]
+},
+{
+question: "By sub-cooling the refrigerant in vapor compression cycle at condenser exit, which of the following will increase? (Use per unit mass analysis)",
+correct: "Refrigerating effect",
+options: [
+"Refrigerating effect",
+"Specific volume at suction",
+"Compressor power",
+"mass flow rate"
+]
+},
+{
+question: "By sub-cooling the refrigerant in vapor compression cycle at condenser exit, which of the following will decrease? (Use per unit mass analysis)",
+correct: "Refrigerating effect from condenser",
+options: [
+"Coefficient of performance",
+"Heat rejected from condenser",
+"Refrigerating effect",
+"mass flow rate"
+]
+},
+{
+question: "By increasing the vaporizing temperature in vapor compression cycle, which of the following will increase? (Use per unit mass analysis)",
+correct: "COP",
+options: [
+"mass flow rate",
+"COP",
+"specific volume at suction",
+"compressor work"
+]
+},
+{
+question: "By increasing the vaporizing temperature in vapor compression cycle, which of the following will decrease? (Use per unit mass analysis)",
+correct: "temperature difference between evaporator and compressor",
+options: [
+"Refrigerating effect",
+"COP",
+"evaporator temperature",
+"temperature difference between evaporator and compressor"
+]
+},
+{
+question: "By increasing the condenser pressure in vapor compression cycle, which of the following will increase? (Use per unit mass analysis)",
+correct: "Compressor power",
+options: [
+"Refrigerating effect",
+"COP",
+"Specific volume at suction",
+"Compressor power"
+]
+},
+{
+question: "By increasing the condenser pressure in vapor compression cycle, which of the following will decrease? (Use per unit mass analysis)",
+correct: "moisture content after expansion",
+options: [
+"moisture content after expansion",
+"heat rejected from condenser",
+"mass flow rate",
+"COP"]
+},
+{
+question: "If the pressure drop in the condenser increases in a vapor compression cycle, which of the following will increase? (Use per unit mass analysis)",
+correct: "heat rejected in the condenser",
+options: [
+"mass flow rate",
+"compressor power",
+"heat rejected in the condenser",
+"heat rejected process"
+]
+},
+{
+question: "If the pressure drop in the condenser increases in a vapor compression cycle, which of the following will decrease? (Use per unit mass analysis)",
+correct: "Refrigerating effect",
+options: [
+"Refrigerating effect",
+"mass flow rate",
+"heat rejected in the condenser",
+"Compressor power"
+]
+},
+{
+question: "If the pressure drop in the condenser increases in a vapor compression cycle, which of the following will not be affected? (Use per unit mass analysis)",
+correct: "COP",
+options: [
+"compressor power",
+"mass flow rate",
+"heat rejected in the condenser",
+"COP"
+]
+},
+{
+question: "If the pressure drop in the evaporator increases in a vapor compression cycle, which of the following will increase? (Use per unit mass analysis)",
+correct: "heat rejected in the condenser",
+options: ["Refrigerating effect", "vaporizing temperature", "heat rejected in the condenser", "COP"]
+},
+{
+    question: "230. If the pressure drop in the evaporator increases in a vapor compression cycle, which of the following will decrease? (Use per unit mass analysis)",
+    options: [
+      "specific volume at suction",
+      "compressor power",
+      "heat rejected in the condenser",
+      "COP"
+    ],
+    correct: "COP"
   },
   {
-    question: "180-last",
-    correct: "a",
-    options: ["a", "b", "c", "d"]
+    question: "231. By lowering the condenser pressure in Rankine cycle, which of the following will decrease? (Use per unit mass analysis)",
+    options: [
+      "pump work",
+      "turbine work",
+      "heat rejected",
+      "cycle efficiency"
+    ],
+    correct: "heat rejected"
   },
+  {
+    question: "232. By increasing the boiler pressure in Rankine cycle, which of the following will decrease? (Use per unit mass analysis)",
+    options: [
+      "heat rejected",
+      "pump work",
+      "cycle efficiency",
+      "moisture content"
+    ],
+    correct: "heat rejected"
+  },
+  {
+    question: "233. By superheating the steam to a higher temperature in Rankine cycle, which of the following will decrease? (Use per unit mass analysis)",
+    options: [
+      "moisture content at the turbine exhaust",
+      "turbine work",
+      "heat added",
+      "heat rejected"
+    ],
+    correct: "moisture content at the turbine exhaust"
+  },
+  {
+    question: "234. By superheating the steam to a higher temperature in Rankine cycle, which of the following will increase? (Use per unit mass analysis)",
+    options: [
+      "moisture content at the turbine exhaust",
+      "pump work",
+      "condenser pressure",
+      "cycle efficiency"
+    ],
+    correct: "cycle efficiency"
+  },
+  {
+    question: "235. By superheating the steam to a higher temperature in Rankine cycle, which of the following will increase? (Use per unit mass analysis)",
+    options: [
+      "moisture content at the turbine exhaust",
+      "pump work",
+      "condenser pressure",
+      "cycle efficiency"
+    ],
+    correct: "pump work"
+  },
+  {
+    question: "236. By reheating the steam before entering the second stage in Rankine cycle, which of the following will decrease?",
+    options: [
+      "turbine work",
+      "moisture content after expansion",
+      "heat added",
+      "heat rejected"
+    ],
+    correct: "moisture content after expansion"
+  },
+  {
+    question: "237. When Rankine cycle is modified with regeneration, which of the following will increase?",
+    options: [
+      "turbine work",
+      "heat added",
+      "heat rejected",
+      "cycle efficiency"
+    ],
+    correct: "cycle efficiency"
+  },
+  {
+    question: "238. Is the combination of base load and peaking load.",
+    options: [
+      "rated load",
+      "intermediate load",
+      "combine load",
+      "over-all load"
+    ],
+    correct: "intermediate load"
+  },
+  {
+    question: "239. Sum of the maximum demand over the simultaneous maximum demand.",
+    options: [
+      "Use factor",
+      "capacity factor",
+      "demand factor",
+      "diversity factor"
+    ],
+    correct: "diversity factor"
+  },
+  {
+    question: "240. Regenerative with feed heating cycle with infinite number of feedwater heaters thus efficiency is equal to:",
+    options: [
+      "Otto cycle",
+      "Stirling cycle",
+      "Ericson cycle",
+      "Carnot cycle"
+    ],
+    correct: "Carnot cycle"
+  },
+  {
+    question: "241. A type of turbine used in desalination of sea water.",
+    options: [
+      "Back pressure turbine",
+      "Passout turbine",
+      "Peaking turbine",
+      "Reaction turbine"
+    ],
+    correct: "Back pressure turbine"
+  },
+  {
+    question: "242. States that when conductor and a magnetic field move relatively to each other, an electric voltage is induced in the conductor.",
+    options: [
+      "Maxwell's law",
+      "Kirchoff's law",
+      "Faraday's law",
+      "Newton's law"
+    ],
+    correct: "Faraday's law"
+  },
+  {
+    question: "243. Transfers heat directly to electrical energy by utilizing thermionic emissions.",
+    options: [
+      "Thermionic motor",
+      "Thermionic generator",
+      "Thermionic converter",
+      "Thermionic cell"
+    ],
+    correct: "Thermionic generator"
+  },
+  {
+    question: "244. Is the largest group of coal containing 46-86% of fixed carbon and 20 to 40% volatile matter.",
+    options: [
+      "Anthracite",
+      "Sub-anthracite",
+      "Bituminous",
+      "Sub-bituminous"
+    ],
+    correct: "Bituminous"
+  },
+  {
+    question: "245. When 1 gram of coal is subjected to a temperature of about 105 oC for a period of 1 hour, the loss in weight of the sample gives the:",
+    options: [
+      "volatile matter",
+      "ash",
+      "fixed carbon",
+      "moisture content"
+    ],
+    correct: "moisture content"
+  },
+  {
+    question: "246. When 1 gram of sample of coal is placed in a crucible and heated 950 oC and maintain at that temperature for 7 minutes there is a loss in weight due to elimination of:",
+    options: [
+      "volatile matter and moisture",
+      "ash",
+      "fixed carbon",
+      "moisture content"
+    ],
+    correct: "volatile matter and moisture"
+  },
+  {
+    question: "247. As the air passes through a diffuser, which of the following will increase?",
+    options: [
+      "density",
+      "entropy",
+      "mach number",
+      "velocity"
+    ],
+    correct: "density"
+  },
+  {
+    question: "248. Consist of hydrogen and certain hydrogen carbon compounds which can be removed from coal by heating.",
+    options: [
+      "Moisture content",
+      "Product of combustion",
+      "Ash",
+      "volatile matter"
+    ],
+    correct: "volatile matter"
+  },
+  {
+    question: "249. By heating 1 gram of coal in an uncovered crucible until the coal is completely burned, the ____ will formed.",
+    options: [
+      "volatile matter and moisture",
+      "ash",
+      "fixed carbon",
+      "moisture content"
+    ],
+    correct: "ash"
+  },
+  {
+    question: "250. Caking coal are used to produce coke by heating in a coke oven in the absence of ____ with volatile matter driven off.",
+    options: [
+      "air",
+      "oil",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    correct: "air"
+  },
+  {
+    question: "251. Grindability of standard coal is:",
+    options: [
+      "80",
+      "90",
+      "100",
+      "110"
+    ],
+    correct: "100"
+  },
+  {
+    question: "252. Major constituent of all natural gases is:",
+    options: [
+      "ethane",
+      "methane",
+      "propane",
+      "Cethane"
+    ],
+    correct: "methane"
+  },
+  {
+    question: "251. Two types of fans are:",
+    options: [
+      "centrifugal and axial",
+      "reciprocating and axial",
+      "centrifugal and rotary",
+      "tangential and rotary"
+    ],
+    correct: "centrifugal and axial"
+  },
+  {
+    question: "252. Enthalpy of substance at specified state due to chemical composition.",
+    options: [
+      "Enthalpy of reaction",
+      "Enthalpy of combustion",
+      "Enthalpy of formation",
+      "Enthalpy of product"
+    ],
+    correct: "Enthalpy of formation"
+  },
+  {
+    question: "253. A type of boiler used for super critical pressure operation.",
+    options: [
+      "La Mont boiler",
+      "Once-through-circulation boiler",
+      "Force circulation boiler",
+      "Natural circulation boiler"
+    ],
+    correct: "Once-through-circulation boiler"
+  },
+  {
+    question: "254. Economizer in a water tube boiler is heated by:",
+    options: [
+      "electric furnace",
+      "electric current",
+      "incoming flue gas",
+      "outgoing flue gas"
+    ],
+    correct: "outgoing flue gas"
+  },
+  {
+    question: "255. Receives heat partly by convection and partly by radiation.",
+    options: [
+      "radiant superheater",
+      "desuperheater",
+      "convective superheater",
+      "pendant superheater"
+    ],
+    correct: "pendant superheater"
+  },
+  {
+    question: "256. Regenerative superheater is a storage type of heat exchangers have an energy storage medium called:",
+    options: [
+      "Matrix",
+      "Regenerator",
+      "Boiler",
+      "Recuperator"
+    ],
+    correct: "Matrix"
+  },
+  {
+    question: "257. Stirling cycle uses a _________ as working fluids.",
+    options: [
+      "incompressible gas",
+      "incompressible fluids",
+      "compressible refrigerant",
+      "compressible fluids"
+    ],
+    correct: "compressible fluids"
+  },
+  {
+    question: "258. In Stirling process the heat is added during",
+    options: [
+      "isobaric process",
+      "isentropic process",
+      "isothermal process",
+      "heat process"
+    ],
+    correct: "isothermal process"
+  },
+  {
+    question: "259. Brayton cycle is also known as",
+    options: [
+      "Carnot cycle",
+      "Joule cycle",
+      "Diesel cycle",
+      "Rankine cycle"
+    ],
+    correct: "Joule cycle"
+  },
+  {
+    question: "260. Is applied to propulsion of vehicles because of certain practical characteristics.",
+    options: [
+      "Diesel cycle",
+      "Otto cycle",
+      "Carnot cycle",
+      "Brayton cycle"
+    ],
+    correct: "Brayton cycle"
+  },
+  {
+    question: "261. Heat exchangers typically involve",
+    options: [
+      "no work interactions",
+      "no heat interactions",
+      "no energy interactions",
+      "none of these"
+    ],
+    correct: "no work interactions"
+  },
+  {
+    question: "262. A device that is used to convert the heat to work is called",
+    options: [
+      "adiabatic",
+      "regenerator",
+      "heat engines",
+      "none of these"
+    ],
+    correct: "heat engines"
+  },
+  {
+    question: "263. The objective of a heat pump is to maintain a heated space at",
+    options: [
+      "low temperature",
+      "high temperature",
+      "medium temperature",
+      "none of these"
+    ],
+    correct: "high temperature"
+  },
+  {
+    question: "264. A device that violates the second law of thermodynamics is called",
+    options: [
+      "perpetual motion machine of second kind",
+      "perpetual motion machine of third kind",
+      "perpetual-motion machine of the first kind",
+      "none of these"
+    ],
+    correct: "perpetual motion machine of second kind"
+  },
+  {
+    question: "265. A process is called _________ if no irreversibilities occur outside the system boundaries during the process.",
+    options: [
+      "externally reversible",
+      "internally reversible",
+      "reversible",
+      "none of these"
+    ],
+    correct: "reversible"
+  },
+  {
+    question: "266. An energy interaction which is not accompanied by entropy transfer is",
+    options: [
+      "energy",
+      "heat",
+      "work",
+      "none of these"
+    ],
+    correct: "work"
+  },
+  {
+    question: "267. A _________ is used in aircraft engines and some automotive engine. In this method, a turbine driven by the exhaust gases is used to provide power to compressor or blower at the inlet.",
+    options: [
+      "discharging",
+      "turbocharging",
+      "supercharging",
+      "scavenging"
+    ],
+    correct: "turbocharging"
+  },
+  {
+    question: "268. The only devices where the changes in kinetic energy are significant are the",
+    options: [
+      "compressor",
+      "pumps",
+      "nozzles and diffusers",
+      "none of these"
+    ],
+    correct: "nozzles and diffusers"
+  },
+  {
+    question: "269. The distance between TDC and BDC in which the piston can travel is the",
+    options: [
+      "right extreme position",
+      "displacement stroke",
+      "stroke of the engine",
+      "swept stroke"
+    ],
+    correct: "stroke of the engine"
+  },
+  {
+    question: "270. In compression-engine, the combustion of air-fuel mixture is self- ignited as a result of compressing the mixture above its",
+    options: [
+      "self developed temperature",
+      "mixing temperature",
+      "self feed temperature",
+      "self ignition temperature"
+    ],
+    correct: "self ignition temperature"
+  },
+  {
+    question: "271. The thermal efficiency of an ideal Otto cycle depends ____________ of the working fluid.",
+    options: [
+      "the pressure ratio of the engine and the specific heat ratio",
+      "the temperature ratio of the engine and the specific heat ratio",
+      "the moles ratio of the engine and the specific heat ratio",
+      "the compression ratio of the engine and the specific heat ratio"
+    ],
+    correct: "the compression ratio of the engine and the specific heat ratio"
+  },
+  {
+    question: "272. Using monatomic gas, the thermal efficiency of Otto cycle",
+    options: [
+      "increases",
+      "decreases",
+      "remains constant",
+      "none of these"
+    ],
+    correct: "increases"
+  },
+  {
+    question: "273. In diesel engine, combustion process during combustion occurs during",
+    options: [
+      "isothermal process",
+      "constant pressure process",
+      "isentropic process",
+      "adiabatic"
+    ],
+    correct: "constant pressure process"
+  },
+  {
+    question: "274. If the cutoff ratio decreases, the efficiency of diesel cycle",
+    options: [
+      "increases",
+      "decreases",
+      "remains constant",
+      "none of these"
+    ],
+    correct: "increases"
+  },
+  {
+    question: "275. In Ericsson cycle, the regeneration process occur during ___________ process.",
+    options: [
+      "constant volume",
+      "constant temperature",
+      "constant pressure",
+      "none of these"
+    ],
+    correct: "constant pressure"
+  },
+  {
+    question: "276. In Brayton cycle, the _________ during constant pressure process.",
+    options: [
+      "work is added",
+      "heat is transferred",
+      "pressure is rejected",
+      "energy is added"
+    ],
+    correct: "heat is transferred"
+  },
+  {
+    question: "277. The two major application areas of gas turbine engines are",
+    options: [
+      "driving automotive engine and locomotives",
+      "heating and generation",
+      "aircraft propulsion and electric power generation",
+      "none of these"
+    ],
+    correct: "aircraft propulsion and electric power generation"
+  },
+  {
+    question: "278. The use of regenerator in is recommended only when the turbine exhaust temperature is higher than the compressor",
+    options: [
+      "exit temperature",
+      "inlet temperature",
+      "mean temperature",
+      "absolute temperature"
+    ],
+    correct: "exit temperature"
+  },
+  {
+    question: "279. As the number of stages is increased, the expansion process becomes",
+    options: [
+      "isentropic",
+      "isothermal",
+      "isometric",
+      "polytropic"
+    ],
+    correct: "isothermal"
+  },
+  {
+    question: "280. Aircraft gas turbines operate at higher pressure ratio typically between",
+    options: [
+      "6 to 8",
+      "12 to 24",
+      "10 to 18",
+      "10 to 25"
+    ],
+    correct: "10 to 25"
+  },
+  {
+    question: "281. The first commercial high- pass ratio engines has a bypass ratio of",
+    options: [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    correct: "5"
+  },
+  {
+    question: "282. The single-stage expansion process of an ideal Brayton cycle without regeneration is replaced by a multistage expansion process with reheating between the same pressure limits. As a result of modification, thermal efficiency will:",
+    options: [
+      "increase",
+      "decrease",
+      "remain constant",
+      "none of these"
+    ],
+    correct: "decrease"
+  },
+  {
+    question: "283. Which of the following is/are the application of Brayton cycle",
+    options: [
+      "Propulsion system",
+      "Automotive Turbine Engines",
+      "Aircraft Turbine engines",
+      "all of these"
+    ],
+    correct: "all of these"
+  },
+  {
+    question: "284. It used as working fluid in high-temperature applications of vapor cycles.",
+    options: [
+      "Helium",
+      "Deuterium",
+      "Mercury",
+      "water"
+    ],
+    correct: "Mercury"
+  },
+  {
+    question: "285. The superheated vapor enters the turbine and expands isentropically and produces work by the rotating shaft. The ___________ may drop during the process.",
+    options: [
+      "density",
+      "viscosity of fuel",
+      "temperature and pressure",
+      "none of these"
+    ],
+    correct: "temperature and pressure"
+  },
+  {
+    question: "286. Only _________ of the turbine work output is required to operate the pump.",
+    options: [
+      "0.01%",
+      "0.02%",
+      "0.03%",
+      "0.04%"
+    ],
+    correct: "0.04%"
+  },
+  {
+    question: "287. Superheating the steam to higher temperatures decreases the moisture content of the steam at the _________.",
+    options: [
+      "turbine inlet",
+      "compressor inlet",
+      "compressor exit",
+      "turbine exit"
+    ],
+    correct: "turbine exit"
+  },
+  {
+    question: "288. Regeneration also provides a convenient means of dearating the feedwater to prevent",
+    options: [
+      "boiler explosion",
+      "boiler scale production",
+      "boiler corrosion",
+      "compressor damage"
+    ],
+    correct: "boiler corrosion"
+  },
+  {
+    question: "289. Can be apply in Steam turbine cycle (Rankine), Gas turbine cycle (Brayton) and Combined cycle.",
+    options: [
+      "Hydroelectric plant",
+      "Nuclear power plant",
+      "Cogeneration plant",
+      "Tidal power plant"
+    ],
+    correct: "Cogeneration plant"
+  },
+  {
+    question: "290. In a Rankine cycle with fixed turbine inlet conditions. What is the effect of lowering the condenser pressure, the heat rejected will:",
+    options: [
+      "increase",
+      "decrease",
+      "remains the same",
+      "none of these"
+    ],
+    correct: "decrease"
+  },
+  {
+    question: "291. In an ideal Rankine cycle with fixed boiler and condenser pressures. What is the effect of superheating the steam to a higher temperature, the pump work input will:",
+    options: [
+      "increase",
+      "decrease",
+      "remains the same",
+      "none of these"
+    ],
+    correct: "remains the same"
+  },
+  {
+    question: "292. How do the following quantities change when the simple ideal Rankine cycle is modified with regeneration? The heat rejected will:",
+    options: [
+      "increase",
+      "decrease",
+      "remains the same",
+      "none of these"
+    ],
+    correct: "decrease"
+  },
+  {
+    question: "293. During a combustion process, the components which exist before the reaction are called",
+    options: [
+      "reaction",
+      "combustion",
+      "reactants",
+      "product"
+    ],
+    correct: "reactants"
+  },
+  {
+    question: "294. Is an obvious reason for incomplete combustion.",
+    options: [
+      "Insufficient carbon",
+      "Insufficient air",
+      "Insufficient nitrogen",
+      "Insufficient oxygen"
+    ],
+    correct: "Insufficient oxygen"
+  },
+  {
+    question: "295. Higher heating value when H2O in the product of combustion is in",
+    options: [
+      "solid form",
+      "vapor form",
+      "gas form",
+      "liquid form"
+    ],
+    correct: "liquid form"
+  },
+  {
+    question: "296. Device which transfer heat from low temperature medium to a high temperature one is a",
+    options: [
+      "adiabatic",
+      "refrigerator",
+      "heat exchanger",
+      "heat pump"
+    ],
+    correct: "heat pump"
+  },
+  {
+    question: "297. A rule of thumb is that the COP improves by _________ for each oC the evaporating temperature is raised or the condensing temperature is lowered.",
+    options: [
+      "2 to 4%",
+      "6 to 7%",
+      "1 to 5%",
+      "6 to 10%"
+    ],
+    correct: "2 to 4%"
+  },
+  {
+    question: "298. Are generally more expensive to purchase and install than other heating systems, but they save money in the long run.",
+    options: [
+      "Refrigerator",
+      "Adiabator",
+      "Heat pumps",
+      "humidifyer"
+    ],
+    correct: "Heat pumps"
+  },
+  {
+    question: "299. The most widely used absorption system is the ammonia- water system, where ammonia is serves as refrigerant and H2O as the",
+    options: [
+      "cooling",
+      "heating",
+      "heating and cooling",
+      "transport medium"
+    ],
+    correct: "transport medium"
+  },
+  {
+    question: "300. The work done in throttling valve is",
+    options: [
+      "zero",
+      "one",
+      "infinity",
+      "none of these"
+    ],
+    correct: "zero"
+  },
+  {
+    question: "301. Stagnation enthalpy represents the enthalpy of a fluid when it is brought to rest ___________.",
+    options: [
+      "diabatically",
+      "adiabatically",
+      "isothermally",
+      "isobarically"
+    ],
+    correct: "adiabatically"
+  },
+  {
+    question: "302. Represents the temperature an ideal gas will attain when it is brought to rest adiabatically.",
+    options: [
+      "absolute zero temperature",
+      "stagnation temperature",
+      "boiling temperature",
+      "critical temperature"
+    ],
+    correct: "stagnation temperature"
+  },
+  {
+    question: "303. After passing through a nozzle the density of fluid decreases as the fluid velocity",
+    options: [
+      "increases",
+      "decreases",
+      "remains constant",
+      "none of these"
+    ],
+    correct: "increases"
+  },
+  {
+    question: "304. The volume flow passes through a venturi meter will:",
+    options: [
+      "increases",
+      "decreases",
+      "constant",
+      "varying"
+    ],
+    correct: "constant"
+  },
+  {
+    question: "305. A converging-diverging nozzle is the standard equipment in",
+    options: [
+      "subsonic aircraft",
+      "supersonic aircraft",
+      "hypersonic aircraft",
+      "trisonic aircraft"
+    ],
+    correct: "supersonic aircraft"
+  },
+  {
+    question: "306. Nozzle efficiencies range from",
+    options: [
+      "78 to 89%",
+      "80 to 90%",
+      "90 to 99%",
+      "93 to 98%"
+    ],
+    correct: "90 to 99%"
+  },
+  {
+    question: "307. By reheating the steam before entering the second stage in Rankine cycle, which of the following will increase?",
+    options: [
+      "pump work",
+      "Heat rejected",
+      "moisture content after expansion",
+      "condenser pressure"
+    ],
+    correct: "Heat rejected"
+  },
+  {
+    question: "308. A type of condenser combines the functions of a condenser and cooling tower is called:",
+    options: [
+      "air-cooled condenser",
+      "water-cooled condenser",
+      "ground-cooling condenser",
+      "evaporative condenser"
+    ],
+    correct: "evaporative condenser"
+  },
+  {
+    question: "309. An expansion valve with a fluid-charged remote bulb that maintains a constant degree of superheat in the evaporator is called:",
+    options: [
+      "thermostatic expansion valve",
+      "capillary tube",
+      "automatic expansion valve",
+      "float valve"
+    ],
+    correct: "thermostatic expansion valve"
+  },
+  {
+    question: "310. A refrigeration system ideally suited for use in air-craft because it is light in weight and requires less space is called:",
+    options: [
+      "mechanical vapor-compression",
+      "steam-jet",
+      "air cycle",
+      "vapor absorption"
+    ],
+    correct: "air cycle"
+  },
+  {
+    question: "311. Refrigerant with chemical formula CHClF2 is designated by:",
+    options: [
+      "R134a",
+      "R11",
+      "R12",
+      "R22"
+    ],
+    correct: "R22"
+  },
+  {
+    question: "312. Refrigerant with chemical formula CF3CH2F is designated by:",
+    options: [
+      "R134a",
+      "R11",
+      "R12",
+      "R22"
+    ],
+    correct: "R134a"
+  },
+  {
+    question: "313. Which refrigerant does not belong to the group?",
+    options: [
+      "ammonia",
+      "methane",
+      "propane",
+      "Isobutane"
+    ],
+    correct: "ammonia"
+  },
+  {
+    question: "314. Carbon dioxide refrigerant is designated by:",
+    options: [
+      "R717",
+      "R600",
+      "R744",
+      "R718"
+    ],
+    correct: "R744"
+  },
+  {
+    question: "315. Piping, fittings and valves materials found suitable for use in ammonia refrigerant are manufactured from:",
+    options: [
+      "Copper",
+      "Iron and Steel",
+      "Aluminum",
+      "Brass"
+    ],
+    correct: "Iron and Steel"
+  },
+  {
+    question: "316. Which statement is correct with water-cooled shell and tube type of condenser?",
+    options: [
+      "Refrigerant condensing inside tubes and water flowing in the shell.",
+      "Water flowing through passes inside tubes and the refrigerant condensing in the shell.",
+      "Both refrigerant and water flowing through passes inside tubes and refrigerant condensing.",
+      "A, B, and C are correct"
+    ],
+    correct: "Water flowing through passes inside tubes and the refrigerant condensing in the shell."
+  },
+  {
+    question: "317. In a vapour-absorption refrigeration system utilizing ammonia as refrigerant and the absorbent is:",
+    options: [
+      "Water",
+      "Lithium Bromide",
+      "Carbon dioxide",
+      "Air"
+    ],
+    correct: "Water"
+  },
+  {
+    question: "318. The most common secondary refrigerant medium used in indirect refrigeration system such as in industrial ice plants and cold storages.",
+    options: [
+      "Hydrocarbon",
+      "Air",
+      "Carbon dioxide",
+      "Brine"
+    ],
+    correct: "Brine"
+  },
+  {
+    question: "319. A constant restriction expansion device in refrigeration system which is merely a long tube with narrow bore is called.",
+    options: [
+      "Thermostatic expansion valve",
+      "Capillary tube",
+      "Automatic expansion valve",
+      "Float valve"
+    ],
+    correct: "Capillary tube"
+  },
+  {
+    question: "320. Mixtures of refrigerants but which behave like pure substance are called:",
+    options: [
+      "isomers",
+      "azeotropes",
+      "hydrocarbons",
+      "CFC"
+    ],
+    correct: "azeotropes"
+  },
+  {
+    question: "321. In refrigeration compressor that has an electric motor and a compressor built into an integral housing is commonly called:",
+    options: [
+      "hermetic compressor",
+      "combined compressor",
+      "Open type compressor",
+      "packaged compressor"
+    ],
+    correct: "hermetic compressor"
+  },
+  {
+    question: "322. Compounds with same chemical formula but different molecular structure (such R134 & R134a) are called:",
+    options: [
+      "brominated",
+      "azeotropes",
+      "hydrocarbons",
+      "isomers"
+    ],
+    correct: "isomers"
+  },
+  {
+    question: "323. Which of the following refrigerants does not belong to the group:",
+    options: [
+      "Carbon dioxide",
+      "Water",
+      "Ammonia",
+      "Isobutane"
+    ],
+    correct: "Isobutane"
+  },
+  {
+    question: "324. An expansion valve used for a flooded type of evaporator in a refrigeration system is called:",
+    options: [
+      "thermostatic expansion valve",
+      "capillary tube",
+      "automatic expansion valve",
+      "float valve"
+    ],
+    correct: "float valve"
+  },
+  {
+    question: "325. An atom in the refrigerant molecule considered responsible for the depletion ozone layer in upper atmosphere (stratosphere)",
+    options: [
+      "Cl atom",
+      "F-atom",
+      "H atom/s",
+      "C atom"
+    ],
+    correct: "Cl atom"
+  },
+  {
+    question: "326. A vapour compression system used for production of low temperatures in which a series of refrigerants, with progressively lower boiling points, are used in series of single-stage units is called:",
+    options: [
+      "multipressure system",
+      "single-stage system",
+      "cascade system",
+      "series system"
+    ],
+    correct: "cascade system"
+  },
+  {
+    question: "327. Which statement is correct on the effect of liquid subcooling in a vapor compression system?",
+    options: [
+      "subcooling both increases flashing of the liquid during expansion and the refrigerating effect.",
+      "subcooling increases flashing of the liquid during expansion and increases the refrigerating effect.",
+      "subcooling both decreases flashing of the liquid during expansion and the refrigerating effect.",
+      "subcooling decreases flashing of the liquid during expansion and increases the refrigerating effect."
+    ],
+    correct: "subcooling decreases flashing of the liquid during expansion and increases the refrigerating effect."
+  },
+  {
+    question: "328. Which statement is correct on the effect of suction vapor superheating in a vapor compression system?",
+    options: [
+      "superheating both increases specific compressor work and the refrigerating effect.",
+      "superheating both decrease specific compressor work and the refrigerating effect.",
+      "superheating increases specific compressor work and decreases the refrigerating effect.",
+      "superheating decrease specific compressor work and increases the refrigerating effect."
+    ],
+    correct: "superheating both increases specific compressor work and the refrigerating effect."
+  },
+  {
+    question: "329. Which statement is correct on the effect of increasing condensing pressure in a vapor compression system?",
+    options: [
+      "increasing condensing pressure both increases specific compressor work and the refrigerating effect.",
+      "increasing condensing pressure both decrease specific compressor work and the refrigerating effect.",
+      "increasing condensing pressure increases specific compressor work and decreases the refrigerating effect.",
+      "increasing condensing pressure decrease specific compressor work and increases the refrigerating effect."
+    ],
+    correct: "increasing condensing pressure increases specific compressor work and decreases the refrigerating effect."
+  },
+  {
+    question: "330. Freezing method utilizes the combined effects of low temperature and high air velocity to produce a high rate of heat transfer from product is called:",
+    options: [
+      "indirect contact freezing",
+      "blast freezing",
+      "immersion freezing",
+      "spray freezing"
+    ],
+    correct: "blast freezing"
+  },
+  {
+    question: "331. A component installed a refrigeration system to ensure that no liquid enters the compressor and subcooled the liquid from condenser to prevent bubbles of vapor from impending the flow of refrigerant through expansion valve is called:",
+    options: [
+      "liquid-to-suction heat exchanger",
+      "flash chamber",
+      "subcooler",
+      "drier"
+    ],
+    correct: "liquid-to-suction heat exchanger"
+  },
+  {
+    question: "332. Refrigerant used in steam-jet refrigeration is:",
+    options: [
+      "ammonia",
+      "water",
+      "carbon dioxide",
+      "air"
+    ],
+    correct: "water"
+  },
+  {
+    question: "333. Which refrigerant is completely miscible with oil:",
+    options: [
+      "ammonia",
+      "R12",
+      "carbon dioxide",
+      "R134a"
+    ],
+    correct: "R12"
+  },
+  {
+    question: "334. Ammonia is not used in domestic refrigeration and comfort air-conditioning because:",
+    options: [
+      "ammonia is highly soluble in water.",
+      "ammonia is the cheapest refrigerant.",
+      "ammonia is flammable and toxic.",
+      "ammonia is non ozone depletion potential"
+    ],
+    correct: "ammonia is flammable and toxic."
+  },
+  {
+    question: "335. Refrigerants 22 (R22) which is an HCFC, has 1/20th the ozone depletion potential (ODP) of R11 and R12. Hence, it can be continue to be used for quite sometime. However, all these have global warming- potential (GWP). Because of this, R22 will have to be phased out by year:",
+    options: [
+      "2010 AD",
+      "2030 AD",
+      "2020",
+      "2040"
+    ],
+    correct: "2030 AD"
+  },
+  {
+    question: "336. Which of the statements is incorrect regarding the functions of the liquid receiver?",
+    options: [
+      "stores unused refrigerant returning from condenser",
+      "stores refrigerant to be evaporated by the expansion valve",
+      "provides a place to store refrigerant when pumping out the evaporator during maintenance operations.",
+      "stores oil that is carried along with refrigerant."
+    ],
+    correct: "stores oil that is carried along with refrigerant."
+  },
+  {
+    question: "337. A shutoff valve that is actuated by an electromagnetic coil is called:",
+    options: [
+      "solenoid valve",
+      "float switch",
+      "float valves",
+      "holdback valve"
+    ],
+    correct: "solenoid valve"
+  },
+  {
+    question: "338. A very important consequence of the ideal gas model is that the internal energy of an ideal gas is a function of ___________ only.",
+    options: [
+      "Pressure",
+      "Temperature",
+      "Point function",
+      "Volume"
+    ],
+    correct: "Temperature"
+  },
+  {
+    question: "339. At what temperature readings do the Fahrenheit and Celsius scales have the same value?",
+    options: [
+      "- 35 degrees",
+      "- 40 degrees",
+      "- 45 degrees",
+      "- 30 degrees"
+    ],
+    correct: "- 40 degrees"
+  },
+  {
+    question: "340. States that if the temperature of a given quantity of gas is held constant, the volume of the gas varies inversely with the absolute pressure during a change of state.",
+    options: [
+      "Daltons Law",
+      "Charles' Law",
+      "First Law of Thermodynamics",
+      "Boyle's Law"
+    ],
+    correct: "Boyle's Law"
+  },
+  {
+    question: "341. A unit of force that produces unit acceleration (in ft/s2) in a unit mass (in lbm)",
+    options: [
+      "Poundal",
+      "Pound",
+      "Newton",
+      "Dyne"
+    ],
+    correct: "Poundal"
+  },
+  {
+    question: "342. Which of the following does not belong to the group?",
+    options: [
+      "Potential Energy",
+      "Kinetic Energy",
+      "Heat Energy",
+      "Flow energy"
+    ],
+    correct: "Heat Energy"
+  },
+  {
+    question: "343. Why does a cube of ice float in water?",
+    options: [
+      "Ice has lower temperature than water",
+      "The density of ice is lesser than water",
+      "There are more water than ice",
+      "None of the above"
+    ],
+    correct: "The density of ice is lesser than water"
+  },
+  {
+    question: "344. The work done in pushing a fluid across a boundary, usually into or out of a system is called ___________",
+    options: [
+      "Potential Energy",
+      "Flow Energy",
+      "Kinetic Energy",
+      "Internal Energy"
+    ],
+    correct: "Flow Energy"
+  },
+  {
+    question: "345. Energy balance for steady flow process is:",
+    options: [
+      "Energy (in) = Energy (out)",
+      "Energy (int) = change in total energy",
+      "Energy (in) – Energy (out) = change in total energy",
+      "Energy (in) + Energy (out) = change in total energy"
+    ],
+    correct: "Energy (in) = Energy (out)"
+  },
+  {
+    question: "346. ___________ is a composite property applicable to all fluids and is defined by sum of internal energy and the product of pressure and volume",
+    options: [
+      "Heat",
+      "Work",
+      "Enthalpy",
+      "Total Work"
+    ],
+    correct: "Enthalpy"
+  },
+  {
+    question: "347. States that energy is neither created nor destroyed; it can only change forms:",
+    options: [
+      "Zeroth Law of Thermodynamics",
+      "First Law of Thermodynamics",
+      "Daltons Law",
+      "Archimedes Principle"
+    ],
+    correct: "First Law of Thermodynamics"
+  },
+  {
+    question: "348. Heat is defined as form of energy that is transferred between two systems by the virtue of a ___________.",
+    options: [
+      "Pressure difference",
+      "Mass difference",
+      "Volume difference",
+      "Temperature difference"
+    ],
+    correct: "Temperature difference"
+  },
+  {
+    question: "349. The useful energy transfer in Btu/hr divided by input power in Watts. This is just the coefficient of performance expressed in mixed units.",
+    options: [
+      "Energy efficiency ratio",
+      "Coil efficiency",
+      "Bypass factor",
+      "Sensible heat ratio"
+    ],
+    correct: "Energy efficiency ratio"
+  },
+  {
+    question: "350. If EER is the energy efficiency ratio, and COP is the coefficient of performance then",
+    options: [
+      "EER = 3.41 COP",
+      "COP = 3.41 EER",
+      "EER x COP = 3.41",
+      "3.41 EER x COP = 1"
+    ],
+    correct: "EER = 3.41 COP"
+  },
+  {
+    question: "351. Which of the following is a reversed Rankine vapor cycle?",
+    options: [
+      "Carnot refrigeration cycle",
+      "Vapor compression cycle",
+      "Air refrigeration cycle",
+      "Absorption cycle"
+    ],
+    correct: "Vapor compression cycle"
+  },
+  {
+    question: "352. The most common type of refrigeration cycle, finding application in household refrigerators, air conditioners for cars and houses, chillers and so on.",
+    options: [
+      "Carnot refrigeration cycle",
+      "Vapor compression cycle",
+      "Air refrigeration cycle",
+      "Absorption cycle"
+    ],
+    correct: "Vapor compression cycle"
+  },
+  {
+    question: "353. Which of the following is a reversed Brayton cycle?",
+    options: [
+      "Carnot refrigeration cycle",
+      "Vapor compression cycle",
+      "Air refrigeration cycle",
+      "Absorption cycle"
+    ],
+    correct: "Air refrigeration cycle"
+  },
+  {
+    question: "354. Which of the following cycle is bulky and involves toxic fluids, hence it is unsuitable for home and autocooling.",
+    options: [
+      "Carnot refrigeration cycle",
+      "Absorption cycle",
+      "Vapor compression cycle",
+      "Air refrigeration cycle"
+    ],
+    correct: "Absorption cycle"
+  },
+  {
+    question: "355. Which of the following refrigeration cycle is practical when large quantities of waste or inexpensive heat energy are available.",
+    options: [
+      "Heat driven refrigeration cycle",
+      "Absorption cycle",
+      "Vapor compression cycle",
+      "Air refrigeration cycle"
+    ],
+    correct: "Heat driven refrigeration cycle"
+  },
+  {
+    question: "356. A product of computer-aided manufacturing and precision machining, were introduced commercially in the late 1980's as replacements for reciprocating compressors in small residential air conditioners.",
+    options: [
+      "Reciprocating compressors",
+      "Centrifugal compressors",
+      "Rotary compressors",
+      "Scroll compressors"
+    ],
+    correct: "Scroll compressors"
+  },
+  {
+    question: "357. Condensers used in small and medium sized, up to approximately 100 tons refrigerators.",
+    options: [
+      "air-cooled condensers",
+      "water cooled condensers",
+      "high side condensers",
+      "low side condensers"
+    ],
+    correct: "air-cooled condensers"
+  },
+  {
+    question: "358. For efficient operation, the condensing temperature should not be lower than",
+    options: [
+      "5 C",
+      "17 C",
+      "10 C",
+      "20 C"
+    ],
+    correct: "5 C"
+  },
+  {
+    question: "359. For efficient operation, the condensing temperature should not be more than",
+    options: [
+      "5 C",
+      "17 C",
+      "10 C",
+      "20 C"
+    ],
+    correct: "17 C"
+  },
+  {
+    question: "360. Condensers used for larger capacities refrigerators.",
+    options: [
+      "air-cooled condensers",
+      "water-cooled condensers",
+      "high side condensers",
+      "low side condensers"
+    ],
+    correct: "water-cooled condensers"
+  },
+  {
+    question: "361. Coolers and chillers for water generally operate with an average temperature difference of",
+    options: [
+      "3 to 11 C",
+      "5 to 8 C",
+      "6 to 22 C",
+      "10 to 16 C"
+    ],
+    correct: "3 to 11 C"
+  },
+  {
+    question: "362. To avoid freezing problems, entering refrigerant should be",
+    options: [
+      "below - 2 C",
+      "above - 2 C",
+      "equal to - 2 C",
+      "0 C"
+    ],
+    correct: "above - 2 C"
+  },
+  {
+    question: "363. Suction lines should not be sized too large, as a reasonable velocity is needed to carry oil from the evaporator back to the compressor. For horizontal suction lines, the recommended minimum velocity is",
+    options: [
+      "3.8 m/s",
+      "6.1m/s",
+      "7.1 m/s",
+      "4.8 m/s"
+    ],
+    correct: "3.8 m/s"
+  },
+  {
+    question: "364. Type of turbine used for low heads, high rotational speeds and larger flow rates",
+    options: [
+      "axial flow turbines",
+      "reaction turbines",
+      "radial flow turbines",
+      "impulse turbines"
+    ],
+    correct: "axial flow turbines"
+  },
+  {
+    question: "365. To keep the deflected jet out of the way of the incoming jet, the actual angle is limited to approximately",
+    options: [
+      "135 deg.",
+      "150 deg.",
+      "165 deg.",
+      "175 deg."
+    ],
+    correct: "165 deg."
+  },
+  {
+    question: "366. Which of the following turbines are centrifugal pumps operating in reverse?",
+    options: [
+      "Reaction turbines",
+      "Impulse turbines",
+      "Tangential turbines",
+      "axial flow turbines"
+    ],
+    correct: "Reaction turbines"
+  },
+  {
+    question: "367. Also known as Francis turbines or radial flow turbines",
+    options: [
+      "Impulse turbines",
+      "Tangential turbines",
+      "Reaction turbines",
+      "Axial flow turbines"
+    ],
+    correct: "Reaction turbines"
+  },
+  {
+    question: "368. The turbine, draft tube and all related parts comprise what is known as",
+    options: [
+      "powerhouse",
+      "forbay",
+      "setting",
+      "surge chamber"
+    ],
+    correct: "setting"
+  },
+  {
+    question: "369. When a forbay is not part of the generating plant's design, it will be desirable to provide a ___________ in order to relieve the effects of rapid changes in flowrate.",
+    options: [
+      "forbay",
+      "draft tube",
+      "surge chamber",
+      "penstock"
+    ],
+    correct: "surge chamber"
+  },
+  {
+    question: "370. To keep the deflected jet out of the way of the incoming jet, the actual angle is limited to approximately",
+    options: [
+      "90 deg.",
+      "135 deg.",
+      "165 deg.",
+      "175 deg."
+    ],
+    correct: "165 deg."
+  },
+  {
+    question: "371. The minimum fluid energy required at the pump inlet for satisfactory operation is known as",
+    options: [
+      "NPSHR",
+      "NPSHA",
+      "velocity head",
+      "friction head"
+    ],
+    correct: "NPSHR"
+  },
+  {
+    question: "372. Throttling the input line to a pump and venting or evacuating the receiving tank",
+    options: [
+      "both increase cavitation",
+      "both decrease cavitation",
+      "both eliminate cavitation",
+      "both drive cavitation"
+    ],
+    correct: "both increase cavitation"
+  },
+  {
+    question: "373. Traditional reciprocating pumps with pistons and rods can be either single-acting or double acting and are suitable up to approximately",
+    options: [
+      "2000 psi",
+      "4000 psi",
+      "8000 psi",
+      "10,000 psi"
+    ],
+    correct: "2000 psi"
+  },
+  {
+    question: "374. Plunger pumps are only single-acting and are suitable up to approximately",
+    options: [
+      "2000 psi",
+      "4000 psi",
+      "8000 psi",
+      "10,000 psi"
+    ],
+    correct: "10,000 psi"
+  },
+  {
+    question: "375. The ratio of the actual to the ideal heat transfer coefficient.",
+    options: [
+      "fouling factor",
+      "sensible heat ratio",
+      "cleanliness factor",
+      "Biot number"
+    ],
+    correct: "cleanliness factor"
+  },
+  {
+    question: "376. The ratio of the maximum to minimum mass steam flow rates at which the temperature can be accurately contained by the desuperheater.",
+    options: [
+      "cleanliness ratio",
+      "capacity factor",
+      "turndown ratio",
+      "fouling factor"
+    ],
+    correct: "turndown ratio"
+  },
+  {
+    question: "377. With a reversible regenerator, the thermal efficiency of the Ericsson cycle is ____ to that of the Carnot cycle",
+    options: [
+      "less than",
+      "greater than",
+      "proportional",
+      "equal"
+    ],
+    correct: "equal"
+  },
+  {
+    question: "378. Used to described the act of blowing the exhaust product out with the air-fuel mixture",
+    options: [
+      "supercharging",
+      "scavenging",
+      "honing",
+      "choking"
+    ],
+    correct: "supercharging"
+  },
+  {
+    question: "379. Which of the following compresses and increases the amount of air that enters the cylinder per stroke",
+    options: [
+      "supercharging",
+      "scavenging",
+      "honing",
+      "choking"
+    ],
+    correct: "supercharging"
+  },
+  {
+    question: "380. A form of supercharging in which the exhaust gases drive the supercharger",
+    options: [
+      "lugging",
+      "honing",
+      "turbocharging",
+      "blower charging"
+    ],
+    correct: "turbocharging"
+  },
+  {
+    question: "381. A closed heat exchanger that transfer heat from compressed air to cooler air.",
+    options: [
+      "intercooler",
+      "regenerator",
+      "economizer",
+      "aftercooler"
+    ],
+    correct: "aftercooler"
+  },
+  {
+    question: "382. At the control stand, pitch of the turbine blades must be adjusted manually by a",
+    options: [
+      "sensor",
+      "float value",
+      "gate",
+      "switch"
+    ],
+    correct: "sensor"
+  },
+  {
+    question: "383. The most commonly used adjustable-blade propeller turbine.",
+    options: [
+      "Francis turbine",
+      "Kaplan turbine",
+      "Impulse turbine",
+      "Pelton wheel"
+    ],
+    correct: "Kaplan turbine"
+  },
+  {
+    question: "384. Runner blades are adjusted automatically in synchronism with turbine wicket gates by a/an",
+    options: [
+      "control valve",
+      "governor",
+      "oil servomotor",
+      "manual operation"
+    ],
+    correct: "oil servomotor"
+  },
+  {
+    question: "385. What is supplied to the servomotor from the turbine governor oil system through the generator shaft and through a control valve.",
+    options: [
+      "water",
+      "air",
+      "steam",
+      "oil"
+    ],
+    correct: "oil"
+  },
+  {
+    question: "386. Used to exhaust air from the casing for starting.",
+    options: [
+      "ejectors",
+      "daerator",
+      "injector",
+      "blower"
+    ],
+    correct: "ejectors"
+  },
+  {
+    question: "387. Advantageous for propeller turbines of all types",
+    options: [
+      "open flume setting",
+      "siphon setting",
+      "cost setting",
+      "capacity setting"
+    ],
+    correct: "siphon setting"
+  },
+  {
+    question: "388. A turbine setting where one disadvantage is the difficulty of lubricating the operating mechanism, consequent relatively rapid wear.",
+    options: [
+      "siphon setting",
+      "open flume setting",
+      "cast setting",
+      "capacity setting"
+    ],
+    correct: "open flume setting"
+  },
+  {
+    question: "389. A patented device combining expansion and compression functions in a single rotor permitting higher cycle temperatures.",
+    options: [
+      "Comprex",
+      "compressor",
+      "Expander",
+      "single-shaft"
+    ],
+    correct: "Comprex"
+  },
+  {
+    question: "390. A rough measure of the physical size of the equipment which must handle the specified quantity of the fluid",
+    options: [
+      "pressure ratio",
+      "fuel rate",
+      "thermal efficiency",
+      "Air rate"
+    ],
+    correct: "Air rate"
+  },
+  {
+    question: "391. The ratio of the highest main compressor discharge pressure to the lowest main compressor inlet pressure",
+    options: [
+      "cycle pressure ratio",
+      "cycle pressure level",
+      "work ratio",
+      "Air rate"
+    ],
+    correct: "cycle pressure ratio"
+  },
+  {
+    question: "392. The ratio of the maximum pressure in the cycle to the atmospheric pressure",
+    options: [
+      "cycle pressure ratio",
+      "cycle pressure level",
+      "regenerator effectiveness",
+      "thermal efficiency"
+    ],
+    correct: "cycle pressure level"
+  },
+  {
+    question: "393. The ratio of the actual partial pressure exerted by the water vapor in any volume of air to the partial pressure that would be exerted by the water vapor if the water vapor in the air is saturated at the temperature of the air",
+    options: [
+      "relative humidity",
+      "absolute humidity",
+      "humidity ratio",
+      "saturation ratio"
+    ],
+    correct: "relative humidity"
+  },
+  {
+    question: "394. An expression of the mass of water vapor per unit mass of dry air",
+    options: [
+      "relative humidity",
+      "absolute humidity",
+      "humidity ratio",
+      "saturation ratio"
+    ],
+    correct: "humidity ratio"
+  },
+  {
+    question: "395. Which of the following is equivalent to 1 lb ?",
+    options: [
+      "5000 grains",
+      "6000 grains",
+      "7000 grains",
+      "8000 grains"
+    ],
+    correct: "7000 grains"
+  },
+  {
+    question: "396. The locus of states that have the same value of stagnation enthalpy and mass flux is called.",
+    options: [
+      "Fanno line",
+      "Rayleigh Line",
+      "Willan's line",
+      "Mollier's line"
+    ],
+    correct: "Fanno line"
+  },
+  {
+    question: "397. Combining the conservation of mass and momentum equations into a single equation and plotting it on the h-s diagram yield a curve called",
+    options: [
+      "Fanno line",
+      "Rayleigh line",
+      "Willan's line",
+      "Mollier's line"
+    ],
+    correct: "Rayleigh line"
+  },
+  {
+    question: "398. Across the shock, the stagnation temperature of an ideal gas",
+    options: [
+      "increases",
+      "decreases",
+      "remains constant",
+      "proportional"
+    ],
+    correct: "remains constant"
+  },
+  {
+    question: "399. The locus of points where condensation will take place regardless of the initial temperature and pressure at the nozzle entrance.",
+    options: [
+      "Fanno line",
+      "Rayleigh line",
+      "Willan line",
+      "Wilson line"
+    ],
+    correct: "Wilson line"
+  },
+  {
+    question: "400. The enthalpy of a substance at a specified state due to its chemical composition.",
+    options: [
+      "enthalpy of reaction",
+      "enthalpy of combustion",
+      "enthalpy of formation",
+      "enthalpy of vaporization"
+    ],
+    correct: "enthalpy of formation"
+  },
+  {
+    question: "401. Since the air-conditioning apparatus usually removes heat and moisture from both the conditioned room and from outside make-up air, the sensible heat ratio that can be used is",
+    options: [
+      "Room sensible heat ratio",
+      "Coil or Apparatus sensible heat ratio",
+      "Grand sensible heat ratio",
+      "Effective sensible heat ratio"
+    ],
+    correct: "Grand sensible heat ratio"
+  },
+  {
+    question: "402. The slope of the line between the apparatus dewpoint on the saturation line and the design conditions of the conditioned space.",
+    options: [
+      "Room sensible heat ratio",
+      "Coil or Apparatus sensible heat ratio",
+      "Grand sensible heat ratio",
+      "Effective sensible heat ratio"
+    ],
+    correct: "Effective sensible heat ratio"
+  },
+  {
+    question: "403. The sensible heat ratio is a",
+    options: [
+      "sensible slope",
+      "latent slope",
+      "geometric slope",
+      "psychrometric slope"
+    ],
+    correct: "psychrometric slope"
+  },
+  {
+    question: "404. The percentage of the air that is not cooled or heated is",
+    options: [
+      "bypass factor",
+      "coil factor",
+      "energy-efficiency ratio",
+      "saturation ratio"
+    ],
+    correct: "bypass factor"
+  },
+  {
+    question: "405. The bypass factors for large commercial units",
+    options: [
+      "around 20%",
+      "around 30%",
+      "around 10%",
+      "around 50%"
+    ],
+    correct: "around 10%"
+  },
+  {
+    question: "406. The bypass factors for residential units are approximately",
+    options: [
+      "10%",
+      "15%",
+      "25%",
+      "35%"
+    ],
+    correct: "35%"
+  },
+  {
+    question: "407. The complement of the bypass factor is",
+    options: [
+      "Saturation ratio",
+      "energy efficiency ratio",
+      "coil efficiency",
+      "grand efficiency"
+    ],
+    correct: "coil efficiency"
+  },
+  {
+    question: "408. The mass of water sprayed to the mass of air passing through the washer per unit time",
+    options: [
+      "humidification load",
+      "spray ratio",
+      "water vapor",
+      "circulation ratio"
+    ],
+    correct: "spray ratio"
+  },
+  {
+    question: "409. In a cooling tower, the water passes over staggered slats or interior fill, also known as",
+    options: [
+      "shedding",
+      "packing",
+      "cellular",
+      "polyvinyl"
+    ],
+    correct: "packing"
+  },
+  {
+    question: "410. The ratio of total dissolved solids in the recirculating water to the total dissolved solids in the make-up water.",
+    options: [
+      "ratio of concentration",
+      "cooling efficiency",
+      "coil efficiency",
+      "bypass factor"
+    ],
+    correct: "ratio of concentration"
+  },
+  {
+    question: "411. Through windage removes some of the solids, most must be removed by bleeding some of the water off. This is known as",
+    options: [
+      "range",
+      "approach",
+      "drift",
+      "bleed-off"
+    ],
+    correct: "bleed-off"
+  },
+  {
+    question: "412. A dry-cooling tower where steam travels through large diameter \"trunks\" to a cross-flow heat exchanger where it is condensed and cooled by the cooler air",
+    options: [
+      "direct condensing tower",
+      "indirect condensing dry cooling tower",
+      "evaporative cooling tower",
+      "atmospheric cooling tower"
+    ],
+    correct: "direct condensing tower"
+  },
+  {
+    question: "413. Which of the following is the refrigerant \"of choice\" in uniting air conditioners?",
+    options: [
+      "R-22",
+      "R-123",
+      "R-11",
+      "R-502"
+    ],
+    correct: "R-22"
+  },
+  {
+    question: "414. In new equipment, which of the following replaces R-11?",
+    options: [
+      "R-12",
+      "R-123",
+      "R-502",
+      "R-22"
+    ],
+    correct: "R-123"
+  },
+  {
+    question: "415. A New combustion turbines on the cutting edge of technology (Advanced turbine systems) are able to achieve",
+    options: [
+      "38 to 38.5 %",
+      "40 to 40.5 %",
+      "36 to 36.5 %",
+      "34 to 34.5 %"
+    ],
+    correct: "38 to 38.5 %"
+  },
+  {
+    question: "416. A regenerator is",
+    options: [
+      "a counterflow heat exchanger",
+      "a cross flow heat exchanger",
+      "a mixed flow heat exchanger",
+      "a parallel flow heat exchanger"
+    ],
+    correct: "a mixed flow heat exchanger"
+  },
+  {
+    question: "417. How many percent of solar energy survives absorption and reflection?",
+    options: [
+      "40 to 70 %",
+      "50 to 80 %",
+      "30 to 60 %",
+      "20 to 50 %"
+    ],
+    correct: "40 to 70 %"
+  },
+  {
+    question: "418. Which of the following collectors use mirrors and/or lenses to focus the suns energy on a small absorber area.",
+    options: [
+      "flat plate collectors",
+      "concentrating collectors",
+      "non focusing collectors",
+      "evacuated tube collectors"
+    ],
+    correct: "non focusing collectors"
+  },
+  {
+    question: "419. Which of the following collectors are useful when extremely hot transfer fluid is needed and are generally limited to commercial projects?",
+    options: [
+      "flat plate collectors",
+      "concentrating collectors",
+      "focusing collectors",
+      "evacuated tube collectors"
+    ],
+    correct: "evacuated tube collectors"
+  },
+  {
+    question: "420. The ratio of energy absorbed by the transfer fluid to the original incident energy striking the collector.",
+    options: [
+      "collector efficiency",
+      "shading factor",
+      "sun efficiency",
+      "absorptance"
+    ],
+    correct: "collector efficiency"
+  },
+  {
+    question: "421. The shading factor in calculating the heat absorbed by the solar collector has a value approximately",
+    options: [
+      "0.95 to 0.97",
+      "0.75 to 0.77",
+      "0.85 to 0.87",
+      "0.65 to 0.67"
+    ],
+    correct: "0.95 to 0.97"
+  },
+  {
+    question: "422. Which of the following main approaches to solar energy generating systems describes that parabolic tracking trough concentrators focus sunlight on evacuated glass tubes that run along the collectors focal lines.",
+    options: [
+      "trough electric system",
+      "power tower system",
+      "central receiver system",
+      "dish/Stirling system"
+    ],
+    correct: "trough electric system"
+  },
+  {
+    question: "423. Trough electric technology is relatively mature but due to the low temperatures, average annual thermal efficiencies are only",
+    options: [
+      "10 to 15 %",
+      "15 to 20 %",
+      "5 to 10 %",
+      "25 to 30 %"
+    ],
+    correct: "10 to 15 %"
+  },
+  {
+    question: "424. A field of heliostats or tracking mirrors concentrates solar energy onto a receiver on a central tower.",
+    options: [
+      "trough electric system",
+      "distributed collector system",
+      "power tower system",
+      "dish/Stirling system"
+    ],
+    correct: "distributed collector system"
+  },
+  {
+    question: "425. In a power tower system typical thermal efficiencies is in the range",
+    options: [
+      "10 to 15 %",
+      "15 to 20 %",
+      "5 to 10 %",
+      "25 to 30 %"
+    ],
+    correct: "15 to 20 %"
+  },
+  {
+    question: "426. A flash steam cycle can be used if the hot water temperature is approximately",
+    options: [
+      "165 C or higher",
+      "145 C to 200 C",
+      "150 C or higher",
+      "below 200 C"
+    ],
+    correct: "165 C or higher"
+  },
+  {
+    question: "427. A binary cycle using a separate heat transfer fluid if the temperature of the hot water is between approximately",
+    options: [
+      "165 C and 120 C",
+      "225 C and 175 C",
+      "200 C and 150 C",
+      "300 C and higher"
+    ],
+    correct: "165 C and 120 C"
+  },
+  {
+    question: "428. In a hot rock systems, water is injected through injection wells into artificially made fractured rock beds of how many kilometers below the surface?",
+    options: [
+      "1 to 6 km",
+      "4 to 10 km",
+      "3 to 9 km",
+      "6 to 11 km"
+    ],
+    correct: "1 to 6 km"
+  },
+  {
+    question: "429. What temperature is required to ignite the fuel oil?",
+    options: [
+      "800 to 1000 F",
+      "900 to 1100 F",
+      "700 to 900 F",
+      "1000 to 1200 F"
+    ],
+    correct: "800 to 1000 F"
+  },
+  {
+    question: "430. What air pressure is required to produce the required ignition temperature?",
+    options: [
+      "350 to 500 psi",
+      "450 to 600 psi",
+      "250 to 400 psi",
+      "150 to 300 psi"
+    ],
+    correct: "350 to 500 psi"
+  },
+  {
+    question: "431. The portion of the piston which extends below the piston pin and serves as a guide for the piston and connecting rod.",
+    options: [
+      "piston skirt",
+      "piston scoring",
+      "piston ring",
+      "piston seizure"
+    ],
+    correct: "piston skirt"
+  },
+  {
+    question: "432. Binding of the piston and the cylinder wall as a result of the lubrication having been destroyed by excessive temperature and friction.",
+    options: [
+      "piston skirt",
+      "piston scoring",
+      "piston ring",
+      "piston seizure"
+    ],
+    correct: "piston seizure"
+  },
+  {
+    question: "433. A combination of liquids which do not mix – or combine chemically.",
+    options: [
+      "emulsion",
+      "evaporation",
+      "deposition",
+      "separation"
+    ],
+    correct: "emulsion"
+  },
+  {
+    question: "444. At what temperature will self-igniting cartridges ignite?",
+    options: [
+      "About 200 F",
+      "About 210 F",
+      "About 190 F",
+      "About 250 F"
+    ],
+    correct: "About 190 F"
+  },
+  {
+    question: "445. The fuel is supplied by one pump and switched to each cylinder by a multi outlet rotating valve or distributor.",
+    options: [
+      "distributor system",
+      "non injector system",
+      "injector system",
+      "non distributor system"
+    ],
+    correct: "distributor system"
+  },
+  {
+    question: "446. A chamber so designed that injection takes place directly opposite its outlet, the chamber extending backward from the outlet.",
+    options: [
+      "pre combustion chamber",
+      "ante combustion chamber",
+      "separate combustion chamber",
+      "air cell chamber"
+    ],
+    correct: "ante combustion chamber"
+  },
+  {
+    question: "447. A cylindrical vessel connected in the fuel system to absorb the shock of the injection pumps and to provide a reservoir at high pressure for supplying an even flow of fuel oil to the cylinders.",
+    options: [
+      "absorber",
+      "governor",
+      "accumulator",
+      "injector"
+    ],
+    correct: "accumulator"
+  },
+  {
+    question: "448. Which of the following is used to improve cold weather starting?",
+    options: [
+      "poppet valve",
+      "check valve",
+      "glow plug",
+      "spark plug"
+    ],
+    correct: "glow plug"
+  },
+  {
+    question: "449. The rated power that the manufacturer claims the engine is able to provide on a continuous basis without incurring damage.",
+    options: [
+      "brakepower",
+      "intermittent rating",
+      "continuous duty rating",
+      "power rating"
+    ],
+    correct: "continuous duty rating"
+  },
+  {
+    question: "450. The peak power that can be produced on an occasional basis.",
+    options: [
+      "brakepower",
+      "intermittent rating",
+      "continuous duty rating",
+      "power rating"
+    ],
+    correct: "intermittent rating"
+  },
+  {
+    question: "451. A value of a property that includes the effect of friction is known as",
+    options: [
+      "brake value",
+      "indicated value",
+      "friction value",
+      "actual value"
+    ],
+    correct: "brake value"
+  },
+  {
+    question: "452. Forced draft fans are run at relatively high speeds in the range of",
+    options: [
+      "1200 to 1800 rpm",
+      "1500 to 2000 rpm",
+      "1000 to 1600 rpm",
+      "900 to 1500 rpm"
+    ],
+    correct: "1200 to 1800 rpm"
+  },
+  {
+    question: "453. Chimneys that rely on natural draft are sometimes referred to as",
+    options: [
+      "natural chimney",
+      "normal chimney",
+      "gravity chimney",
+      "stack"
+    ],
+    correct: "stack"
+  },
+  {
+    question: "454. For realistic problems, the achievable stack effect probably should be considered to be",
+    options: [
+      "75 % of the ideal",
+      "equal to the ideal",
+      "80 % of the ideal",
+      "half the ideal"
+    ],
+    correct: "80 % of the ideal"
+  },
+  {
+    question: "455. In a balanced system, the available draft is",
+    options: [
+      "unity",
+      "100",
+      "zero",
+      "infinite"
+    ],
+    correct: "zero"
+  },
+  {
+    question: "456. It is a device used for atomizing or cracking fuel oil and through which the fuel oil is injected into the working cylinders of Diesel engines.",
+    options: [
+      "atomizer",
+      "injector",
+      "fuel spray nozzle",
+      "cracker"
+    ],
+    correct: "atomizer"
+  },
+  {
+    question: "457. What is the proper seat width of a spray valve?",
+    options: [
+      "1/16 in.",
+      "1/32 in.",
+      "1/8 in.",
+      "1/4 in."
+    ],
+    correct: "1/16 in."
+  },
+  {
+    question: "458. A device which automatically governs or controls the speed of an engine.",
+    options: [
+      "servomotor",
+      "indicator",
+      "governor",
+      "speedometer"
+    ],
+    correct: "governor"
+  },
+  {
+    question: "459. The term enthalpy",
+    options: [
+      "is only used for the properties of refrigerant vapor.",
+      "is considered by Gibb’s Rule.",
+      "will measure, by its change, the quantity of heat added when refrigerant is vaporized at constant pressure.",
+      "defines the gas equation."
+    ],
+    correct: "will measure, by its change, the quantity of heat added when refrigerant is vaporized at constant pressure."
+  },
+  {
+    question: "460. When heat is added to moist air in an air – conditioning process",
+    options: [
+      "the wet – bulb temperature decreases.",
+      "the water vapor pressure increases.",
+      "the relative humidity increases.",
+      "the absolute humidity remains constant"
+    ],
+    correct: "the absolute humidity remains constant"
+  },
+  {
+    question: "461. Air having a relative humidity of 50% is heated in an air conditioning apparatus. After having it will be found that.",
+    options: [
+      "its relative humidity will be lower than 50%.",
+      "its relative humidity will be higher than 50%.",
+      "its vapor pressure will decrease.",
+      "its absolute humidity remains constant."
+    ],
+    correct: "its absolute humidity remains constant."
+  },
+  {
+    question: "462. The ton of refrigeration is a heat unit equivalent to",
+    options: [
+      "3,413 BTU/hr",
+      "2,545 BTU/hr",
+      "990 BTU/hr",
+      "12,000 BTU/hr"
+    ],
+    correct: "12,000 BTU/hr"
+  },
+  {
+    question: "463. In the process of heating atmospheric air in an air conditioning apparatus",
+    options: [
+      "the relative humidity increases.",
+      "the relative humidity remains constant.",
+      "the water vapor pressure decreases.",
+      "the absolute or specific humidity remains constant."
+    ],
+    correct: "the absolute or specific humidity remains constant."
+  },
+  {
+    question: "464. The temperature at which the vapor in mixture is cooled at constant pressure is called",
+    options: [
+      "Dry - bulb temperature",
+      "Wet - bulb temperature",
+      "Dew - point temperature",
+      "Relative humidity"
+    ],
+    correct: "Dew - point temperature"
+  },
+  {
+    question: "465. Refers to the amount of air that has not been in contact, during the sensible cooling process, with the surface of the cooler coil.",
+    options: [
+      "Coil efficiency",
+      "Coil contact factor",
+      "Coil by - pass factor",
+      "None of these"
+    ],
+    correct: "Coil by - pass factor"
+  },
+  {
+    question: "466. The process that the body uses to convert energy in food to heat and work, or the process that determines the rate at which energy is converted from chemical to thermal form within the body.",
+    options: [
+      "Metabolism",
+      "Eating",
+      "Body food processing",
+      "Blood circulation"
+    ],
+    correct: "Metabolism"
+  },
+  {
+    question: "467. It is a body insulation that is usually described as a single equivalent uniform layer over the whole body.",
+    options: [
+      "Skin",
+      "Blood",
+      "Clothing",
+      "Water"
+    ],
+    correct: "Clothing"
+  },
+  {
+    question: "468. Mean radiant temperature is the basic index used to describe the radiant conditions in a space, it is the mean temperature of individual exposed surfaces in the environment.",
+    options: [
+      "Index temperature",
+      "Mean radiant temperature",
+      "Space temperature",
+      "Dry - bulb temperature"
+    ],
+    correct: "Mean radiant temperature"
+  },
+  {
+    question: "469. It is the most common instrument used to determine the main radiant temperature. It consists of a hollow sphere 6 inches in diameter, flat black paint coating, and a thermocouple or thermometer bulb at its center.",
+    options: [
+      "Psychrometer",
+      "Mercury thermometer",
+      "Vernon’s globe thermometer",
+      "Kelvin’s thermometer"
+    ],
+    correct: "Vernon’s globe thermometer"
+  },
+  {
+    question: "470. It is the mechanism of heat transfer between parts of a continuum because of transfer of energy between particles or groups of particles at the atomic level. It is the mode of heat transmission through the building structure, like the wall, due to the temperature difference between surfaces of the wall.",
+    options: [
+      "Heat transmission",
+      "Thermal conduction",
+      "Solar radiation",
+      "Thermal convection"
+    ],
+    correct: "Thermal conduction"
+  },
+  {
+    question: "471. It is the transport of energy by mixing in addition to conduction. It is associated with fluids in motion, generally through a pipe or duct or along a surface.",
+    options: [
+      "Heat transmission",
+      "Thermal conduction",
+      "Solar radiation",
+      "Thermal convection"
+    ],
+    correct: "Thermal convection"
+  },
+  {
+    question: "472. A form of thermal convection when the bulk of the fluid is moving relative to the heat transfer surface because such motion is usually caused by a blower, fan, or pump that is forcing the flow.",
+    options: [
+      "Slow convection",
+      "Forced convection",
+      "Free convection",
+      "Thermal convection"
+    ],
+    correct: "Forced convection"
+  },
+  {
+    question: "473. A form of thermal convection when the motion of the fluid is due entirely to buoyancy forces, usually confined to a layer near the heated or cooled surface.",
+    options: [
+      "Slow convection",
+      "Forced convection",
+      "Free convection",
+      "Thermal convection"
+    ],
+    correct: "Free convection"
+  },
+  {
+    question: "474. A mode of heat transfer by electromagnetic waves, an entirely different phenomenon from conduction and convection; it can occur in a perfect vacuum and is usually impeded by an intervening medium.",
+    options: [
+      "Thermal radiation",
+      "Thermal conduction",
+      "Solar radiation",
+      "Thermal convection"
+    ],
+    correct: "Thermal radiation"
+  },
+  {
+    question: "475. An enveloped area with significantly higher rate of heat transfer than the contagious enclosure is called:",
+    options: [
+      "Air condition room",
+      "Thermal bridge",
+      "Global irradiation",
+      "Fenestration"
+    ],
+    correct: "Thermal bridge"
+  },
+  {
+    question: "476. It is the total thermal radiation that impinges on a surface from all directions and from all sources.",
+    options: [
+      "Adsorption",
+      "Thermal bridge",
+      "Total or global irradiation",
+      "Transmission"
+    ],
+    correct: "Total or global irradiation"
+  },
+  {
+    question: "477. The transformation of the radiant energy into thermal energy stored by the molecules is known as",
+    options: [
+      "Absorption",
+      "Transmission",
+      "Radiation",
+      "Reflection"
+    ],
+    correct: "Absorption"
+  },
+  {
+    question: "478. It is the return of radiation by a surface without change of frequency; the radiation is \"bounced\" off of the surface.",
+    options: [
+      "Absorption",
+      "Transmission",
+      "Fenestration",
+      "Reflection"
+    ],
+    correct: "Reflection"
+  },
+  {
+    question: "479. In a refrigeration system, the heat absorbed in the evaporator per kg refrigerant passing through",
+    options: [
+      "equals the increase in enthalpy.",
+      "equals the increase in volume.",
+      "does not depend on the refrigerant used.",
+      "is decreased if pre-cooler is used."
+    ],
+    correct: "equals the increase in enthalpy."
+  },
+  {
+    question: "480. It is the passage of radiation through a medium without change of frequency.",
+    options: [
+      "Absorption",
+      "Transmission",
+      "Fenestration",
+      "Reflection"
+    ],
+    correct: "Transmission"
+  },
+  {
+    question: "481. It refers to any glazed aperture in a building envelope, the components of which include: glazing material, either glass or plastic; framing, mullions, muntins, and dividers; external shading devices; and integral shading systems (between glass).",
+    options: [
+      "Absorption",
+      "Transmission",
+      "Fenestration",
+      "Radiation"
+    ],
+    correct: "Fenestration"
+  },
+  {
+    question: "482. The rate at which energy is transferred to or generated within a space is called:",
+    options: [
+      "Heat transmission",
+      "Heat conduction",
+      "Heat gain",
+      "Sensible heat convection"
+    ],
+    correct: "Heat gain"
+  },
+  {
+    question: "483. It is the rate at which energy must be removed from a space to maintain the temperature and humidity at the design values.",
+    options: [
+      "Heating load",
+      "Heat conduction",
+      "Heat gain",
+      "Cooling load"
+    ],
+    correct: "Cooling load"
+  },
+  {
+    question: "484. A It is the rate at which energy is removed from a space by cooling and dehumidifying equipment. This rate must be equal to the cooling load when the space conditions are constant and the equipment is operating.",
+    options: [
+      "Heat transmission rate",
+      "Heat extraction rate",
+      "Heat gain rate",
+      "Heat conduction rate"
+    ],
+    correct: "Heat extraction rate"
+  },
+  {
+    question: "485. It is a computer or hand calculation procedure where energy requirements are determined at many outdoor temperature conditions. It is used for the energy calculations of air conditioning systems.",
+    options: [
+      "Vernon method",
+      "Bin method",
+      "Kelvin method",
+      "Dalton method"
+    ],
+    correct: "Bin method"
+  },
+  {
+    question: "486. It is the temperature of a uniform environment at 100% relative humidity in which a person or occupant loses the same total amount of heat from the skin as in the actual environment.",
+    options: [
+      "Humid operative temperature",
+      "Mean temperature",
+      "Mean radiant temperature",
+      "All of these"
+    ],
+    correct: "Humid operative temperature"
+  },
+  {
+    question: "487. It is the ratio of the total evaporative heat loss required for thermal equilibrium to the maximum evaporative heat loss possible for the environment, multiplied by 100, for the steady – state conditions, and with the skin temperature constant at 95 ºF.",
+    options: [
+      "Temperature index",
+      "Heat stress index",
+      "Sensible heat index",
+      "None of the above"
+    ],
+    correct: "Heat stress index"
+  },
+  {
+    question: "488. It is the temperature of a uniform environment at 0% relative humidity in which a person or occupant loses the same total amount of heat from the skin as in the actual environment.",
+    options: [
+      "Dry – bulb temperature",
+      "Mean temperature",
+      "Adiabatic equivalent temperature",
+      "Wet – bulb globe temperature"
+    ],
+    correct: "Adiabatic equivalent temperature"
+  },
+  {
+    question: "489. A Heat added to or removed from a substance that cause a change of temperature:",
+    options: [
+      "absolute heat",
+      "specific heat",
+      "latent heat",
+      "sensible heat"
+    ],
+    correct: "sensible heat"
+  },
+  {
+    question: "490. It is an environment heat stress index that combines the dry – bulb temperature, a naturally ventilated wet – bulb temperature, and the globe temperature.",
+    options: [
+      "Dry – bulb globe temperature",
+      "Mean radiant temperature",
+      "Adiabatic equivalent temperature",
+      "Wet – bulb globe temperature"
+    ],
+    correct: "Wet – bulb globe temperature"
+  },
+  {
+    question: "491. It is an empirical index for the combined effect of wind and low temperature.",
+    options: [
+      "Temperature index",
+      "Heat stress index",
+      "Wind chill index",
+      "Sensible heat index"
+    ],
+    correct: "Wind chill index"
+  },
+  {
+    question: "492. A method of air handling to an air conditioned room that produces more economical performance as compared with systems where reheat might be required is called.",
+    options: [
+      "One hundred percent outdoor air",
+      "Air washing system",
+      "Recirculated air with external bypass",
+      "None of the above"
+    ],
+    correct: "Recirculated air with external bypass"
+  },
+  {
+    question: "493. It is the ratio of the air humidity ratio to the humidity ratio of saturated air at the same temperature.",
+    options: [
+      "Relative humidity",
+      "Specific humidity",
+      "Percent saturation",
+      "None of the above"
+    ],
+    correct: "Percent saturation"
+  },
+  {
+    question: "494. It is the ratio of the actual partial pressure of vapor and the saturation pressure of vapor corresponding to the actual temperature of the mixture.",
+    options: [
+      "Relative humidity",
+      "Specific humidity",
+      "Humidity ratio",
+      "All of the above"
+    ],
+    correct: "Relative humidity"
+  },
+  {
+    question: "495. Heat gain or heat loss due to a temperature difference across a building element is .",
+    options: [
+      "Transmission",
+      "Solar",
+      "Infiltration",
+      "All of the above"
+    ],
+    correct: "Transmission"
+  },
+  {
+    question: "496. One ton of refrigeration is equivalent to",
+    options: [
+      "12,000 BTU/hr",
+      "50.4 kcal/min",
+      "200 BTU/min",
+      "All of the above"
+    ],
+    correct: "All of the above"
+  },
+  {
+    question: "497. Air whose condition is such that any decrease in temperature will result in condensation of the water vapor into liquid.",
+    options: [
+      "Moist air",
+      "Dry air",
+      "Saturated air",
+      "Unsaturated air"
+    ],
+    correct: "Saturated air"
+  },
+  {
+    question: "498. A binary mixture of dry air and water vapor is known as:",
+    options: [
+      "Moist air",
+      "Dry air",
+      "Saturated air",
+      "Unsaturated air"
+    ],
+    correct: "Moist air"
+  },
+  {
+    question: "499. In compressing air in water – jacketed air compressor, the power required to drive it",
+    options: [
+      "is independent of the quantity of water circulated, for given pressure range.",
+      "does not depend on the pressure range.",
+      "depends on the temperature change of the air for a given pressure range.",
+      "only depends on the exponent of the re-expansion valve."
+    ],
+    correct: "depends on the temperature change of the air for a given pressure range."
+  },
+  {
+    question: "500. An instrument used in the study of the properties of air.",
+    options: [
+      "Thermometer",
+      "Psychrometer",
+      "Hydrometer",
+      "None of the above"
+    ],
+    correct: "Psychrometer"
+  },
+  {
+    question: "501. The difference between dry–bulb and wet – bulb temperatures.",
+    options: [
+      "Wet-bulb depression",
+      "Cooling approach",
+      "Dry-bulb difference",
+      "Cooling range"
+    ],
+    correct: "Wet-bulb depression"
+  },
+  {
+    question: "502. The transmission of heat from one place to another by fluid circulation between spots of different temperature is called.",
+    options: [
+      "Convection",
+      "Radiation",
+      "Conservation",
+      "Conduction"
+    ],
+    correct: "Convection"
+  },
+  {
+    question: "503. A machine or equipment used for drying process.",
+    options: [
+      "Dewaterer",
+      "Dryer",
+      "Evaporator",
+      "Filter"
+    ],
+    correct: "Dryer"
+  },
+  {
+    question: "504. Water occurring when chemical component of the material changes its chemical composition by heat or other means is called.",
+    options: [
+      "Moisture",
+      "Water vapor",
+      "Steam",
+      "Chemically combined water"
+    ],
+    correct: "Chemically combined water"
+  },
+  {
+    question: "505. A wet - type mechanical classifier (solids separator) in which solids settle out of the carrier liquid and are concentrated for recovery is known as:",
+    options: [
+      "Dewaterer",
+      "Dryer",
+      "Evaporator",
+      "Filter"
+    ],
+    correct: "Dewaterer"
+  },
+  {
+    question: "506. A term used for describing the moisture in the mass that is not on the surface of the material.",
+    options: [
+      "Moisture content",
+      "Vapor",
+      "Inherent moisture",
+      "Chemically combined water"
+    ],
+    correct: "Inherent moisture"
+  },
+  {
+    question: "507. The main principle of the term drying process.",
+    options: [
+      "Dewatering",
+      "Water removal",
+      "Evaporation",
+      "Compression"
+    ],
+    correct: "Evaporation"
+  },
+  {
+    question: "508. The common term for processes using only pressure, suction, or decantation.",
+    options: [
+      "Dewatering",
+      "Drying",
+      "Evaporation",
+      "Decantation"
+    ],
+    correct: "Dewatering"
+  },
+  {
+    question: "509. The process of removing moisture in varying amounts from solid or semi – fluid materials; the process may be accomplished by pressure, suction, decantation, or evaporation.",
+    options: [
+      "Dewatering",
+      "Drying",
+      "Evaporation",
+      "Decantation"
+    ],
+    correct: "Drying"
+  },
+  {
+    question: "510. A type of dryer that may have the flame from combustion impinging on the material being dried; or the gases of combustion may be mixed with additional air so that mixture in contact with the material is reduced in temperature.",
+    options: [
+      "Direct-type dryer",
+      "Indirect-type dryer",
+      "Centrifugal dryer",
+      "Steam-heated type dryer"
+    ],
+    correct: "Direct-type dryer"
+  },
+  {
+    question: "511. The most commonly used dryer that consists of a rotating cylinder inside which the materials flow while getting in contact with the hot gases. The cylinder is tilted at right angle and fitted with lifting flights. This dryer is used for copra, sand, or woods chips.",
+    options: [
+      "Rotary dryer",
+      "Tower dryer",
+      "Hearth dryer",
+      "Centrifugal dryer"
+    ],
+    correct: "Rotary dryer"
+  },
+  {
+    question: "512. A dryer where material is in contact with steam pipes or the air is passed over steam heaters and then over or through the material being dried.",
+    options: [
+      "Direct-heat type dryer",
+      "Indirect-heat type dryer",
+      "Tower dryer",
+      "Steam-heated dryer"
+    ],
+    correct: "Steam-heated dryer"
+  },
+  {
+    question: "513. A dryer that consists of a centrifuge revolving at high speed causing the separation, by centrifugal force, of the water from the material. This dryer is used for drying fertilizer, salt, and sugar.",
+    options: [
+      "Rotary dryer",
+      "Tower dryer",
+      "Hearth dryer",
+      "Centrifugal dryer"
+    ],
+    correct: "Centrifugal dryer"
+  },
+  {
+    question: "514. A dryer type in which material to be dried is supported on a floor through which the hot gases pass. This dryer is used for copra, coal, and enamel wares.",
+    options: [
+      "Rotary dryer",
+      "Tower dryer",
+      "Hearth dryer",
+      "Centrifugal dryer"
+    ],
+    correct: "Hearth dryer"
+  },
+  {
+    question: "515. Those substance that are particularly variable in the moisture content that they can possess at different times.",
+    options: [
+      "Wet materials",
+      "Hygroscopic materials",
+      "Gross material",
+      "Bone-dry-weight material"
+    ],
+    correct: "Hygroscopic materials"
+  },
+  {
+    question: "516. The hygroscopic moisture content of a substance expressed as a percentage of the bone-dry-weight of the material.",
+    options: [
+      "Moisture content",
+      "Regain",
+      "Gross weight",
+      "Bone-dry-weight"
+    ],
+    correct: "Regain"
+  },
+  {
+    question: "517. A dryer that consists of trays, carrying the materials to be dried, placed in a compartment or moving conveyor. This type of dryer is used for ipil-ipil leaves, and grains.",
+    options: [
+      "Infrared ray dryer",
+      "Tray dryer",
+      "Hearth dryer",
+      "Centrifugal dryer"
+    ],
+    correct: "Tray dryer"
+  }
 
-  ]
+]
 };
