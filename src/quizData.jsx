@@ -12688,5 +12688,1038 @@ options: ["Refrigerating effect", "vaporizing temperature", "heat rejected in th
     correct: "Tray dryer"
   }
 
+],
+
+Element2: [
+  {
+    question: "1. This is a type of reaction turbine usually with typical spiral casing where water enters the runner radially at its outer periphery and changes direction (imparting energy to the runner) while flowing along the complex-shaped profiles to discharge axially. It is the most widely used type of hydraulic turbine for modern power generation purposes.",
+    correct: "Francis Turbine",
+    options: ["Pelton Turbine", "Turgo Turbine", "Francis Turbine", "Kaplan Turbine"]
+  },
+  {
+    question: "2. It is an expanding tube connecting the outlet passage of a turbine with the tail water.",
+    correct: "Draft Tube",
+    options: ["Draft Tube", "Penstock", "Forebay", "Surge Chamber"]
+  },
+  {
+    question: "3. It is a hydroelectric plant in which excess water is pumped to an elevated space during off peak period and the stored water will be used to drive hydraulic turbines during the peak period to meet the peak demand.",
+    correct: "Pumped Storage Plant",
+    options: ["Run-of-River Plant", "Storage Plant", "Pumped Storage Plant", "None of the above"]
+  },
+  {
+    question: "4. It is a channel that conducts water away from the turbine.",
+    correct: "Tailrace",
+    options: ["Headrace Pipe", "Penstock", "Forebay", "Tailrace"]
+  },
+  {
+    question: "5. This is a grid or screen composed of parallel bars to catch floating debris. It prevents leaves, branches, and other water contaminants from entering the penstock.",
+    correct: "Trash Rack",
+    options: ["Surge tank", "Butterfly valve", "Trash Rack", "Weir"]
+  },
+  {
+    question: "6. It is the term used that refers to water in the reservoir.",
+    correct: "Headwater",
+    options: ["Headwater", "Tailwater", "Discharge", "Stored water"]
+  },
+  {
+    question: "7. This is a propeller- type reaction turbine with both adjustable guide vanes and runner blades.",
+    correct: "Kaplan Turbine",
+    options: ["Kaplan Turbine", "Turgo Turbine", "Pelton Turbine", "Cross-flow"]
+  },
+  {
+    question: "8. It is basically hydroelectric power utilizing the difference in elevation between high and low tide to produce energy.",
+    correct: "Tidal Power",
+    options: ["Water power", "Fluid Power", "Tidal Power", "Wave Power"]
+  },
+  {
+    question: "9. The power output of this plant depends on the water flow in the river; at low river flows the output decreases accordingly.",
+    correct: "Run-of-River Plant",
+    options: ["Pumped Storage Plant", "Storage Plant", "Run-of-River Plant", "All of the above"]
+  },
+  {
+    question: "10. The intake pipe to a hydraulic turbine from a dam.",
+    correct: "Penstock",
+    options: ["Forebay", "Penstock", "Draft tube", "Tailrace"]
+  },
+  {
+    question: "11. A kind of fluid flow where in the fluid travels parallel to the adjacent layers and the paths of individual particles do not cross or intersect.",
+    correct: "Laminar flow",
+    options: ["Turbulent flow", "Critical flow", "Laminar flow", "Steady flow"]
+  },
+  {
+    question: "12. It conducts the water around the turbine.",
+    correct: "Spiral casing",
+    options: ["Spiral casing", "Wicket gate", "Draft tube", "Governor"]
+  },
+  {
+    question: "13. These are movable vertical vanes that are actuated by the governor to control the flow of water and therefore the energy supplied to the runner.",
+    correct: "Wicket gate",
+    options: ["Spillway", "Headrace pipe", "Runner", "Wicket gate"]
+  },
+  {
+    question: "14. The speed of a hypothetical model turbine having the same configuration as the actual turbine, when the model would be of the proper size to develop 1 hp at a head of 1 ft.",
+    correct: "Specific speed",
+    options: ["Synchronous speed", "Runaway speed", "Specific speed", "Turbine speed"]
+  },
+  {
+    question: "15. The difference in elevation between the headwater and the tailwater or tailrace.",
+    correct: "Gross head",
+    options: ["Dynamic head", "Gross head", "Net head", "Effective head"]
+  },
+  {
+    question: "16. The ratio of the effective head to the gross head.",
+    correct: "Penstock efficiency",
+    options: ["Mechanical efficiency", "Penstock efficiency", "Hydraulic efficiency", "Volumetric efficiency"]
+  },
+  {
+    question: "17. The ratio of the head utilized to the effective head.",
+    correct: "Hydraulic efficiency",
+    options: ["Mechanical efficiency", "Penstock efficiency", "Hydraulic efficiency", "Volumetric efficiency"]
+  },
+  {
+    question: "18. Heads between 70 and 800 ft generally indicate this type of turbine.",
+    correct: "Reaction turbine",
+    options: ["Impulse turbine", "Reaction turbine", "Propeller turbine", "Pelton turbine"]
+  },
+  {
+    question: "19. Heads below about 70 ft call for this type of turbine.",
+    correct: "Propeller turbine",
+    options: ["Impulse turbine", "Reaction turbine", "Propeller turbine", "Pelton turbine"]
+  },
+  {
+    question: "20. The functions of this hydraulic turbine part are: (1) It enables the turbine to be set above the tailwater level without losing any head thereby. and (2) It reduces the head loss at submerged discharge to increase the net head available to the turbine runner.",
+    correct: "Draft tube",
+    options: ["Spiral casing", "Wicket gate", "Draft tube", "Butterfly valve"]
+  },
+  {
+    question: "21. It is a tank with free surface provided at the transition from the low-pressure headrace or tunnel to the penstock. It protects the headrace pipe or tunnel from excessive changes in pressure and supplying or storing water as required.",
+    correct: "Surge tank",
+    options: ["Surge tank", "Butterfly valve", "Draft tube", "Spillway"]
+  },
+  {
+    question: "22. The rotating part of the turbine where the water imparts its energy onto the turbine shaft.",
+    correct: "Runner",
+    options: ["Runner", "Impeller", "Flywheel", "Lobe"]
+  },
+  {
+    question: "23. The formation and collapse of vapor bubbles that occurs when the pump inlet suction pressure falls to or below the vapor pressure of the liquid is called",
+    correct: "Cavitation",
+    options: ["Priming", "Cavitation", "Foaming", "Net positive suction head"]
+  },
+  {
+    question: "24. A property of lubricating oil that measures the thickness of the oil and will help determine how long oil will flow at a given temperature is known as ________________.",
+    correct: "Viscosity",
+    options: ["Pour point", "Relative density", "Flash Point", "Viscosity"]
+  },
+  {
+    question: "25. A flow at low Reynold’s number with smooth steam lines and shear and conduction effects owing entirely to the fluids molecular viscosity and conductivity.",
+    correct: "Laminar",
+    options: ["Turbulent", "Critical", "Laminar", "Non-viscous"]
+  },
+  {
+    question: "26. Flow of water in a pipe has a velocity at 10 meters per second. Determine the velocity head of the water.",
+    correct: "5.10 meters",
+    options: ["50.1 meters", "5.10 meters", "8.20 meters", "100 meters"]
+  },
+  {
+    question: "27. The fact that the buoyant force on a floating object is equal to the weight of displaced liquid is known as",
+    correct: "Archimedes’ principle",
+    options: ["Bernoulli’s theorem", "Continuity equation", "Archimedes’ principle", "Law of Conservation of mass"]
+  },
+  {
+    question: "28. The primary purpose of a turbine in a fluid loop is to",
+    correct: "extract energy from the flow",
+    options: ["add energy to the flow", "extract energy from the flow", "add mass to the flow", "none of the above"]
+  },
+  {
+    question: "29. It connects the turbine outlet to the tailwater so that the turbine can be set above the tailwater level.",
+    correct: "draft tube",
+    options: ["draft tube", "surge chamber", "penstock", "spillway"]
+  },
+  {
+    question: "30. It provides an efficient and safe means of releasing flow water that exceeds the design capacity of the dam.",
+    correct: "spillway",
+    options: ["draft tube", "surge chamber", "penstock", "spillway"]
+  },
+  {
+    question: "31. The power required to deliver a given quantity of fluid against a given head with no losses in the pump is called:",
+    correct: "hydraulic power",
+    options: ["brake power", "indicated power", "hydraulic power", "none of the above"]
+  },
+  {
+    question: "32. The velocity of fluid is zero at the wall and maximum at the center because of the",
+    correct: "viscous effect",
+    options: ["velocity effect", "temperature effect", "viscous effect", "none of the above"]
+  },
+  {
+    question: "33. The work termed for pumps, compressors, fans and blowers is negative since work",
+    correct: "done on the fluid",
+    options: ["done by the fluid", "rejected by the fluid", "done on the fluid", "none of the above"]
+  },
+  {
+    question: "34. This is a type of water turbine where a jet of water is made to fall on the blades or buckets and due to the impulse of water the turbine will start moving.",
+    correct: "Pelton wheel turbine",
+    options: ["Steam turbine", "Reaction turbine", "Francis turbine", "Pelton wheel turbine"]
+  },
+  {
+    question: "35. A device used to prevent water hammer in turbine.",
+    correct: "Surge tank",
+    options: ["Governor", "Surge tank", "guard", "wicket gate"]
+  },
+  {
+    question: "36. This is a vent or hole in the earth’s surface usually in volcanic region, from which steam, gaseous vapors, or hot gases issue.",
+    correct: "Fumarole",
+    options: ["Magma", "Fumarole", "Geyser", "Fault"]
+  },
+  {
+    question: "37. The typical depth of a geothermal production well in meters.",
+    correct: "1500",
+    options: ["1000", "1500", "3000", "4000"]
+  },
+  {
+    question: "38. A wind energy system transforms the ______________________ of the wind into mechanical or electrical energy that can be harnessed for practical use.",
+    correct: "Kinetic Energy",
+    options: ["Potential Energy", "Internal Energy", "Heat Energy", "Kinetic Energy"]
+  },
+  {
+    question: "39. It is the rhythmic rise and fall of the ocean waters.",
+    correct: "Tide",
+    options: ["Tide range", "Wave", "Tide", "Water current"]
+  },
+  {
+    question: "40. The power available in the wind is proportional to the ________________ of its speed.",
+    correct: "Cube",
+    options: ["Cube", "Square", "Fourth Power", "All of the above"]
+  },
+  {
+    question: "41. It is the maximum tidal range.",
+    correct: "Spring tide",
+    options: ["Neap tides", "Spring tide", "Ebb tide", "Tidal wave"]
+  },
+  {
+    question: "42. Natural gas is considered _______________ when it is almost pure methane.",
+    correct: "Dry",
+    options: ["Dry", "Wet", "Saturated", "Superheated"]
+  },
+  {
+    question: "43. In this type of reactor, the water is heated by the nuclear fuel and boils to steam directly into the reactor vessel. It is then piped directly to the turbine. The turbine spins, driving the electrical generator, producing electricity.",
+    correct: "Boiling Water Reactor",
+    options: ["Heavy Water Reactor", "Pressurized Water Reactor", "Boiling Water Reactor", "All of the above"]
+  },
+  {
+    question: "44. It is an air pollution control device that works by electrically charging the particles of fly ash in the flue gas and collecting them by attraction to charged metal plates.",
+    correct: "Electrostatic Precipitator",
+    options: ["Wet scrubber", "Electrostatic Precipitator", "Bag houses", "Cyclone Separator"]
+  },
+  {
+    question: "45. This nuclear reactor component, which is made up of carbon and beryllium, slows down the fast neutrons that are born during the fission process.",
+    correct: "Moderator",
+    options: ["Control Rods", "Moderator", "Coolant", "Reflector"]
+  },
+  {
+    question: "46. These boron coated steel rods are used to regulate the rate of fission chain reaction. They are withdrawn from the core to start the chain reaction and inserted all the way into the core to stop it.",
+    correct: "Control Rods",
+    options: ["Control Rods", "Moderator", "Coolant", "Reflector"]
+  },
+  {
+    question: "47. In general usage, the term “combined cycle power plant” describes the combination of a gas turbine generator(s) (____________________ cycle) with turbine exhaust waste boiler(s) and steam turbine generator(s) (Rankine cycle) for the production of electrical power.",
+    correct: "Brayton Cycle",
+    options: ["Diesel Cycle", "Otto Cycle", "Reheat Cycle", "Brayton Cycle"]
+  },
+  {
+    question: "48. Natural gas is a fossil fuel formed when layers of buried plants and animals are exposed to intense heat and pressure. It has been dubbed as the “fuel of the future” or “green fuel” and comprises mainly of _________________.",
+    correct: "Methane",
+    options: ["Propane", "Butane", "Ethane", "Methane"]
+  },
+  {
+    question: "49. It is the coal ash that exits a combustion chamber in the flue gas and is captured by air pollution control equipment such as electrostatic precipitators, baghouses, and wet scrubbers.",
+    correct: "Fly Ash",
+    options: ["Ash", "Bottoming Ash", "Fly Ash", "Refuse"]
+  },
+  {
+    question: "50. Also known as brown coal, it is the lowest-rank solid coal with a calorific value of less than 8,300 Btu/lb on a moist mineral-matter free basis.",
+    correct: "Lignite",
+    options: ["Bituminous coal", "Peat", "Lignite", "Anthracite"]
+  },
+  {
+    question: "51. It means using the same energy source for more than one purpose, such as using the waste heat from an engine for space heating.",
+    correct: "Cogeneration",
+    options: ["Superposing", "Topping", "Cogeneration", "Combined Cycle Plant"]
+  },
+  {
+    question: "52. The minimum amount of air required for the complete combustion of fuel.",
+    correct: "Stoichiometric Air",
+    options: ["Stoichiometric Air", "Excess Air", "Actual Air", "Percentage excess air"]
+  },
+  {
+    question: "53. The device or instrument used for measuring the calorific value of a unit mass of fuel is called:",
+    correct: "calorimeter",
+    options: ["calorimeter", "salimeter", "pyrometer", "thermometer"]
+  },
+  {
+    question: "54. When water (H2O) in the products of combustion is in the vapor or gaseous form, the heating value is known as:",
+    correct: "Lower heating value (LHV)",
+    options: ["Higher heating value (HHV)", "Heating value (HV)", "Lower heating value (LHV)", "Gross calorific value (GCV)"]
+  },
+  {
+    question: "55. The percent excess air is the difference between the air actually supplied and the theoretical air required divided by:",
+    correct: "the theoretically air supplied",
+    options: ["the theoretically air supplied", "total air supplied", "the deficiency air supplied", "none of the above"]
+  },
+  {
+    question: "56. During a combustion process, the components which exist before the reaction are called ______",
+    correct: "reactants",
+    options: ["reactants", "products", "flue gases", "none of the above"]
+  },
+  {
+    question: "57. The minimum amount of air needed for the complete combustion of fuel is called ________",
+    correct: "theoretical air",
+    options: ["excess air", "theoretical air", "combustion air", "none of the above"]
+  },
+  {
+    question: "58. A gas which will not be found in the flue gases produced from the complete combustion of fuel oil is",
+    correct: "hydrogen",
+    options: ["carbon dioxide", "hydrogen", "oxygen", "nitrogen"]
+  },
+  {
+    question: "59. The higher heating value is determined when the water in the products of combustion is in",
+    correct: "liquid form",
+    options: ["solid form", "vapor form", "liquid form", "gas form"]
+  },
+  {
+    question: "60. The amount of heat liberated by the complete combustion of a unit weight or volume of fuel is known as:",
+    correct: "heating value",
+    options: ["heating value", "latent heat", "sensible heat", "work of compression"]
+  },
+  {
+    question: "61. An “ attemporator ” is another name for",
+    correct: "Desuperheater",
+    options: ["Dry pipe", "Superheater", "Reheater", "Desuperheater"]
+  },
+  {
+    question: "62. What is the fundamental indicator of good combustion?",
+    correct: "Presence of minimum oxygen, maximum carbon dioxide and nil combustibles in the flue gas.",
+    options: ["Colorless smoke.", "Releasing maximum nitrogen content of the combustion with minimum oxygen, carbon dioxide and carbon monoxide content.", "Presence of minimum oxygen, maximum carbon dioxide and nil combustibles in the flue gas.", "Saturated clean smoke."]
+  },
+  {
+    question: "63. It is a solidified mass of fused ash.",
+    correct: "Clinker",
+    options: ["Sludge", "Solidified ash", "Carbon residues", "Clinker"]
+  },
+  {
+    question: "64. Why does older types of economizers were constructed invariably of cast iron?",
+    correct: "Because cast iron resists corrosion better than mild steel and the pressures were comparatively low.",
+    options: ["Because cast iron resists corrosion better than mild steel and the pressures were comparatively low.", "Because it is cheap.", "Because cast iron is more abundant than any other type of steel.", "Because it’s thermal conductivity is very small and it gives greater efficiency to the system."]
+  },
+  {
+    question: "65. It is an accessory often installed on modern boilers to preheat air for combustion before it enters the boiler furnace.",
+    correct: "air preheater",
+    options: ["economizer", "air preheater", "reheater", "forced-draft fan"]
+  },
+  {
+    question: "66. What components are included in the proximate analysis in solid fuel?",
+    correct: "Fixed carbon, volatile matter, ash and moisture",
+    options: ["Carbon dioxide, carbon monoxide and excess oxygen", "Carbon, hydrogen, oxygen, nitrogen, sulfur, ash and moisture", "Carbon, hydrogen, oxygen, sulfur, nitrogen and ash", "Fixed carbon, volatile matter, ash and moisture"]
+  },
+  {
+    question: "67. Which element of fuel is not combustible?",
+    correct: "Oxygen",
+    options: ["Carbon", "Hydrogen", "Sulfur", "Oxygen"]
+  },
+  {
+    question: "68. A device or an instrument used to record the cylinder pressure of an engine and piston travel in an X-Y graph, where pressure forms the vertical axis and piston travel forms the horizontal axis.",
+    correct: "Engine Indicator",
+    options: ["Engine Indicator", "Planimeter", "Pyrometer", "Dynamometer"]
+  },
+  {
+    question: "69. This diagram is used by the operating engineer to detect or determine leaky piston packing, sticking piston, incorrect valve timing, loose bearings, restricted and or outlet piping, etc.",
+    correct: "Indicator diagram",
+    options: ["Timing diagram", "T-s diagram", "P-h diagram", "Indicator diagram"]
+  },
+  {
+    question: "70. The effective weight of the brake arm when the brake band is loose.",
+    correct: "Tare Weight",
+    options: ["Tare Weight", "Gross Load", "Net Load", "Net Tension"]
+  },
+  {
+    question: "71. The power output of the generator.",
+    correct: "Electrical Power",
+    options: ["Ideal Power", "Indicated Power", "Brake Power", "Electrical Power"]
+  },
+  {
+    question: "72. The amount of fuel needed to perform a unit of power.",
+    correct: "Specific fuel consumption",
+    options: ["Specific fuel consumption", "Steam rate", "Heat Rate", "Mass flow rate"]
+  },
+  {
+    question: "73. The ratio of heat converted to useful power to the heat supplied.",
+    correct: "Thermal efficiency",
+    options: ["Mechanical efficiency", "Generator efficiency", "Thermal efficiency", "Engine efficiency"]
+  },
+  {
+    question: "74. The ratio of the actual power of the engine to its ideal power.",
+    correct: "Engine efficiency",
+    options: ["Mechanical efficiency", "Generator efficiency", "Thermal efficiency", "Engine efficiency"]
+  },
+  {
+    question: "75. The ratio of the cylinder volumes after and before the combustion process.",
+    correct: "Cutoff ratio",
+    options: ["Compression ratio", "Expansion ratio", "Cutoff ratio", "All of the above"]
+  },
+  {
+    question: "76. The position of the piston when it forms the smallest volume in the cylinder.",
+    correct: "Head End Dead Center Position",
+    options: ["Crank End Dead Center Position", "Bottom Dead Center Position", "Head End Dead Center Position", "Clearance Volume"]
+  },
+  {
+    question: "77. The position of the piston when it forms the largest volume in the cylinder.",
+    correct: "Crank End Dead Center Position",
+    options: ["Crank End Dead Center Position", "Top Dead Center Position", "Head End Dead Center Position", "Clearance Volume"]
+  },
+  {
+    question: "78. When four events take place in one revolution of a crankshaft of an engine, the engine is called:",
+    correct: "2-stroke cycle engine",
+    options: ["rotary engine", "steam engine", "2-stroke cycle engine", "4-stroke cycle engine"]
+  },
+  {
+    question: "79. What is the model cycle for spark ignition engine?",
+    correct: "Otto cycle",
+    options: ["Diesel cycle", "Brayton cycle", "Otto cycle", "Carnot cycle"]
+  },
+  {
+    question: "80. Diesel engine fuel is rated in terms of:",
+    correct: "Cetane number",
+    options: ["Cetane number", "Octane rating", "Power output", "Net Calorific Value"]
+  },
+  {
+    question: "81. The distance that the piston can travel in one direction.",
+    correct: "Stroke",
+    options: ["Bore", "Stroke", "Clearance", "Displacement"]
+  },
+  {
+    question: "82. The minimum volume formed in the cylinder when the piston is at the top dead center.",
+    correct: "Clearance volume",
+    options: ["Displacement volume", "Cylinder Volume", "Clearance volume", "None of the above"]
+  },
+  {
+    question: "83. It is a fictitious pressure which, if it acted on the piston during the entire power stroke, would produce the same amount of net work as that produced during the actual cycle.",
+    correct: "Mean effective pressure",
+    options: ["Average pressure", "Mean effective pressure", "Maximum pressure", "Minimum pressure"]
+  },
+  {
+    question: "84. The ratio of constant pressure specific heat to the constant volume specific heat.",
+    correct: "Specific heat ratio",
+    options: ["Compression ratio", "Expansion ratio", "Cutoff ratio", "Specific heat ratio"]
+  },
+  {
+    question: "85. The ideal cycle for the compression-ignition reciprocating engines.",
+    correct: "Diesel cycle",
+    options: ["Diesel cycle", "Otto cycle", "Dual cycle", "Carnot cycle"]
+  },
+  {
+    question: "86. The power developed in the engine cylinder as obtained from the pressure in the cylinder.",
+    correct: "Indicated power",
+    options: ["Ideal power", "Indicated power", "Brake power", "Electrical power"]
+  },
+  {
+    question: "87. The pressure and torque spent in overcoming friction of reciprocating and revolving parts of the engine and automobile before it reached the drive shaft.",
+    correct: "Friction power",
+    options: ["Electrical losses", "Indicated power", "Brake power", "Friction power"]
+  },
+  {
+    question: "88. It is an instrument for determining brake power, usually by the independent measurement of force, time and distance through which the force is moved.",
+    correct: "Dynamometer",
+    options: ["Planimeter", "Dynamometer", "Anemometer", "Barometer"]
+  },
+  {
+    question: "89. It is the indicator used to determine the anti-knock characteristics of gasoline.",
+    correct: "Octane Number",
+    options: ["Octane Number", "Cetane Number", "Compression Ratio", "Viscosity"]
+  },
+  {
+    question: "90. Draws fuel from tank through the primary fuel filter. This provides flow throughout the low portion of the fuel system.",
+    correct: "Fuel transfer pump",
+    options: ["Fuel injection pump", "Valve lifter", "Fuel transfer pump", "Oil pan"]
+  },
+  {
+    question: "91. Acts as a balancer and provide momentum during dead stroke in a cycle.",
+    correct: "Flywheel",
+    options: ["Flywheel", "Oil cooler", "Crankshaft", "After cooler"]
+  },
+  {
+    question: "92. Are steel tubes with seat at both ends and bridges the motion from camshaft to rocker arm.",
+    correct: "Push rod",
+    options: ["Push rod", "Suction bell", "Valve lifter", "Flywheel"]
+  },
+  {
+    question: "93. Passage of coolant from the engine block to the cylinder head.",
+    correct: "Water jacket",
+    options: ["Water jacket", "Fuel transfer pump", "Oil cooler", "Turbo charger"]
+  },
+  {
+    question: "94. Are used to cool incoming air so that the volume of air available is increased.",
+    correct: "After cooler",
+    options: ["After cooler", "Waste gates", "Radiator", "Muffler"]
+  },
+  {
+    question: "95. The difference between the maximum and minimum volume.",
+    correct: "Displacement Volume",
+    options: ["Displacement Volume", "Clearance Volume", "Top Dead Center", "Differential Volume"]
+  },
+  {
+    question: "96. These are used to seal the gasses within the cylinder and to keep oil out.",
+    correct: "Piston Rings",
+    options: ["Piston Rings", "Combustion Chamber", "Cylinder Liner", "Piston Plug"]
+  },
+  {
+    question: "97. Process where the heat is added in the Otto cycle.",
+    correct: "constant volume",
+    options: ["constant temperature", "constant volume", "constant entropy", "constant pressure"]
+  },
+  {
+    question: "98. Process where the heat is added in the Diesel cycle.",
+    correct: "constant pressure",
+    options: ["constant temperature", "constant volume", "constant entropy", "constant pressure"]
+  },
+  {
+    question: "99. It is used to reduce the friction of bearings and sliding surfaces in machines and thus diminish the wear, heat and possibility of seizure of the parts",
+    correct: "Lubricant",
+    options: ["Lubricant", "Gasoline", "Wax", "Benzene"]
+  },
+  {
+    question: "100. In a heat engine, the ratio of brake power to the indicated power is called:",
+    correct: "mechanical efficiency",
+    options: ["thermal efficiency", "mechanical efficiency", "generator efficiency", "engine efficiency"]
+  },
+  {
+    question: "111. The ratio of the average load to the peak load over a designated period of time.",
+    correct: "Load Factor",
+    options: ["Demand Factor", "Capacity Factor", "Load Factor", "Diversity Factor"]
+  },
+  {
+    question: "112. The ratio of the sum of individual maximum demands of the system to the overall maximum demand of the whole system.",
+    correct: "Diversity Factor",
+    options: ["Demand Factor", "Capacity Factor", "Load Factor", "Diversity Factor"]
+  },
+  {
+    question: "113. The sum of the continuous ratings of all the equipment and outlets on the customer’s circuit.",
+    correct: "Connected load",
+    options: ["Reserve load", "Maximum demand", "Peak load", "Connected load"]
+  },
+  {
+    question: "114. The ratio of the duration of the actual service of a machine or equipment to the total duration of the period of time considered.",
+    correct: "Operation factor",
+    options: ["Operation factor", "Utilization factor", "Demand factor", "Capacity factor"]
+  },
+  {
+    question: "115. The ratio of the brake mean effective pressure to the indicated mean effective pressure.",
+    correct: "Mechanical efficiency",
+    options: ["Mechanical efficiency", "Brake engine efficiency", "Indicated engine efficiency", "Brake thermal efficiency"]
+  },
+  {
+    question: "116. The ratio of the combined engine efficiency to the brake engine efficiency.",
+    correct: "Generator efficiency",
+    options: ["Combined engine efficiency", "Generator efficiency", "Combined thermal efficiency", "Brake engine efficiency"]
+  },
+  {
+    question: "117. The ratio of the average load to that of the peak load of a plant is called:",
+    correct: "load factor",
+    options: ["output factor", "demand factor", "load factor", "capacity factor"]
+  },
+  {
+    question: "118. The ratio of the peak load to the connected load is known as:",
+    correct: "demand factor",
+    options: ["output factor", "demand factor", "load factor", "capacity factor"]
+  },
+  {
+    question: "119. The difference between the power plant installed capacity and the peak load is called:",
+    correct: "reserve over peak",
+    options: ["average load", "connected load", "reserve over peak", "none of the above"]
+  },
+  {
+    question: "120. A series of processes during which the initial state point and the final state point are the same.",
+    correct: "Cycle",
+    options: ["Process", "Change of state", "Cycle", "All of the above"]
+  },
+  {
+    question: "121. The compressibility factor of an ideal gas is equal to ______________.",
+    correct: "1.00",
+    options: ["1.00", "1.40", "0.90", "1.30"]
+  },
+  {
+    question: "122. The relation pV=C represents a process or change of state, which is known as _________.",
+    correct: "Isothermal process",
+    options: ["Isometric process", "Isobaric process", "Isothermal process", "Isentropic process"]
+  },
+  {
+    question: "123. In the relation pVn= C, if the value of n= 0 the process is said to be __________.",
+    correct: "Isobaric process",
+    options: ["Isometric process", "Isobaric process", "Isothermal process", "Polytropic process"]
+  },
+  {
+    question: "124. In a Carnot cycle, the heat rejection is the ____________________ process.",
+    correct: "Isothermal compression",
+    options: ["Isentropic expansion", "Isentropic compression", "Isothermal expansion", "Isothermal compression"]
+  },
+  {
+    question: "125. A system in which the mass inflow and outflow are not equal or vary with time and in which the mass within the system changes with time.",
+    correct: "Unsteady state, unsteady flow system",
+    options: ["Steady flow system", "Unsteady state, unsteady flow system", "Steady state system", "Steady flow, steady state system"]
+  },
+  {
+    question: "126. A form of energy that is a sole function of temperature for perfect gases and a strong function of temperature and weak function of pressure for non-perfect gases, vapors, and liquids.",
+    correct: "Internal energy",
+    options: ["Internal energy", "Enthalpy", "Flow work", "Pressure energy"]
+  },
+  {
+    question: "127. It is that portion of the universe, an atom, a certain quantity of matter, or a certain volume in space that one wishes to study.",
+    correct: "System",
+    options: ["Heat", "Work", "System", "Efficiency"]
+  },
+  {
+    question: "128. It is the force of gravity per unit volume of a substance.",
+    correct: "Specific weight",
+    options: ["Density", "Specific weight", "Specific volume", "Specific gravity"]
+  },
+  {
+    question: "129. It is a kind of thermodynamic system whose mass does not cross its boundaries.",
+    correct: "Closed system",
+    options: ["Open system", "Steady flow system", "Closed system", "Transient flow"]
+  },
+  {
+    question: "130. Which law states that “the acceleration of a particular body is directly proportional to the resultant force acting on it and inversely proportional to its mass?",
+    correct: "Newton’s Second Law of Motion",
+    options: ["Zeroth Law of Thermodynamics", "First Law of Thermodynamics", "Second law of Thermodynamics", "Newton’s Second Law of Motion"]
+  },
+  {
+    question: "131. A substance that receives, transports and transfers energy.",
+    correct: "Working substance",
+    options: ["Reservoir", "Working substance", "Engine", "Heat sink"]
+  },
+  {
+    question: "132. A system where energy and mass cross its boundaries.",
+    correct: "Open system",
+    options: ["Open system", "Isolated System", "Closed system", "Transient flow system"]
+  },
+  {
+    question: "133. The law of thermodynamics that deals with the law of conservation of energy, which states that energy can neither be created nor destroyed.",
+    correct: "First Law of Thermodynamics",
+    options: ["Zeroth Law of Thermodynamics", "First Law of Thermodynamics", "Second law of Thermodynamics", "Third Law of Thermodynamics"]
+  },
+  {
+    question: "134. It states that in any mechanical mixture of gases and vapors (those that do not combine chemically) the total pressure of the gaseous mixture such as moist air is equal to the sum of the partial pressure exerted by the individual gases or vapors.",
+    correct: "Dalton’s Law",
+    options: ["Joule’s Law", "Dalton’s Law", "Amagat’s Law", "Charles’ Law"]
+  },
+  {
+    question: "135. It is a substance existing in the gaseous phase but relatively near its saturation temperature.",
+    correct: "Vapor",
+    options: ["Gas", "Air", "Vapor", "Oxygen"]
+  },
+  {
+    question: "136. The point at which the saturated liquid and saturated vapor states are identical.",
+    correct: "Critical point",
+    options: ["Critical point", "Triple point", "Saturated liquid-vapor point", "Saturation Point"]
+  },
+  {
+    question: "137. The point at which heat transfer stops.",
+    correct: "Thermal equilibrium",
+    options: ["Steady-flow", "Thermal equilibrium", "Thermodynamic equilibrium", "Steady-state"]
+  },
+  {
+    question: "138. It is an instrument used for determining the specific gravity of a solution.",
+    correct: "Hydrometer",
+    options: ["Barometer", "Hydrometer", "Calorimeter", "Manometer"]
+  },
+  {
+    question: "139. It refers to the temperature at which all molecular motion ceases according to the kinetic theory of heat.",
+    correct: "All of the above",
+    options: ["0 oK", "0 oR", "-273 oC", "All of the above"]
+  },
+  {
+    question: "140. The area under the curve on a pressure-volume diagram represents ______________.",
+    correct: "Nonflow Work",
+    options: ["Steady Flow Work", "Nonflow Work", "Net Work", "Cycle Work"]
+  },
+  {
+    question: "141. A boiler steam pressure gage should have a range of at least _______ times the maximum allowable working pressure.",
+    correct: "1.50",
+    options: ["1.0", "1.25", "1.50", "1.75"]
+  },
+  {
+    question: "142. It is a valve designed to allow a fluid to pass through in one direction only.",
+    correct: "Check valve",
+    options: ["Gate valve", "Globe valve", "Quick-return valve", "Check valve"]
+  },
+  {
+    question: "143. An ideal gas is compressed isothermally. The enthalpy change is equal to _________.",
+    correct: "Zero",
+    options: ["Zero", "Positive", "Negative", "None of the above"]
+  },
+  {
+    question: "144. The _________________ is constant in an adiabatic throttling process.",
+    correct: "Enthalpy",
+    options: ["Pressure", "Volume", "Internal energy", "Enthalpy"]
+  },
+  {
+    question: "145. It is the ideal cycle for a gas turbine plant.",
+    correct: "Brayton cycle",
+    options: ["Carnot cycle", "Rankine cycle", "Diesel cycle", "Brayton cycle"]
+  },
+  {
+    question: "146. It is the most thermal efficient cycle consisting of two (2) isentropic processes and two (2) isothermal processes.",
+    correct: "Carnot cycle",
+    options: ["Carnot cycle", "Rankine cycle", "Otto cycle", "Diesel cycle"]
+  },
+  {
+    question: "147. How can the average temperature during heat rejection process of a Rankine cycle be decreased?",
+    correct: "reduce turbine exit pressure",
+    options: ["increase boiler pressure", "increase condenser pressure", "increase inlet turbine pressure", "reduce turbine exit pressure"]
+  },
+  {
+    question: "148. What is commonly done to a vapor power cycle when the turbine has excessive moisture?",
+    correct: "reheating",
+    options: ["frosting", "diffusing", "reheating", "dehumidifying"]
+  },
+  {
+    question: "149. A form of energy that is transferred between two systems by virtue of temperature difference.",
+    correct: "Heat",
+    options: ["Heat", "Kinetic Energy", "Potential Energy", "Electrical Energy"]
+  },
+  {
+    question: "150. A thermodynamic process with no heat transfer.",
+    correct: "Adiabatic Process",
+    options: ["Isentropic Process", "Adiabatic Process", "Throttling Process", "All of the above"]
+  },
+  {
+    question: "151. An energy interaction that is not caused by a temperature difference between a system and its surrounding.",
+    correct: "Work",
+    options: ["Work", "Conduction", "Convection", "Heat"]
+  },
+  {
+    question: "152. Changing of solid directly to vapor, without passing through the liquid state, is called",
+    correct: "Sublimation",
+    options: ["Sublimation", "Evaporation", "Condensation", "Vaporization"]
+  },
+  {
+    question: "153. A rigid container is heated by the sun. There is no shaft work associated with the container. From the first law of thermodynamics, you determine the resulting work to be:",
+    correct: "equal to zero",
+    options: ["equal to the heat transfer", "equal to the change in internal energy", "equal to the volume times the change in pressure", "equal to zero"]
+  },
+  {
+    question: "154. The net work output of a heat engine is always __________________________.",
+    correct: "less than the amount of heat input",
+    options: ["less than the amount of heat input", "less than the amount of heat output", "more than the amount of heat input", "none of the above"]
+  },
+  {
+    question: "155. The sum of all the energies of all the molecules in a system, energies that appear in several complex forms.",
+    correct: "Internal Energy",
+    options: ["Enthalpy", "Internal Energy", "Kinetic Energy", "Potential Energy"]
+  },
+  {
+    question: "156. It is a liquid whose temperature is below the saturation temperature corresponding to its pressure.",
+    correct: "Subcooled liquid",
+    options: ["Saturated liquid", "Superheated liquid", "Subcooled liquid", "none of the above"]
+  },
+  {
+    question: "157. A device that violates the first law of thermodynamics is called a",
+    correct: "Perpetual motion machine of the first kind",
+    options: ["Perpetual motion machine of the second kind", "Perpetual motion machine of the third kind", "Perpetual motion machine of the first kind", "None of the above"]
+  },
+  {
+    question: "158. The efficiencies of all reversible heat engines operating between the same two reservoirs ________.",
+    correct: "are the same",
+    options: ["differ", "are the same", "are unequal", "none of the above"]
+  },
+  {
+    question: "159. A process with no heat transfer is known as",
+    correct: "adiabatic process",
+    options: ["isobaric process", "adiabatic process", "isothermal process", "isometric process"]
+  },
+  {
+    question: "160. The relative density of a substance is the ratio of its density to the density of:",
+    correct: "water",
+    options: ["mercury", "oil", "gas", "water"]
+  },
+  {
+    question: "161. This type of heat exchanger allows fluids to flow at right angles to each other",
+    correct: "Cross flow",
+    options: ["Series flow", "Parallel flow", "Cross flow", "Counter flow"]
+  },
+  {
+    question: "162. The fact the total energy in any one energy system remains constant is called the principle of _______.",
+    correct: "Conservation of Energy",
+    options: ["Conservation of Energy", "Second Law of Thermodynamics", "Conservation of Mass", "Zeroth Law of Thermodynamics"]
+  },
+  {
+    question: "163. A process for which the inlet and outlet enthalpies are the same",
+    correct: "Throttling",
+    options: ["Isenthalpic", "Enthalpy Conservation", "Throttling", "Steady State"]
+  },
+  {
+    question: "164. The sum of energies of all the molecules in system, energies that appear in several complex forms.",
+    correct: "Internal Energy",
+    options: ["Kinetic Energy", "Internal Energy", "External Energy", "Flow Work"]
+  },
+  {
+    question: "165. A system that is completely impervious to its surrounding. Neither mass nor energy cross its boundaries.",
+    correct: "Isolated system",
+    options: ["Open system", "Closed system", "Adiabatic system", "Isolated system"]
+  },
+  {
+    question: "166. A device used to measure small and moderate pressure difference.",
+    correct: "Manometer",
+    options: ["Manometer", "Bourdon gage", "Barometer", "Piezometer"]
+  },
+  {
+    question: "167. A vapor having a temperature higher than the saturation temperature corresponding to its pressure.",
+    correct: "Superheated vapor",
+    options: ["Superheated vapor", "Saturated vapor", "Super saturated vapor", "Subcooled vapor"]
+  },
+  {
+    question: "168. The energy or stored capacity for performing work possessed by a moving body, by virtue of its momentum.",
+    correct: "Kinetic energy",
+    options: ["Internal energy", "Work", "Gravitational potential energy", "Kinetic energy"]
+  },
+  {
+    question: "169. The thermodynamic process wherein temperature is constant and the change in internal energy is zero.",
+    correct: "Isothermal process",
+    options: ["Isobaric process", "Isometric process", "Isothermal process", "Polytropic process"]
+  },
+  {
+    question: "170. The function of a pump or compressor is to",
+    correct: "increase the total energy content of the flow",
+    options: ["transfer heat from one fluid to another", "increase the total energy content of the flow", "extract energy from the flow", "exchange heat to increase energy to the flow"]
+  },
+  {
+    question: "171. This law states that “all energy received as heat by a heat-engine cannot be converted into mechanical work”.",
+    correct: "2nd Law of Thermodynamics",
+    options: ["1st Law of Thermodynamics", "2nd Law of Thermodynamics", "3rd Law of Thermodynamics", "All of the above."]
+  },
+  {
+    question: "172. The intensity of pressure that is measured above absolute zero is called:",
+    correct: "Absolute pressure",
+    options: ["Gage pressure", "Absolute pressure", "Vacuum pressure", "Saturation pressure"]
+  },
+  {
+    question: "173. This is the ratio of the heat equivalent of the brake or useful horsepower developed by an engine and available on its crankshaft to the heat during the same time.",
+    correct: "Brake thermal efficiency",
+    options: ["Brake engine efficiency", "Indicated thermal efficiency", "Combined thermal efficiency", "Brake thermal efficiency"]
+  },
+  {
+    question: "174. Flow work is equal to pressure times ____________.",
+    correct: "specific volume",
+    options: ["temperature", "entropy", "internal energy", "specific volume"]
+  },
+  {
+    question: "175. This form of energy is due to the position or elevation of the body.",
+    correct: "potential energy",
+    options: ["internal energy", "kinetic energy", "potential energy", "work"]
+  },
+  {
+    question: "176. Another term for constant volume process.",
+    correct: "all of the above",
+    options: ["isometric", "isochoric", "isovolumic", "all of the above"]
+  },
+  {
+    question: "177. Work done by the steam during a reversible adiabatic expansion process in the turbine.",
+    correct: "Ideal Work",
+    options: ["Brake Work", "Ideal Work", "Actual Fluid Work", "Combined Work"]
+  },
+  {
+    question: "178. The efficiency of Carnot cycle depends upon the",
+    correct: "temperature",
+    options: ["pressure", "entropy", "volume", "temperature"]
+  },
+  {
+    question: "179. It is the heat required in a constant-pressure process to completely vaporize a unit-mass of liquid at a given temperature.",
+    correct: "all of the above",
+    options: ["latent heat vaporization", "enthalpy of vaporization", "hfg", "all of the above"]
+  },
+  {
+    question: "180. It is a commonly used device for measuring temperature differences or high temperatures.",
+    correct: "Thermocouple",
+    options: ["Thermistor", "Thermocouple", "Bimetallic Strip", "Mercury in glass"]
+  },
+  {
+    question: "181. The science and technology concerned with precisely measuring energy and enthalpy.",
+    correct: "Calorimetry",
+    options: ["Thermodynamics", "Chemistry", "Calorimetry", "None of the above"]
+  },
+  {
+    question: "182. The rate of doing work per unit of time",
+    correct: "Power",
+    options: ["Torque", "Power", "Force", "Moment"]
+  },
+  {
+    question: "183. In an ideal Rankine cycle with fixed boiler and condenser pressure. What is the effect of superheating the steam to a higher temperature to the cycle thermal efficiency?",
+    correct: "the cycle thermal efficiency will increase",
+    options: ["the cycle thermal efficiency will increase", "the cycle thermal efficiency will decrease", "the cycle thermal efficiency will remain constant", "none of the above"]
+  },
+  {
+    question: "184. A vapor having a temperature higher than the saturation temperature corresponding to the existing pressure.",
+    correct: "Superheated Vapor",
+    options: ["Superheated Vapor", "Saturated Vapor", "Wet Vapor", "None of the above"]
+  },
+  {
+    question: "185. It is the work done in pushing a fluid across a boundary, usually into or out of a system.",
+    correct: "Flow Work",
+    options: ["Mechanical work", "Nonflow Work", "Flow Work", "Electrical work"]
+  },
+  {
+    question: "186. A liquid that has a temperature lower than the saturation temperature corresponding to the existing pressure.",
+    correct: "Subcooled liquid",
+    options: ["Subcooled liquid", "Saturated liquid", "Unsaturated liquid", "Water"]
+  },
+  {
+    question: "207. In this type of boiler, the water passes through the tubes while the flue gases burn outside the tubes.",
+    correct: "Water-tube boiler",
+    options: ["Water-tube boiler", "Fire-tube Boiler", "Steam generator", "Electric Boiler"]
+  },
+  {
+    question: "208. It shows the water level in the boiler drum.",
+    correct: "All of the above",
+    options: ["Water column", "Try cocks", "Gauge glass", "All of the above"]
+  },
+  {
+    question: "209. It prevents damage to the boiler by giving warning of low water.",
+    correct: "Fusible plug",
+    options: ["Safety valve", "Fusible plug", "Relief valve", "Try cocks"]
+  },
+  {
+    question: "210. It has several functions. When necessary it empties the boiler for cleaning, inspection, or repair. It blows out mud, scale, or sediment when the boiler is in operation.",
+    correct: "Blow-down line",
+    options: ["Blow-down line", "Boiler feedwater pump", "Steam valve", "None of the above"]
+  },
+  {
+    question: "211. It is a heat exchanger which utilizes the heat of the flue gases to preheat the air needed for combustion.",
+    correct: "Air preheater",
+    options: ["Economizer", "Feedwater heater", "Reheater", "Air preheater"]
+  },
+  {
+    question: "212. It is a feedwater preheating and waste heat recovery device which utilizes the heat of the flue gases.",
+    correct: "Economizer",
+    options: ["Economizer", "Open heater", "Closed heater", "Waterwalls"]
+  },
+  {
+    question: "213. It is a system of furnace cooling tubes which can extend the evaporative capacity of the water-tube boiler and protect furnace walls.",
+    correct: "Waterwalls",
+    options: ["Reheater", "Waterwalls", "Superheater", "Feedwater heater"]
+  },
+  {
+    question: "214. It is based on the generation of 34.5 lbm/hr of steam from water at 212 °F to steam at 212 °F.",
+    correct: "One boiler horsepower",
+    options: ["One horsepower", "One kilowatt", "One boiler horsepower", "None of the above"]
+  },
+  {
+    question: "215. It prevents boiler pressure from rising above a certain predetermined pressure by opening to allow excess steam to escape.",
+    correct: "Safety valve",
+    options: ["Relief valve", "Safety valve", "Fusible plug", "Pressure switches"]
+  },
+  {
+    question: "216. In a water-tube boiler, the water will pass through _________________________.",
+    correct: "inside the tubes",
+    options: ["inside the tubes", "outside the tubes", "inside the shell", "outside the shell"]
+  },
+  {
+    question: "217. It is the temperature to which the air becomes saturated at constant pressure.",
+    correct: "dewpoint temperature",
+    options: ["dry-bulb temperature", "wet-bulb temperature", "dewpoint temperature", "saturation temperature"]
+  },
+  {
+    question: "218. In a _________________ cooling tower, the air moves horizontally through the fills as the water moves downward.",
+    correct: "Cross-flow",
+    options: ["Cross-flow", "Counter -flow", "Parallel flow", "Double-flow"]
+  },
+  {
+    question: "219. It is the subject that deals with the behavior of moist air.",
+    correct: "Psychrometry",
+    options: ["Psychrometer", "Psychrometry", "Refrigeration", "Pneumatics"]
+  },
+  {
+    question: "220. It is the ratio of the mass of water vapor in a certain volume of moist air to the mass of water vapor in the same volume of saturated air at the same temperature.",
+    correct: "Relative Humidity",
+    options: ["Humidity ratio", "Specific humidity", "Humidity", "Relative Humidity"]
+  },
+  {
+    question: "221. Air whose condition is such that any decrease in temperature will result in condensation of water vapor into liquid.",
+    correct: "Saturated air",
+    options: ["Saturated air", "Unsaturated air", "Saturated vapor", "Moist air"]
+  },
+  {
+    question: "222. It is the warm water temperature minus the cold-water temperature leaving the cooling tower.",
+    correct: "Cooling Range",
+    options: ["Approach", "Terminal difference", "Cooling Range", "LMTD"]
+  },
+  {
+    question: "223. The temperature where the relative humidity becomes 100% and where the water vapor starts to condense.",
+    correct: "dewpoint temperature",
+    options: ["dry-bulb temperature", "dewpoint temperature", "wet-bulb temperature", "saturation temperature"]
+  },
+  {
+    question: "224. The surrounding air ____________ temperature is the lowest temperature to which water could possibly be cooled in a cooling tower.",
+    correct: "Wet-bulb",
+    options: ["Dry-bulb", "Wet-bulb", "Dew-point", "Saturation temperature"]
+  },
+  {
+    question: "225. Which is not a major part of the vapor compression system?",
+    correct: "refrigerant",
+    options: ["compressor", "condenser", "evaporator", "refrigerant"]
+  },
+  {
+    question: "226. This refers to the rate of heat transfer attributable only to a change in dry-bulb temperature.",
+    correct: "sensible heating or cooling",
+    options: ["sensible heating or cooling", "humidification", "dehumidification", "cooling and dehumidifying"]
+  },
+  {
+    question: "227. It is a binary mixture of dry-air and water- vapor.",
+    correct: "Moist air",
+    options: ["Dry air", "Saturated vapor", "Moist air", "Wet mixture"]
+  },
+  {
+    question: "228. The temperature measured by an ordinary thermometer.",
+    correct: "Dry-bulb temp.",
+    options: ["Wet-bulb temp.", "Dry-bulb temp.", "Dew-point temp.", "Wet-bulb depression"]
+  },
+  {
+    question: "229. The mass of water interspersed in each kilogram of dry air.",
+    correct: "humidity ratio",
+    options: ["enthalpy", "humidity ratio", "specific volume", "relative humidity"]
+  },
+  {
+    question: "230. This system combines two vapor-compression units, with the condenser of the low-temperature system discharging heat to the evaporator of the high-temp system.",
+    correct: "Cascade systems",
+    options: ["Cascade systems", "Multi-stage system", "Binary system", "Multi-pressure system"]
+  },
+  {
+    question: "231. A process of increasing the humidity ratio at constant dry-bulb temperature.",
+    correct: "Humidifying process",
+    options: ["Dehumidifying process", "Cooling process", "Heating process", "Humidifying process"]
+  },
+  {
+    question: "232. The ratio of the partial pressure of water vapor in the air to the saturation pressure corresponding to the temperature of the air.",
+    correct: "Relative Humidity",
+    options: ["Humidity Ratio", "Relative Humidity", "Specific humidity", "Moisture content"]
+  },
+  {
+    question: "236. The transfer of energy from the more energetic particles of a substance to the adjacent less energetic ones as a result of interactions between the particles.",
+    correct: "Conduction",
+    options: ["Heat transfer", "Radiation", "Conduction", "Convection"]
+  },
+  {
+    question: "237. What is the simultaneous control of temperature, humidity, air movement, and quantity of air in space?",
+    correct: "Air-conditioning",
+    options: ["Refrigeration", "Psychrometry", "Air-conditioning", "Humidification"]
+  },
+  {
+    question: "239. The substance used for heat transfer in a vapor compression refrigerating system. It picks up heat by evaporating and gives up heat by condensing.",
+    correct: "Ammonia",
+    options: ["Water", "Air", "Ammonia", "Gas"]
+  },
+  {
+    question: "241. A refrigerating machine that is classified as a one-ton machine has the capacity to produce a cooling effect of:",
+    correct: "All of the above",
+    options: ["3.517 kW", "12,000 Btu/hr", "211 kJ/min", "All of the above"]
+  }
 ]
 };
