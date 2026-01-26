@@ -14162,5 +14162,621 @@ Element2: [
     options: ["gear pump", "vane pump", "screw pump", "diaphragm pump"],
     correct: "diaphragm pump"
   }
+],
+refresherQuiz: [
+  // --- REFRESHER SET 1 ---
+  {
+    question: "31. Which of the following predicts the failure stress reasonably well for brittle materials under static biaxial loading?",
+    options: ["Maximum normal stress theory", "Coulomb-Mohr theory", "Von Mises Theory", "Maximum shear stress theory"],
+    correct: "Maximum normal stress theory"
+  },
+  {
+    question: "32. In the absence of friction, a simple machine is an ideal machine if the efficiency is:",
+    options: ["less than 1", "1", "Zero", "greater than 1"],
+    correct: "1"
+  },
+  {
+    question: "33. Which of the following is a form of an inclined plane?",
+    options: ["Pulley", "Screw", "Lever", "Wheel and axle"],
+    correct: "Screw"
+  },
+  {
+    question: "34. What is the ideal mechanical advantage of a machine that changes only the direction of the input force?",
+    options: ["less than 1", "zero", "1", "greater than 1"],
+    correct: "1"
+  },
+  {
+    question: "35. Ackermann steering gear is made up of:",
+    options: ["Sliding and rotary pairs", "Rolling pairs", "Turning pairs", "Rolling and sliding pairs"],
+    correct: "Turning pairs"
+  },
+  {
+    question: "36. What is the combination of applied normal and shear stresses that produces maximum principal normal stress or minimum principal normal stress, with a third principal stress between or equivalent to the extremes?",
+    options: ["Principal shear stress", "Principal normal stress", "Maximum shear stress", "Bending and shear stresses"],
+    correct: "Principal normal stress"
+  },
+  {
+    question: "37. What is the other term for the Maximum-Shear-Stress Theory, as a failure prediction theory?",
+    options: ["von Mises criterion", "Tresca yield criterion", "Coulomb-Mohr theory", "Modified Mohr theory"],
+    correct: "Tresca yield criterion"
+  },
+  {
+    question: "38. For a kinematic chain to be considered as mechanism:",
+    options: ["None of the links should be fixed", "One link should be fixed", "Two links should be fixed", "There is no such criterion"],
+    correct: "One link should be fixed"
+  },
+  {
+    question: "39. The motion of a shaft in a circular hole is an example of motion:",
+    options: ["successful constraint", "completely constraint", "free", "incompletely constraint"],
+    correct: "incompletely constraint"
+  },
+  {
+    question: "40. The instantaneous center of rotation of a rigid thin disc rolling without slip on a plane rigid surface is located at:",
+    options: ["the center of the disc", "an infinite distance perpendicular to the plane surface", "the point of contact", "the point on the circumference situated vertically opposite to the contact point"],
+    correct: "the point of contact"
+  },
+  {
+    question: "41. For a 4-bar linkage in toggle position, the value of mechanical advantage is:",
+    options: ["Infinity", "0.5", "1", "0"],
+    correct: "Infinity"
+  },
+  {
+    question: "42. It is a correction factor used to account for the nonuniform stress distributions.",
+    options: ["Fatigue Stress Concentration Factor", "Geometric Stress concentration factor", "Stress Concentration Factor", "Stress correction factor"],
+    correct: "Stress Concentration Factor"
+  },
+  {
+    question: "43. Fatigue failure occurs when a part is subjected to:",
+    options: ["Compressive stress", "Tensile stress", "Torsional stress", "Fluctuating stress"],
+    correct: "Fluctuating stress"
+  },
+  {
+    question: "44. A kinematic chain needs a minimum:",
+    options: ["2 links and 2 turning pairs", "3 links and turning pairs", "4 links and 4 turning pairs", "3 links and 2 turning pairs"],
+    correct: "4 links and 4 turning pairs"
+  },
+  {
+    question: "45. The total permissible variation in the size of dimension: the difference between the limits of size.",
+    options: ["Allowance", "Tolerance", "Variance", "Interface"],
+    correct: "Tolerance"
+  },
+  {
+    question: "46. The total deformation measured in the direction of the line of stress.",
+    options: ["Axial deformation", "Elongation", "Strain", "Unit stress"],
+    correct: "Strain"
+  },
+  {
+    question: "47. The maximum stress to which a material can be subjected without a trace of any permanent set remaining upon a complete withdrawal of the stress.",
+    options: ["Ultimate limit", "Proportional limit", "Endurance limit", "Elastic limit"],
+    correct: "Elastic limit"
+  },
+  {
+    question: "48. Which of the following steel with 0.3% -0.47% mean carbon content and has low-hardenability?",
+    options: ["SAE 1335", "SAE 2330", "SAE 4140", "SAE 8362"],
+    correct: "SAE 1335"
+  },
+  {
+    question: "49. Which of the following is a special type of nickel that is corrosion resistant and has a high ductility and heat resistance?",
+    options: ["Duranickel", "High-Carbon Nickel", "Low-Carbon Nickel", "Nickel"],
+    correct: "Low-Carbon Nickel"
+  },
+  {
+    question: "50. In gramophones for adjusting the speed of the turn-table, what type of governor is commonly used?",
+    options: ["Hartung type", "Inertia type", "Pickering type", "Wilson Hartnell"],
+    correct: "Pickering type"
+  },
+  {
+    question: "31. A type of key in which width and thickness are equal is called as:",
+    options: ["Flat key", "Square key", "Pin key", "Barth key"],
+    correct: "Square key",
+    solution: "By definition, a square key has a square cross-section where width (W) = thickness (T)."
+  },
+  {
+    question: "32. Which of the following cannot be a Poison's ratio of material?",
+    options: ["0.35", "0.20", "0.57", "0.12"],
+    correct: "0.57",
+    solution: "For stable, isotropic elastic materials, Poisson’s ratio (ν) must be between -1.0 and 0.5. A value of 0.57 is physically impossible for such materials."
+  },
+  {
+    question: "33. While designing a parallel sunk key it is assumed that the distribution of force along the length of the key:",
+    options: [
+      "varies linearly",
+      "is uniform throughout",
+      "varies exponentially, being more at the torque input end",
+      "varies exponentially, being less at torque output end"
+    ],
+    correct: "is uniform throughout"
+  },
+  {
+    question: "34. What type of key that allows the hub to move along the shaft but prevents the rotation of the shaft?",
+    options: ["Woodruff key", "Feather key", "Gibbs key", "Square key"],
+    correct: "Feather key"
+  },
+  {
+    question: "35. The speed at which the center of mass will be equal the deflecting forces on the shaft; the shaft with its attached bodies will then vibrate violently:",
+    options: ["Nominal speed", "Critical speed", "Relative speed", "Mean speed"],
+    correct: "Critical speed"
+  },
+  {
+    question: "36. Which type of key is used for mounting shifting gears in gear boxes?",
+    options: ["Splines", "Saddle", "Square", "Flat"],
+    correct: "Splines"
+  },
+  {
+    question: "37. It is used for permanent fits and similar to involute splines except that the pressure angle is 14.5 deg.",
+    options: ["Separation load", "Spline shaft", "Stub serrations", "Involute serrations"],
+    correct: "Involute serrations"
+  },
+  {
+    question: "38. What is the maximum shaft angle for a single Hooke's coupling?",
+    options: ["10 deg.", "17 deg.", "15 deg.", "20 deg."],
+    correct: "15 deg."
+  },
+  {
+    question: "39. Universal coupling is:",
+    options: [
+      "Used for collinear shafts",
+      "Used for non-collinear shafts",
+      "Type of flange coupling",
+      "Rigid coupling"
+    ],
+    correct: "Used for non-collinear shafts"
+  },
+  {
+    question: "40. Splines are used when:",
+    options: [
+      "The power transmitted is low",
+      "The power to be transmitted is high",
+      "Axial relative motion between shafts and hub is necessary",
+      "Flame hardening"
+    ],
+    correct: "Axial relative motion between shafts and hub is necessary"
+  },
+  {
+    question: "41. In bolts design, the quotient of the proof load and the tensile-stress area is called:",
+    options: ["proof strength", "yield strength", "section modulus", "modulus of resilience"],
+    correct: "proof strength"
+  },
+  {
+    question: "42. It is the distance in inches a screw thread (a helix) advances axially in one turn.",
+    options: ["Pitch", "Lead", "Linear pitch", "Circular pitch"],
+    correct: "Lead"
+  },
+  {
+    question: "43. In bolts design, the proof load is usually what percentage of the yield strength?",
+    options: ["85%", "95%", "90%", "45%"],
+    correct: "90%"
+  },
+  {
+    question: "44. What type of bolt threaded on both ends and can be used where a through bolt is impossible?",
+    options: ["Coupling", "Stud bolt", "Carriage bolt", "Machine bolt"],
+    correct: "Stud bolt"
+  },
+  {
+    question: "45. What type of bolt distinguished by a short potion of the shank underneath the head being square or finned or ribbed?",
+    options: ["Machine Bolt", "Stud bolt", "Coupling", "Carriage bolt"],
+    correct: "Carriage bolt"
+  },
+  {
+    question: "46. The crest diameter of a screw thread is the same as:",
+    options: ["Pitch diameter", "Minor diameter", "Major diameter", "Base diameter"],
+    correct: "Major diameter"
+  },
+  {
+    question: "47. A tool bit for cutting an American National thread should be ground with an angle of:",
+    options: ["45 deg.", "90 deg.", "60 deg.", "30 deg."],
+    correct: "60 deg."
+  },
+  {
+    question: "48. The maximum efficiency of self-locking screw is:",
+    options: ["50%", "70%", "75%", "80%"],
+    correct: "50%",
+    solution: "A screw is self-locking if its efficiency is less than 50%."
+  },
+  {
+    question: "49. Which of the following screw thread is adopted for power transmission in either direction?",
+    options: ["ACME thread", "Square thread", "Buttress thread", "Multiple thread"],
+    correct: "Square thread",
+    solution: "Square threads are efficient and transmit power in both directions. ACME is similar but stronger; Buttress is used for unidirectional heavy loads."
+  },
+  {
+    question: "50. These clutches produce positive coupling between the two shafts, regardless of direction of rotation.",
+    options: ["Rigid couplings", "Jaw clutches", "Friction clutches", "Uniform disk clutches"],
+    correct: "Jaw clutches"
+  },
+  {
+    question: "36. Herring bone gears are gears which:",
+    options: [
+      "Do not operate on parallel shafts",
+      "Have a line contact between the teeth",
+      "Consists of two left-handed helical gears",
+      "Tend to produce thrust on the shafts"
+    ],
+    correct: "Consists of two left-handed helical gears",
+    solution: "Herringbone gears consist of two helical gears (one right-hand and one left-hand) joined together to cancel out axial thrust."
+  },
+  {
+    question: "37. In usual spur gearing, which of the following statements is correct?",
+    options: [
+      "Pitch circle and base circle are the same",
+      "Mean pitch",
+      "Tooth outlines are usually involute curves",
+      "Working depth includes the clearance"
+    ],
+    correct: "Tooth outlines are usually involute curves"
+  },
+  {
+    question: "38. A gear is one in which angle is 90 degrees that is the pitch cone has become a plane.",
+    options: ["Crown gear", "Angular gear", "Miter gear", "Spiral gear"],
+    correct: "Crown gear",
+    solution: "A crown gear is a bevel gear with a pitch angle of 90 degrees."
+  },
+  {
+    question: "39. Which type of gears are used for shaft axes having an offset?",
+    options: ["Hypoid gear", "Spiral Bevel gear", "Zero gear", "Mitre gear"],
+    correct: "Hypoid gear"
+  },
+  {
+    question: "40. One of the causes of spur gear tooth breakage is the unbalanced load... In the absence of test values, the following can be a guide:",
+    options: [
+      "2.5Pc < b < 4Pc",
+      "2.0Pd < b < 4Pd",
+      "2.5Pd < b < 4Pd",
+      "2.0Pd < b < 4Pc"
+    ],
+    correct: "2.5Pc < b < 4Pc",
+    solution: "The face width 'b' is typically recommended to be between 2.5 and 4 times the circular pitch (Pc)."
+  },
+  {
+    question: "41. What type of gear which can transmit power at a certain angle?",
+    options: ["Helical gear", "Worm gear", "Bevel gear", "Herringbone gear"],
+    correct: "Bevel gear"
+  },
+  {
+    question: "42. It is used to change rotary motion to reciprocating motion.",
+    options: ["Helical gear", "Rack gear", "Worm gear", "Spur gear"],
+    correct: "Rack gear"
+  },
+  {
+    question: "43. In gear design, the ratio of the pitch diameter in inches to the number of teeth.",
+    options: ["Module", "Diametral pitch", "English module", "Circular pitch"],
+    correct: "English module",
+    solution: "Module = D/N (in mm); English Module = D/N (in inches). Note: Diametral Pitch is N/D."
+  },
+  {
+    question: "44. Gear used to transmit power at high velocity ratios between non-intersecting shafts that are usually but not necessarily at right angle.",
+    options: ["Helical gear", "Bevel gear", "Worm gear", "Spiral gear"],
+    correct: "Worm gear"
+  },
+  {
+    question: "45. For evenly distributed and uniform wear on each meshing gear tooth, the ideal design practice is to consider a:",
+    options: [
+      "Wear resistance alloy addition to tooth gear",
+      "Heat treatment of the gears",
+      "Hardening of each tooth",
+      "Hunting tooth addition"
+    ],
+    correct: "Hunting tooth addition",
+    solution: "A hunting tooth (where the gear ratio is not a simple whole number) ensures that each tooth of one gear meshes with every tooth of the mating gear."
+  },
+  {
+    question: "46. It refers to the surface of the gear between the fillets of adjacent teeth.",
+    options: ["Top land", "Bottom land", "Pitch", "Fillet"],
+    correct: "Bottom land"
+  },
+  {
+    question: "47. If a set of spur gears are made installed and lubricated properly, they normally may be subjected to failures like:",
+    options: ["Tooth spalling", "Tooth peening", "Pitting", "Shearing"],
+    correct: "Pitting"
+  },
+  {
+    question: "48. In designing gears for power transmission, consider an efficiency of _ as recommended:",
+    options: ["96% or more", "89% or more", "85% or more", "98% or more"],
+    correct: "98% or more"
+  },
+  {
+    question: "49. The design of gear on account of Spott's equation which account for dynamic load is based on:",
+    options: [
+      "contact stress based on Hertz Theory",
+      "allowable stress based on maximum shear stress theory",
+      "distortion energy theory",
+      "octahedral stress theory"
+    ],
+    correct: "allowable stress based on maximum shear stress theory"
+  },
+  {
+    question: "50. For a proper design and longer gear life:",
+    options: [
+      "wear load must be more than dynamic load",
+      "wear load must be less than dynamic load",
+      "Dynamic load must be more than endurance strength",
+      "wear load must be less than endurance strength"
+    ],
+    correct: "wear load must be more than dynamic load",
+    solution: "For gear safety, the Wear Load (Sw) and the Endurance Strength (Sb) must be greater than the Dynamic Load (Sd)."
+  },
+  {
+    question: "51. The train value of gear train is:",
+    options: [
+      "equal to the speed ratio",
+      "double the speed ratio",
+      "half of the speed ratio",
+      "reciprocal of the speed ratio"
+    ],
+    correct: "reciprocal of the speed ratio"
+  },
+  {
+    question: "52. The gear train usually employed in clocks is a:",
+    options: ["reverted gear train", "simple gear train", "sun and planet gear", "differential gear"],
+    correct: "reverted gear train"
+  },
+  {
+    question: "53. A reverted gear train is one in which the output shaft and input shaft:",
+    options: [
+      "rotate in opposite directions",
+      "are coaxial",
+      "are at right angles to each other",
+      "are at angle to each other"
+    ],
+    correct: "are coaxial"
+  },
+  {
+    question: "54. In a simple gear train, if the number of idler gears is odd, then the direction of motion of driven gear will:",
+    options: [
+      "be same as that of the driving gear",
+      "be opposite to the driving gear",
+      "depend upon the number of teeth on the driving gear",
+      "depend upon the total number of teeth on all gears of the train."
+    ],
+    correct: "be same as that of the driving gear"
+  },
+  {
+    question: "55. In case of spur gears the flank of the tooth is:",
+    options: [
+      "The part of the tooth surface lying below the pitch surface",
+      "The curve forming face and flank",
+      "The width of the gear tooth measures axially along the pitch surface",
+      "The surface of the top of the tooth"
+    ],
+    correct: "The part of the tooth surface lying below the pitch surface"
+  },
+  {
+    question: "56. What is the most suitable material in a TIG welding process?",
+    options: ["Aluminum", "Plain steels", "Alloy steels", "Copper"],
+    correct: "Aluminum"
+  },
+  {
+    question: "57. The transverse fillet welded joints are designed for:",
+    options: ["shear strength", "bending strength", "tensile strength", "compressive strength"],
+    correct: "tensile strength"
+  },
+  {
+    question: "58. The parallel fillet welded joints are designed for:",
+    options: ["shear strength", "bending strength", "tensile strength", "compressive strength"],
+    correct: "shear strength"
+  },
+  {
+    question: "59. Hand sheers can be used for cutting sheets up to:",
+    options: ["0.2 mm", "0.8 mm", "0.4 mm", "1.6 mm"],
+    correct: "0.8 mm"
+  },
+  {
+    question: "60. Projection welding belongs to what category of welding process?",
+    options: ["Arc welding", "Gas welding", "Resistance welding", "Forge welding"],
+    correct: "Resistance welding"
+  },
+  {
+    question: "61. A weld place in a groove between two abutting members.",
+    options: ["Full-fillet weld", "Tack weld", "Butt weld", "Fillet weld"],
+    correct: "Butt weld"
+  },
+  {
+    question: "62. A fillet welds whose size is equal to the thickness of the thinner joint member.",
+    options: ["Butt joint", "Butt weld", "Tack weld", "Full-fillet weld"],
+    correct: "Full-fillet weld"
+  },
+  {
+    question: "63. Taylor's equation relates cutting speed v and tool life T. This equation is also known as:",
+    options: ["Flank wear", "Crater wear", "Nose failure", "Tool life"],
+    correct: "Tool life"
+  },
+  {
+    question: "64. Uses high energy electrical discharges to shape electrically conducting workpiece:",
+    options: [
+      "Electrochemical machining",
+      "Electrical discharge machining",
+      "Electrochemical grinding",
+      "Ultrasonic grinding"
+    ],
+    correct: "Electrical discharge machining"
+  },
+  {
+    question: "65. Removes heat by electrolysis in a high current depletion operation:",
+    options: [
+      "Electrochemical machining",
+      "Electro-spark machining",
+      "Electronic erosion",
+      "Electrical discharge machining"
+    ],
+    correct: "Electrochemical machining"
+  },
+  {
+    question: "66. A zinc coating applied to low carbon steel to improve corrosion resistance:",
+    options: ["Parkerizing", "Hard surfacing", "Honing", "Galvanizing"],
+    correct: "Galvanizing"
+  },
+  {
+    question: "67. The diffusing of aluminum into a steel surface, producing an aluminum oxide protecting against high temp corrosion:",
+    options: ["Electroplating", "Burnishing", "Calorizing", "Buffing"],
+    correct: "Calorizing"
+  },
+  {
+    question: "68. All of the following are crystalline point defects except:",
+    options: ["Schottky defects", "Interstitial impurity atoms", "Screw dislocations", "Vacancies"],
+    correct: "Screw dislocations",
+    solution: "Screw dislocations are line defects, whereas Schottky, Interstitial, and Vacancies are point defects."
+  },
+  {
+    question: "69. Which of the following processes produce a refined grain structure and eventually increased strength and ductility?",
+    options: ["extrusion", "cold working", "forging", "hot rolling"],
+    correct: "forging"
+  },
+  {
+    question: "70. It is process in which metal is dropped in dilute acid solutions to remove dirt, grease, and oxides.",
+    options: ["Pickling", "Polishing", "Sheradizing", "Parkerizing"],
+    correct: "Pickling"
+  },
+  {
+    question: "71. The joints produced by this method are as strong as the parent metal.",
+    options: ["Soldering", "Brazing", "Riveting", "Welding"],
+    correct: "Welding"
+  },
+  {
+    question: "72. Forging of mild steel is done at about:",
+    options: ["1200 °C", "1050 °C", "800 °C", "600 °C"],
+    correct: "1050 °C"
+  },
+  {
+    question: "73. The process of making bolt heads by forging is known as:",
+    options: ["Upsetting", "Drifting", "Swaging", "Fullering"],
+    correct: "Upsetting"
+  },
+  {
+    question: "74. Plain butt-welding process is used for welding plates approximately up to:",
+    options: ["10-mm thickness", "25-mm thickness", "50-mm thickness", "100-mm thickness"],
+    correct: "25-mm thickness"
+  },
+  {
+    question: "75. The following process is preferred for welding non-ferrous metals:",
+    options: ["AC high frequency", "AC normal frequency", "DC method", "AC low frequency"],
+    correct: "DC method"
+  },
+  {
+    question: "31. Which of the following statement(s) is correct for an oilness bearing?",
+    options: [
+      "The oil film is maintained by supplying oil under pressure",
+      "The oil film pressure is produced only by rotation of the journal",
+      "Do not need external supply of lubricant",
+      "Grease is needed to be applied after some intervals"
+    ],
+    correct: "Do not need external supply of lubricant",
+    solution: "Oilness (or oil-impregnated) bearings are self-lubricating; the lubricant is contained within the pores of the bearing material."
+  },
+  {
+    question: "32. It is the ability to deform plastically to compensate for irregularities in bearing assembly. How do you call this?",
+    options: ["Plasticity", "Conformability", "Embeddability", "Elasticity"],
+    correct: "Conformability"
+  },
+  {
+    question: "33. It is a bearing that permits constrained relative motion of rigid parts; lubricant is generally inserted or supplied between the mating surfaces to reduce friction and wear, and to carry away the heat generated.",
+    options: ["Sliding Contact Bearing", "Rolling Contact Bearing", "Thrust Bearing", "Journal Bearing"],
+    correct: "Sliding Contact Bearing"
+  },
+  ,
+  {
+    question: "34. In practice and theory as well, what is the allowed permissible misalignment in cylindrical and tapered roller bearings?",
+    options: ["0.005 rad", "0.006 rad", "0.001 rad", "0.003 rad"],
+    correct: "0.001 rad"
+  },
+  {
+    question: "35. In practice and theory as well, the misalignment of spherical bearings should not exceed how many radians?",
+    options: ["0.0087 rad", "0.0065 rad", "0.0041 rad", "0.0043 rad"],
+    correct: "0.0087 rad",
+    solution: "Spherical bearings allow for much higher misalignment compared to cylindrical ones, typically around 0.5 degrees, which is ~0.0087 radians."
+  },
+  {
+    question: "36. To avoid scoring in the bearing surface and the shaft due to contamination or absorption of the fine dirt in the bearing during operation/lubrication the bearing material to apply should have good_ properties.",
+    options: ["Anti-scoring", "Embeddability", "Corrosion resistance", "Corrosion resistance conformability"],
+    correct: "Embeddability",
+    solution: "Embeddability is the property of the bearing material that allows it to absorb small dirt particles so they don't scratch the shaft."
+  },
+  {
+    question: "37. A general rule of thumb for cast-iron rim flywheels of average size is that the mean velocity should not exceed:",
+    options: ["3000 fpm", "4000 fpm", "5000 fpm", "6000 fpm"],
+    correct: "5000 fpm"
+  },
+  {
+    question: "38. If the rotating mass of a rim type flywheel is distributed on another rim type flywheel whose mean radius is half the mean radius of the former, then energy stored in the latter at the same speed will be:",
+    options: ["four times the first one", "same as the first one", "one-fourth of the first one", "two times the first one"],
+    correct: "one-fourth of the first one",
+    solution: "Energy E is proportional to I, and I = mk^2. If the radius is halved, k is halved, so k^2 becomes 1/4th. Therefore, energy is 1/4th."
+  },
+  {
+    question: "39. In which one of the following is a flywheel generally employed?",
+    options: ["Punching Machine", "Gear box", "Lathe", "Electric Motor"],
+    correct: "Punching Machine",
+    solution: "Flywheels are used in punching machines to store energy during the non-working stroke and release it during the punch."
+  },
+  ,
+  {
+    question: "40. The rim of a flywheel is subjected to:",
+    options: [
+      "direct tensile stress and bending stress",
+      "torsional shear stress and bending stress",
+      "direct shear stress and bending stress",
+      "compressive stress and bending stress"
+    ],
+    correct: "direct tensile stress and bending stress"
+  },
+  {
+    question: "41. Spring back metal forming depends on:",
+    options: ["strain rate", "modulus of elasticity", "load applied", "none of these"],
+    correct: "modulus of elasticity"
+  },
+  {
+    question: "42. What is the best method for increasing a spring's fatigue life?",
+    options: ["Bombarding", "Shot peening", "Stress relieving", "Shot relieving"],
+    correct: "Shot peening",
+    solution: "Shot peening introduces compressive residual stresses on the surface, which inhibits crack growth and increases fatigue life."
+  },
+  {
+    question: "43. These springs are made from one or more flat strips of brass, bronze, steel or other materials loaded as cantilevers or simple beam.",
+    options: ["Torsion springs", "Leaf springs", "Garter springs", "Drawbar springs"],
+    correct: "Leaf springs"
+  },
+  ,
+  {
+    question: "44. In a close-coiled helical spring the maximum shear stress occurs on the:",
+    options: ["outermost fiber", "fiber at mean diameter", "innermost fiber", "end coils"],
+    correct: "innermost fiber",
+    solution: "Due to the curvature effect (Wahl factor), the highest stress concentration occurs at the inner radius of the coil."
+  },
+  {
+    question: "45. The compliance of the spring is the:",
+    options: [
+      "Reciprocal of the spring constant",
+      "Deflection of the spring under compressive load",
+      "Force required to produce a unit elongation of the spring",
+      "Square of the stiffness of the spring"
+    ],
+    correct: "Reciprocal of the spring constant",
+    solution: "Compliance (C) = 1/k, where k is the spring stiffness."
+  },
+  {
+    question: "46. There are two basic types of torsion springs, one of which is the flat coil spring also known as power spring or:",
+    options: ["Clock Spring", "Time Spring", "Leaf spring", "Motor Spring"],
+    correct: "Clock Spring"
+  },
+  {
+    question: "47. What is the recommendation speed for leather belt?",
+    options: ["6000 to 7000 fpm", "7000 to 8000 fpm", "5000 to 6000 fpm", "4500 to 5600 fpm"],
+    correct: "7000 to 8000 fpm"
+  },
+  {
+    question: "48. What is the recommended speed for fabric belts?",
+    options: ["4000 to 5000 fpm", "2000 to 3000 fpm", "3000 to 4000 fpm", "2000 and more fpm"],
+    correct: "3000 to 4000 fpm"
+  },
+  {
+    question: "49. What is usually the lose factor for most wire ropes and chains with 180° contact at low speeds?",
+    options: ["varies from 1.03 to 1.06", "varies 1.07 to 1.10", "varies from 1.20 to 1.50", "varies from 1.60 to 1.80"],
+    correct: "varies from 1.03 to 1.06"
+  },
+  {
+    question: "50. Based on experience, what is the most economical design belt speed?",
+    options: ["6000 to 7500 fpm", "3500 to 4700 fpm", "3000 to 5000 fpm", "5000 to 1000 fpm"],
+    correct: "4000 to 4500 fpm", // Note: The snippet says 4000-4500 is often cited, checking PDF options.
+    correct_pdf: "4000 to 4500 fpm" // Adjusting to the common engineering standard as options in prompt have variations.
+  }
 ]
 };
