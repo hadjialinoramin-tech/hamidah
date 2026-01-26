@@ -13720,6 +13720,447 @@ Element2: [
     question: "241. A refrigerating machine that is classified as a one-ton machine has the capacity to produce a cooling effect of:",
     correct: "All of the above",
     options: ["3.517 kW", "12,000 Btu/hr", "211 kJ/min", "All of the above"]
+  },
+  {
+    question: "1.) If the initial volume of an ideal gas is compressed to one-half its original volume and to twice its temperature, the pressure:",
+    options: ["Doubles", "Quadruples", "Remains constant", "Halves"],
+    correct: "Quadruples",
+    solution: "Based on P1V1/T1 = P2V2/T2. If V2 = 0.5V1 and T2 = 2T1, then P1V1/T1 = P2(0.5V1)/(2T1). Solving for P2 gives P2 = (P1 * 2) / 0.5 = 4P1."
+  },
+  {
+    question: "2.) If the gage pressure of a medium is 30 kPa (vacuum) and the atmospheric pressure is 101.3 kPa, the absolute pressure will be:",
+    options: ["131.3 kPa", "– 71.3 kPa", "71.3 kPa", "-131.3 kPa"],
+    correct: "71.3 kPa",
+    solution: "Pabs = Patm - Pvac = 101.3 kPa - 30 kPa = 71.3 kPa."
+  },
+  {
+    question: "3.) If a particle has a velocity of 4 meters per second and a kinetic energy of 144 Joules, then the mass, in kilograms of this particle must be:",
+    options: ["44", "16", "18", "24"],
+    correct: "18",
+    solution: "KE = 1/2 mv^2. 144 = 0.5 * m * (4^2). 144 = 8m. m = 18 kg."
+  },
+  {
+    question: "4.) A very important consequence of the ideal gas model is that the internal energy of an ideal gas is a function of _______________ only.",
+    options: ["pressure", "Temperature", "Point function", "Volume"],
+    correct: "Temperature"
+  },
+  {
+    question: "5.) At what temperature readings do the Fahrenheit and Celsius scales have the same value?",
+    options: ["– 35 degrees", "– 40 degrees", "– 45 degrees", "– 30 degrees"],
+    correct: "– 40 degrees",
+    solution: "Setting C = F in C = (F-32)/1.8 results in -40."
+  },
+  {
+    question: "6.) States that if the temperature of a given quantity of gas is held constant, the volume of the gas varies inversely with the absolute pressure during a change of state.",
+    options: ["Daltons Law", "Charles’ Law", "First Law of Thermodynamics", "Boyle’s Law"],
+    correct: "Boyle’s Law"
+  },
+  {
+    question: "7.) A condenser vacuum gauge reads 715 mm Hg when the barometer stands at 757 mm Hg. State the absolute pressure in the condenser in kN/m2 or kPa.",
+    options: ["5.6 kPa", "5.9 kPa", "6.5 kPa", "5.2 kPa"],
+    correct: "5.6 kPa",
+    solution: "Pabs = (757 - 715) = 42 mm Hg. 42 mm Hg * (101.325/760) = 5.60 kPa."
+  },
+  {
+    question: "8.) A unit of force that produces unit acceleration (in ft/s2) in a unit mass (in lbm)",
+    options: ["Poundal", "Pound", "Newton", "Dyne"],
+    correct: "Poundal"
+  },
+  {
+    question: "9.) Determine the force in Newton in a piston of 465 mm2 area with a pressure of 0.172 MPa.",
+    options: ["65 N", "72 N", "80 N", "111"],
+    correct: "80 N",
+    solution: "F = P * A = 0.172 MPa * 465 mm^2 = 79.98 N ≈ 80 N."
+  },
+  {
+    question: "10.) Which of the following does not belong to the group?",
+    options: ["Potential Energy", "Kinetic Energy", "Heat Energy", "Flow energy"],
+    correct: "Heat Energy"
+  },
+  {
+    question: "11.) Why does a cube of ice float in water?",
+    options: ["Ice has lower temperature than water", "The density of ice is lesser than water", "There are more water than ice", "None of the above"],
+    correct: "The density of ice is lesser than water"
+  },
+  {
+    question: "12.) One piston of a hydraulic press has an area of 1 cm2. The other piston has an area of 25 cm2. If a force of 150 N is applied on the smaller piston, what will be the total force on the larger piston?",
+    options: ["6 N", "175 N", "3750 N", "4250 N"],
+    correct: "3750 N",
+    solution: "F2 = F1 * (A2/A1) = 150 * (25/1) = 3750 N."
+  },
+  {
+    question: "13.) If the pressure of a confined gas at a constant temperature is tripled, what will happen to the volume?",
+    options: ["The volume will be tripled", "The volume will be reduced to one-third", "The volume will remain unchanged", "The volume is constant"],
+    correct: "The volume will be reduced to one-third"
+  },
+  {
+    question: "14.) The work done on air is 10.86 kJ/kg, determine the compressor power if it is receiving 272 kg/min if air.",
+    options: ["36.72 hp", "49.23 hp", "2954 hp", "66 hp"],
+    correct: "66 hp",
+    solution: "Power = (10.86) * (272/60) = 49.232 kW. 49.232 / 0.746 = 65.99 hp."
+  },
+  {
+    question: "15.) A water tank of 18 ft wide, 14 ft long and 4 ft high, calculate the pressure at the bottom of the tank.",
+    options: ["1.733 psi", "1.999 psi", "2.337 psi", "3.773 psi"],
+    correct: "1.733 psi",
+    solution: "P = (62.4 * 4) / 144 = 1.733 psi."
+  },
+  {
+    question: "16.) The pressure of 750 mm Hg in kN/m2.",
+    options: ["90", "100", "103", "110"],
+    correct: "100",
+    solution: "750 * (101.325 / 760) = 99.99 kPa."
+  },
+  {
+    question: "17.) A double purpose tank 18 ft wide, 24 ft long and 4 ft depth is filled with water. What is the weight of water in the tank in long tons?",
+    options: ["49 tons", "48 tons", "54 tons", "50 tons"],
+    correct: "49 tons",
+    solution: "Weight = (18*24*4) * 62.4 = 107,827.2 lb. 107,827.2 / 2200 = 49 tons."
+  },
+  {
+    question: "18.) Oil flow though 16 tubes with a velocity of 2 m/s. Internal diameter is 30mm. Find the volume flow in liters per sec.",
+    options: ["22.62", "32.22", "62.22", "42.62"],
+    correct: "22.62",
+    solution: "Q = A * v * n = [π * (0.015)^2] * 2 * 16 = 0.02262 m3/s = 22.62 L/s."
+  },
+  {
+    question: "19.) A substance temperature was 620 deg R. What is the temperature in deg C?",
+    options: ["50.7", "45.54", "71.11", "94.44"],
+    correct: "71.11",
+    solution: "C = [(620 - 460) - 32] * 5/9 = 71.11."
+  },
+  {
+    question: "20.) Unknown volume of gas at 1 atm is expanded to 10 m3 at 500 mm Hg at constant temperature. Find the unknown volume.",
+    options: ["6.58 m3", "6.75 m3", "5.67 m3", "7.65 m3"],
+    correct: "6.58 m3",
+    solution: "V1 = (500 * 10) / 760 = 6.58 m3."
+  },
+  {
+    question: "21.) An iron block weighs 5 Newton and has volume of 200 cm3. What is the density of the block?",
+    options: ["2458 kg/m3", "2485 kg/m3", "2584 kg/m3", "2549 kg/m3"],
+    correct: "2549 kg/m3",
+    solution: "Density = (5 / 0.0002) / 9.8066 = 2549.30 kg/m3."
+  },
+  {
+    question: "22.) If air is at a pressure of 22.22 psia and at temperature of 800 deg R, what is the specific volume?",
+    options: ["11.3 ft3/lbm", "33.1 ft3/lbm", "13.3 ft3/lbm", "31.3 ft3/lbm"],
+    correct: "13.3 ft3/lbm",
+    solution: "v = RT/P = (53.34 * 800) / (22.22 * 144) = 13.33 ft3/lbm."
+  },
+  {
+    question: "23.) The specific gravity of mercury is 13.55. What is the specific weight of mercury?",
+    options: ["123.9 kN/m3", "139.2 kN/m3", "132.9 kN/m3", "193.2 kN/m3"],
+    correct: "132.9 kN/m3",
+    solution: "Specific Weight = 13.55 * 9.8066 = 132.88 kN/m3."
+  },
+  {
+    question: "24.) The equivalent weight of mass 10 kg at a location where the acceleration of gravity is 9.77 m/sec2.",
+    options: ["97.7 N", "79.7 N", "77.9 N", "977 N"],
+    correct: "97.7 N",
+    solution: "W = mg = 10 * 9.77 = 97.7 N."
+  },
+  {
+    question: "25.) Minimum volume tank to transport 100L of gas at STP (32F, 1 atm) at 80F and 8 atm?",
+    options: ["16 liters", "14 liters", "10 liters", "12 liters"],
+    correct: "14 liters",
+    solution: "V2 = (P1V1T2)/(T1P2) = (1 * 100 * 540) / (492 * 8) = 13.72 liters."
+  },
+  {
+    question: "26.) Specific volume of mixture: 100g water + 150g alcohol (790 kg/m3)?",
+    options: ["0.82 x 10-3", "0.88 x 10-3", "0.63 x 10-3", "1.16 x 10-3"],
+    correct: "1.16 x 10-3",
+    solution: "Total Vol = (0.1/1000) + (0.15/790) = 0.00029 m3. Sp Vol = 0.00029 / 0.250 = 1.16 x 10^-3 m3/kg."
+  },
+  {
+    question: "27.) How much does 30 lbm weigh on the moon? (gmoon = 5.47 ft/s2).",
+    options: ["2.0 lbf", "3.2 lbf", "3.4 lbf", "5.1 lbf"],
+    correct: "5.1 lbf",
+    solution: "W = (30 * 5.47) / 32.174 = 5.1 lbf."
+  },
+  {
+    question: "28.) A 10 kg block is raised vertically 3 meters. What is the change in potential energy?",
+    options: ["320 J", "350 kg-m2/s2", "294 J", "350 N-m"],
+    correct: "294 J",
+    solution: "PE = mgh = 10 * 9.8066 * 3 = 294.2 J."
+  },
+  {
+    question: "29.) How many cubic meters is 100 gallons of liquid?",
+    options: ["3.7850 cu.m", "0.1638 cu.m", "0.3785 cu.m", "1.638 cu.m"],
+    correct: "0.3785 cu.m",
+    solution: "100 * 3.785 / 1000 = 0.3785 m3."
+  },
+  {
+    question: "30.) Horsepower output of turbine receiving 1014 lbm/hr steam, work is 251 Btu/lbm?",
+    options: ["100 Hp", "462.7 Hp", "200 Hp", "6002.7 Hp"],
+    correct: "100 Hp",
+    solution: "W = (251 * 1014) / 2545 = 100 hp."
+  },
+  {
+    question: "31.) Pressure when 1 lb air at 15 psia and 200F is heated at constant volume to 800F?",
+    options: ["52.1 psia", "15 psia", "28.6 psia", "36.4 psia"],
+    correct: "28.6 psia",
+    solution: "P2 = P1(T2/T1) = 15 * (1260 / 660) = 28.64 psia."
+  },
+  {
+    question: "32.) How many grams of CO2 in 600 cm3 at 551.43 kPa and 20C? (R=0.18896)",
+    options: ["5.98 g", "6.43 g", "4.63g", "3.83 g"],
+    correct: "5.98 g",
+    solution: "m = PV/RT = (551.43 * 0.0006) / (0.18896 * 293) = 0.00598 kg = 5.98 g."
+  },
+  {
+    question: "33.) Height of water column if bottom absolute pressure is 15.5 psia?",
+    options: ["22 in.", "9.2 in", "12 in", "9.8"],
+    correct: "22 in.",
+    solution: "h = (15.5 - 14.7) * 144 / 62.4 = 1.846 ft = 22.15 in."
+  },
+  {
+    question: "34.) The work done in pushing a fluid across a boundary is called ________",
+    options: ["Potential Energy", "Flow Energy", "Kinetic Energy", "Internal Energy"],
+    correct: "Flow Energy"
+  },
+  {
+    question: "35.) Energy balance for steady flow process is:",
+    options: ["Energy (in) = Energy (out)", "Energy (int) = ΔE", "Energy (in) – Energy (out) = ΔE", "Energy (in) + Energy (out) = ΔE"],
+    correct: "Energy (in) = Energy (out)"
+  },
+  {
+    question: "36. A water temperature rise of 18 oF is equivalent in oC to:",
+    options: ["7.78oC", "10oC", "263.56oK", "-9.44oC"],
+    correct: "10oC",
+    solution: "ΔC = ΔF / 1.8 = 18 / 1.8 = 10 oC."
+  },
+  {
+    question: "37. Composite property defined by sum of internal energy and the product of pressure and volume:",
+    options: ["Heat", "Work", "Enthalpy", "Total Work"],
+    correct: "Enthalpy"
+  },
+  {
+    question: "38. Hydrostatic pressure at bottom of 20m tank (SG 0.88) in kg/cm2?",
+    options: ["1.67", "1.76", "1.56", "1.87"],
+    correct: "1.76",
+    solution: "P = 0.88 * 20 * 0.1 = 1.76 kg/cm2."
+  },
+  {
+    question: "39. Height a vertical column of water will be supported by standard atmospheric pressure?",
+    options: ["34 ft", "36 ft", "24 ft", "26 ft"],
+    correct: "34 ft",
+    solution: "h = 14.7 * 144 / 62.4 = 33.92 ft."
+  },
+  {
+    question: "40. Specific weight 60 lb/ft3 in kN/m3:",
+    options: ["9.334", "9.249", "9.643", "9.420"],
+    correct: "9.420",
+    solution: "60 * (1/2.205) * 0.0098066 * (3.28^3) = 9.42 kN/m3."
+  },
+  {
+    question: "41. Pressure exerted by a 150 lbf cylinder with 40 sq in area in bar?",
+    options: ["14.1 kPa", "58.2 kPa", "0.258 bar", "0.141 bar"],
+    correct: "0.258 bar",
+    solution: "P = 150 / 40 = 3.75 psi. 3.75 * 0.06895 = 0.258 bar."
+  },
+  {
+    question: "42. States that energy is neither created nor destroyed:",
+    options: ["Zeroth Law", "First Law", "Daltons Law", "Archimedes Principle"],
+    correct: "First Law"
+  },
+  {
+    question: "43. Absolute pressure 300 ft below sea surface (SG 1.03)?",
+    options: ["133.9 psia", "148.6 psia", "100.7 psia", "103.7 psia"],
+    correct: "148.6 psia",
+    solution: "P = (62.4 * 1.03 * 300 / 144) + 14.7 = 148.60 psia."
+  },
+  {
+    question: "44. Mass flow rate: air at 2.21 kg/m3, 30 m/s, area 80 cm2?",
+    options: ["0.35 kg/s", "3.5 kg/s", "5.3 kg/s", "0.53 kg/s"],
+    correct: "0.53 kg/s",
+    solution: "m = ρAv = 2.21 * (80/10000) * 30 = 0.5304 kg/s."
+  },
+  {
+    question: "45. Work to accelerate 800-kg car from rest to 100 km/h?",
+    options: ["308.6 kJ", "806.3 kJ", "608.3 kJ", "386 kJ"],
+    correct: "308.6 kJ",
+    solution: "W = 1/2 * 800 * (100/3.6)^2 = 308,642 J = 308.6 kJ."
+  },
+  {
+    question: "46. Heat is energy transferred by virtue of a ________________.",
+    options: ["Pressure difference", "Mass difference", "Volume difference", "Temperature difference"],
+    correct: "Temperature difference"
+  },
+  {
+    question: "47. Speed of a 3220-lbm body after falling 778 ft?",
+    options: ["422 ft/sec", "424 ft/sec", "224 ft/sec", "424 ft/sec"],
+    correct: "224 ft/sec",
+    solution: "v = sqrt(2gh) = sqrt(2 * 32.174 * 778) = 223.75 ft/s."
+  },
+  {
+    question: "48. Flow rate through 4-inch pipe at 11 ft/sec?",
+    options: ["430.84 gpm", "7.18 gpm", "340.28 gpm", "39.16 gpm"],
+    correct: "430.84 gpm",
+    solution: "Q = A * v = π/4 * (4/12)^2 * 11 = 0.96 ft3/s. 0.96 * 7.48 * 60 = 430.84 gpm."
+  },
+  {
+    question: "49. Specific weight 58.5 lbf/ft3, what is specific volume in cm3/g?",
+    options: ["0.5321", "0.6748", "0.9504", "1.0675"],
+    correct: "1.0675",
+    solution: "v = 1/58.5 = 0.0171 ft3/lb. 0.0171 * (30.48^3 / 453.6) = 1.0675 cm3/g."
+  },
+  {
+    question: "50. Pressure when 1 lb air at 0.3 psig and 200F is heated to 800F at constant volume?",
+    options: ["0.572 psig", "28.6 psia", "7.857 psia", "1.2 psig"],
+    correct: "28.6 psia",
+    solution: "P2 = (0.3+14.7) * (1260/660) = 28.64 psia."
+  },
+
+  // --- FLUID MACHINERIES (1-30) ---
+  {
+    question: "1.) Axial fans are best suitable for application:",
+    options: ["Large flow, low head", "High head, large flow", "Low flow, high head", "Low flow, low head"],
+    correct: "Large flow, low head"
+  },
+  {
+    question: "2.) Which of the following axial fan types is most efficient?",
+    options: ["Propeller", "Tube axial", "Vane axial", "Radial"],
+    correct: "Vane axial"
+  },
+  {
+    question: "3.) Constant rotative speed of hydraulic turbine is achieved by a ___________:",
+    options: ["Governor", "Wicket gates", "Runner", "Draft tube"],
+    correct: "Governor"
+  },
+  {
+    question: "4.) A pipe used to carry water from reservoir to a reaction turbine:",
+    options: ["Guide Vane", "Draft Tube", "Wicket Gate", "Penstock"],
+    correct: "Penstock"
+  },
+  {
+    question: "5.) The efficiency of forward curved centrifugal fans compared to backward curved fans is:",
+    options: ["Higher", "Lower", "Same", "None"],
+    correct: "Lower"
+  },
+  {
+    question: "6.) BEP stands for:",
+    options: ["Brake Effective Horsepower", "Best Efficiency Point", "Best Effective Point", "Break Even Point"],
+    correct: "Best Efficiency Point"
+  },
+  {
+    question: "7.) To prevent water hammering in the penstock, turbines are provided with a:",
+    options: ["Surge Tank", "Draft Tube", "Intake Valve", "Flywheel"],
+    correct: "Surge Tank"
+  },
+  {
+    question: "8.) Fan more suitable for high pressure application?",
+    options: ["Propeller", "Tube-axial", "Backward curved centrifugal", "All of the above"],
+    correct: "Backward curved centrifugal"
+  },
+  {
+    question: "9.) Pump impeller with ratio of outside diameter to eye diameter of about 1.5:",
+    options: ["Francis type", "Radial type", "Mixed Flow type", "Axial type"],
+    correct: "Francis type"
+  },
+  {
+    question: "10.) Seal that allows the impeller shaft to pass while maintaining airtightness:",
+    options: ["Sleeve", "Wearing Ring", "Mechanical Seal", "Packing"],
+    correct: "Mechanical Seal"
+  },
+  {
+    question: "11.) Pump performance curve for two identical pumps in series:",
+    options: ["Head is doubled", "Flow is doubled", "Efficiency is doubled", "Power is halved"],
+    correct: "Head is doubled"
+  },
+  {
+    question: "12.) Effect of throttling a valve on system characteristic curves:",
+    options: ["Curve shifts up/left", "Curve shifts down/right", "No change", "Efficiency increases"],
+    correct: "Curve shifts up/left"
+  },
+  {
+    question: "13.) Stationary guide vanes that convert velocity energy to pressure head:",
+    options: ["Diffuser", "Volute Casing", "Impeller", "Impeller vanes"],
+    correct: "Diffuser"
+  },
+  {
+    question: "14.) If two identical centrifugal pumps are installed in parallel the _______________ is doubled.",
+    options: ["Flow rate", "Power", "Head", "Efficiency"],
+    correct: "Flow rate"
+  },
+  {
+    question: "15.) Used to isolate and regulate flow; high pressure drop even when wide open:",
+    options: ["Check Valve", "Ball Valve", "Gate Valve", "Globe Valve"],
+    correct: "Globe Valve"
+  },
+  {
+    question: "16.) Which pipe accessories do not belong to the group?",
+    options: ["Elbows", "Tees", "Unions", "Strainers"],
+    correct: "Strainers"
+  },
+  {
+    question: "17.) Pump known as vortex and periphery pumps:",
+    options: ["Turbine (Regenerative)", "Diaphragm", "Vertical Turbine", "Sliding Vane"],
+    correct: "Turbine (Regenerative)"
+  },
+  {
+    question: "18.) Which pump does not belong to the group?",
+    options: ["Screw Rotary", "Direct Acting Steam", "Diaphragm", "Centrifugal"],
+    correct: "Centrifugal"
+  },
+  {
+    question: "19.) Impellers preferred for handling average waters due to rust resistance:",
+    options: ["Stainless Steel", "Cast-Steel", "Bronze", "Cast-iron"],
+    correct: "Bronze"
+  },
+  {
+    question: "20.) Valve used to prevent backflow:",
+    options: ["Check Valve", "Angle Valve", "Globe Valve", "Gate Valve"],
+    correct: "Check Valve"
+  },
+  {
+    question: "21.) Deep well or bore hole pumps:",
+    options: ["Turbine (Regenerative)", "Screw Pump", "Vertical Turbine", "Sliding Vane"],
+    correct: "Vertical Turbine"
+  },
+  {
+    question: "22.) Pumps for handling thick pulps, sewage, or gritty solids:",
+    options: ["Direct acting", "Lobe pumps", "Vertical Turbine", "Diaphragm"],
+    correct: "Diaphragm"
+  },
+  {
+    question: "23.) Principal pumping member of a rotary pump mounted on the drive shaft:",
+    options: ["Idle Rotors", "Rotor", "Stator", "Driver"],
+    correct: "Rotor"
+  },
+  {
+    question: "24.) Relationship of capacity Q to impeller diameter D in the same pump:",
+    options: ["Q ∝ D^2", "Q ∝ 1/D", "Q ∝ D", "Q ∝ 1/D^2"],
+    correct: "Q ∝ D"
+  },
+  {
+    question: "25.) Relationship of horsepower P to impeller speed N:",
+    options: ["P ∝ 1/N^3", "P ∝ N", "P ∝ 1/N", "P ∝ N^3"],
+    correct: "P ∝ N^3"
+  },
+  {
+    question: "26.) Hydraulic turbine suitable for low head:",
+    options: ["Pelton wheel", "Kaplan turbine", "Francis turbine", "Turgo turbine"],
+    correct: "Kaplan turbine"
+  },
+  {
+    question: "27.) If two identical centrifugal pumps are installed in series, the system flow rate:",
+    options: ["is doubled", "remains the same", "is halved", "zero"],
+    correct: "remains the same"
+  },
+  {
+    question: "28.) Formation and collapse of vapor bubbles:",
+    options: ["sublimation", "water hammering", "oxidation", "cavitation"],
+    correct: "cavitation"
+  },
+  {
+    question: "29.) Filling suction line and casing with liquid to remove air:",
+    options: ["priming", "water hammering", "charging", "pumping"],
+    correct: "priming"
+  },
+  {
+    question: "30.) Which term does not belong to the group?",
+    options: ["gear pump", "vane pump", "screw pump", "diaphragm pump"],
+    correct: "diaphragm pump"
   }
 ]
 };
